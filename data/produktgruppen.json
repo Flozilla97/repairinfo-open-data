@@ -1,0 +1,594 @@
+{
+ "license": "CC BY 4.0",
+ "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+ "publisher": "MMR Labs GmbH",
+ "source": "https://www.repairinfo.app",
+ "updated": "2026-10-13",
+ "note": "Not legal advice.",
+ "stand": "2026-10-13",
+ "quelle": "docs/RECHT.md of repairinfo.app (primary sources read on 13 October 2026): Directive (EU) 2024/825, Delegated Regulations (EU) 2023/1669 and 2025/1353, the ecodesign regulations named per group, Directive (EU) 2024/1799 as amended by Delegated Directive (EU) 2026/74, Article L. 541-9-2 Code de l’environnement and the French ministry’s category lists (8 July 2025).",
+ "hinweis": "pflicht: 'nr20' = repairability score (Art. 6(1)(u) Directive 2011/83/EU, Art. 246a § 1(1) No. 20 EGBGB); 'nr21' = repair information where the producer makes it available (Art. 6(1)(v), No. 21). Ecodesign periods are minimum periods for manufacturers, importers and authorised representatives, not consumer rights. The French indices are national and not EU repairability scores. Not legal advice.",
+ "gruppen": [
+  {
+   "id": "smartphones",
+   "name": {
+    "de": "Smartphones und Tablets",
+    "en": "Smartphones and tablets",
+    "fr": "Smartphones et tablettes"
+   },
+   "pfad": {
+    "de": "/produktgruppen/smartphones-tablets/",
+    "en": "/en/product-groups/smartphones-tablets/",
+    "fr": "/fr/produits/smartphones-tablettes/"
+   },
+   "pflicht": "nr20",
+   "eu_reparierbarkeitsklasse": {
+    "gilt": true,
+    "seit": "2025-06-20",
+    "rechtsakt": "Delegierte Verordnung (EU) 2023/1669"
+   },
+   "oekodesign": {
+    "rechtsakt": "Verordnung (EU) 2023/1670",
+    "gilt_ab": "2025-06-20",
+    "zeitraum": {
+     "de": "mindestens 7 Jahre nach Beendigung des Inverkehrbringens",
+     "en": "at least 7 years after the end of placing on the market"
+    },
+    "lieferzeit_arbeitstage": {
+     "de": "5 in den ersten 5 Jahren, danach 10",
+     "en": "5 in the first 5 years, then 10"
+    }
+   },
+   "anhang_ii_rl_2024_1799": 8,
+   "fr_index": {
+    "art": null,
+    "seit": null,
+    "hinweis": {
+     "de": "indice de réparabilité für Smartphones aufgehoben, in Kraft 07.07.2025; Tablets nicht auf der Liste",
+     "en": "French index for smartphones repealed with effect from 7 July 2025; tablets not listed"
+    }
+   },
+   "beleg": [
+    "R-03",
+    "R-05",
+    "R-08",
+    "R-12",
+    "R-13",
+    "R-14",
+    "R-15",
+    "R-16",
+    "R-17",
+    "R-19",
+    "R-20",
+    "R-30",
+    "R-31",
+    "R-43",
+    "R-44",
+    "R-47",
+    "R-58",
+    "R-62",
+    "R-63",
+    "R-66"
+   ]
+  },
+  {
+   "id": "laptops",
+   "name": {
+    "de": "Laptops",
+    "en": "Laptops",
+    "fr": "Ordinateurs portables"
+   },
+   "pfad": {
+    "de": "/produktgruppen/laptops/",
+    "en": "/en/product-groups/laptops/",
+    "fr": "/fr/produits/ordinateurs-portables/"
+   },
+   "pflicht": "nr21",
+   "eu_reparierbarkeitsklasse": {
+    "gilt": false,
+    "seit": null,
+    "rechtsakt": null
+   },
+   "oekodesign": null,
+   "oekodesign_hinweis": {
+    "de": "keine Ersatzteilfrist im Datensatz ersatzteil-fristen.json; keine der dort ausgewerteten Ökodesign-Verordnungen erfasst Laptops",
+    "en": "no spare parts period in ersatzteil-fristen.json; none of the ecodesign regulations analysed there covers laptops"
+   },
+   "anhang_ii_rl_2024_1799": null,
+   "fr_index": {
+    "art": "indice de réparabilité",
+    "seit": null,
+    "hinweis": {
+     "de": "Kategorie der Ministeriumsliste, Stand 08.07.2025",
+     "en": "category on the ministry list as of 8 July 2025"
+    }
+   },
+   "beleg": [
+    "R-02",
+    "R-03",
+    "R-04",
+    "R-08",
+    "R-11",
+    "R-13",
+    "R-18",
+    "R-30",
+    "R-36",
+    "R-37",
+    "R-39",
+    "R-40",
+    "R-41",
+    "R-43",
+    "R-46",
+    "R-47",
+    "R-60"
+   ]
+  },
+  {
+   "id": "waschmaschinen",
+   "name": {
+    "de": "Waschmaschinen",
+    "en": "Washing machines",
+    "fr": "Lave-linge"
+   },
+   "pfad": {
+    "de": "/produktgruppen/waschmaschinen/",
+    "en": "/en/product-groups/washing-machines/",
+    "fr": "/fr/produits/lave-linge/"
+   },
+   "pflicht": "nr21",
+   "eu_reparierbarkeitsklasse": {
+    "gilt": false,
+    "seit": null,
+    "rechtsakt": null
+   },
+   "oekodesign": {
+    "rechtsakt": "Verordnung (EU) 2019/2023",
+    "gilt_ab": "2021-03-01",
+    "zeitraum": {
+     "de": "Reparateure und Endnutzer je 10 Jahre nach Inverkehrbringen des letzten Exemplars",
+     "en": "professional repairers and end users 10 years each after the last unit is placed on the market"
+    },
+    "lieferzeit_arbeitstage": 15
+   },
+   "anhang_ii_rl_2024_1799": 1,
+   "fr_index": {
+    "art": "indice de durabilité",
+    "seit": "2025-04-08",
+    "hinweis": {
+     "de": "Front- und Toplader; ersetzt den indice de réparabilité",
+     "en": "front and top loaders; replaces the indice de réparabilité"
+    }
+   },
+   "beleg": [
+    "R-03",
+    "R-04",
+    "R-08",
+    "R-11",
+    "R-18",
+    "R-19",
+    "R-21",
+    "R-30",
+    "R-31",
+    "R-34",
+    "R-37",
+    "R-40",
+    "R-41",
+    "R-42",
+    "R-46",
+    "R-47"
+   ]
+  },
+  {
+   "id": "geschirrspueler",
+   "name": {
+    "de": "Geschirrspüler",
+    "en": "Dishwashers",
+    "fr": "Lave-vaisselle"
+   },
+   "pfad": {
+    "de": "/produktgruppen/geschirrspueler/",
+    "en": "/en/product-groups/dishwashers/",
+    "fr": "/fr/produits/lave-vaisselle/"
+   },
+   "pflicht": "nr21",
+   "eu_reparierbarkeitsklasse": {
+    "gilt": false,
+    "seit": null,
+    "rechtsakt": null
+   },
+   "oekodesign": {
+    "rechtsakt": "Verordnung (EU) 2019/2022",
+    "gilt_ab": "2021-03-01",
+    "zeitraum": {
+     "de": "Reparateure 7 Jahre, Endnutzer-Teile 10 Jahre, jeweils nach Inverkehrbringen des letzten Exemplars",
+     "en": "professional repairers 7 years, end-user parts 10 years, each after the last unit is placed on the market"
+    },
+    "lieferzeit_arbeitstage": 15
+   },
+   "anhang_ii_rl_2024_1799": 2,
+   "fr_index": {
+    "art": "indice de réparabilité",
+    "seit": null,
+    "hinweis": {
+     "de": "Kategorie der Ministeriumsliste, Stand 08.07.2025",
+     "en": "category on the ministry list as of 8 July 2025"
+    }
+   },
+   "beleg": [
+    "R-03",
+    "R-04",
+    "R-08",
+    "R-18",
+    "R-19",
+    "R-22",
+    "R-30",
+    "R-31",
+    "R-37",
+    "R-39",
+    "R-40",
+    "R-41",
+    "R-43",
+    "R-46",
+    "R-47"
+   ]
+  },
+  {
+   "id": "kuehlgeraete",
+   "name": {
+    "de": "Kühlgeräte",
+    "en": "Refrigerators",
+    "fr": "Réfrigérateurs"
+   },
+   "pfad": {
+    "de": "/produktgruppen/kuehlgeraete/",
+    "en": "/en/product-groups/refrigerators/",
+    "fr": "/fr/produits/refrigerateurs/"
+   },
+   "pflicht": "nr21",
+   "eu_reparierbarkeitsklasse": {
+    "gilt": false,
+    "seit": null,
+    "rechtsakt": null
+   },
+   "oekodesign": {
+    "rechtsakt": "Verordnung (EU) 2019/2019",
+    "gilt_ab": "2021-03-01",
+    "zeitraum": {
+     "de": "Reparateur-Teile 7 Jahre; Türgriffe, Türscharniere, Einlegeböden, Einschübe 7 Jahre; Türdichtungen 10 Jahre; jeweils nach Inverkehrbringen des letzten Exemplars",
+     "en": "repairer parts 7 years; door handles, hinges, trays and baskets 7 years; door gaskets 10 years; each after the last unit is placed on the market"
+    },
+    "lieferzeit_arbeitstage": 15
+   },
+   "anhang_ii_rl_2024_1799": 3,
+   "fr_index": {
+    "art": null,
+    "seit": null,
+    "hinweis": {
+     "de": "nicht auf der Ministeriumsliste (Stand 08.07.2025)",
+     "en": "not on the ministry list (8 July 2025)"
+    }
+   },
+   "beleg": [
+    "R-03",
+    "R-08",
+    "R-09",
+    "R-18",
+    "R-19",
+    "R-23",
+    "R-30",
+    "R-31",
+    "R-36",
+    "R-37",
+    "R-43",
+    "R-50"
+   ]
+  },
+  {
+   "id": "fernseher",
+   "name": {
+    "de": "Fernseher und Monitore",
+    "en": "TVs and monitors",
+    "fr": "Téléviseurs et écrans"
+   },
+   "pfad": {
+    "de": "/produktgruppen/fernseher-monitore/",
+    "en": "/en/product-groups/tvs-monitors/",
+    "fr": "/fr/produits/televiseurs-ecrans/"
+   },
+   "pflicht": "nr21",
+   "eu_reparierbarkeitsklasse": {
+    "gilt": false,
+    "seit": null,
+    "rechtsakt": null
+   },
+   "oekodesign": {
+    "rechtsakt": "Verordnung (EU) 2019/2021 i. d. F. Verordnung (EU) 2021/341",
+    "gilt_ab": "2021-03-01",
+    "zeitraum": {
+     "de": "Reparateure und Endnutzer je 7 Jahre nach Inverkehrbringen des letzten Exemplars; Firmware und Sicherheitsaktualisierung 8 Jahre",
+     "en": "professional repairers and end users 7 years each after the last unit is placed on the market; firmware and security update 8 years"
+    },
+    "lieferzeit_arbeitstage": 15
+   },
+   "anhang_ii_rl_2024_1799": 4,
+   "fr_index": {
+    "art": "indice de durabilité",
+    "seit": "2025-01-08",
+    "hinweis": {
+     "de": "Fernseher; Monitore stehen nicht auf der Ministeriumsliste",
+     "en": "televisions; monitors are not on the ministry list"
+    }
+   },
+   "beleg": [
+    "R-03",
+    "R-04",
+    "R-08",
+    "R-18",
+    "R-19",
+    "R-24",
+    "R-30",
+    "R-31",
+    "R-37",
+    "R-39",
+    "R-40",
+    "R-41",
+    "R-42",
+    "R-43",
+    "R-46",
+    "R-47"
+   ]
+  },
+  {
+   "id": "waeschetrockner",
+   "name": {
+    "de": "Wäschetrockner",
+    "en": "Tumble dryers",
+    "fr": "Sèche-linge"
+   },
+   "pfad": {
+    "de": "/produktgruppen/waeschetrockner/",
+    "en": "/en/product-groups/tumble-dryers/",
+    "fr": "/fr/produits/seche-linge/"
+   },
+   "pflicht": "nr21; ab 2027-01-01 nr20 für Geräte mit neuem Label (Auslegung, offene Frage)",
+   "eu_reparierbarkeitsklasse": {
+    "gilt": "ab 2027-01-01",
+    "seit": "2027-01-01",
+    "rechtsakt": "Delegierte Verordnung (EU) 2025/1353",
+    "freiwillig_seit": "2025-11-24"
+   },
+   "oekodesign": {
+    "rechtsakt": "Verordnung (EU) 2023/2533 i. d. F. Verordnung (EU) 2025/2262",
+    "gilt_ab": "2025-07-01",
+    "zeitraum": {
+     "de": "Reparateur-Teile ab 01.07.2025 bzw. 2 Jahre nach erstem Exemplar, Endnutzer-Teile ab Inverkehrbringen, jeweils bis frühestens 10 Jahre nach dem letzten Exemplar",
+     "en": "repairer parts from 1 July 2025 or 2 years after the first unit, end-user parts from placing on the market, each until at least 10 years after the last unit"
+    },
+    "lieferzeit_arbeitstage": 15
+   },
+   "anhang_ii_rl_2024_1799": 9,
+   "fr_index": {
+    "art": null,
+    "seit": null,
+    "hinweis": {
+     "de": "nicht auf der Ministeriumsliste (Stand 08.07.2025)",
+     "en": "not on the ministry list (8 July 2025)"
+    }
+   },
+   "beleg": [
+    "R-03",
+    "R-08",
+    "R-12",
+    "R-14",
+    "R-17",
+    "R-18",
+    "R-19",
+    "R-21",
+    "R-27",
+    "R-30",
+    "R-31",
+    "R-32",
+    "R-43"
+   ]
+  },
+  {
+   "id": "staubsauger",
+   "name": {
+    "de": "Staubsauger",
+    "en": "Vacuum cleaners",
+    "fr": "Aspirateurs"
+   },
+   "pfad": {
+    "de": "/produktgruppen/staubsauger/",
+    "en": "/en/product-groups/vacuum-cleaners/",
+    "fr": "/fr/produits/aspirateurs/"
+   },
+   "pflicht": "nr21",
+   "eu_reparierbarkeitsklasse": {
+    "gilt": false,
+    "seit": null,
+    "rechtsakt": null
+   },
+   "oekodesign": null,
+   "oekodesign_hinweis": {
+    "de": "Verordnung (EU) Nr. 666/2013: keine Ersatzteilpflicht; seit 01.09.2017 Haltbarkeit (Schlauch, Motor 500 Stunden) und Demontageinformationen; gilt nur für netzbetriebene Geräte und Hybridgeräte",
+    "en": "Regulation (EU) No 666/2013: no spare parts requirement; since 1 September 2017 durability (hose, motor 500 hours) and disassembly information; mains-operated and hybrid models only"
+   },
+   "anhang_ii_rl_2024_1799": 6,
+   "fr_index": {
+    "art": "indice de réparabilité",
+    "seit": null,
+    "hinweis": {
+     "de": "Kabel, kabellos und Saugroboter; Kategorie der Ministeriumsliste, Stand 08.07.2025",
+     "en": "corded, cordless and robot; ministry list as of 8 July 2025"
+    }
+   },
+   "beleg": [
+    "R-03",
+    "R-04",
+    "R-08",
+    "R-18",
+    "R-28",
+    "R-30",
+    "R-31",
+    "R-39",
+    "R-40",
+    "R-41",
+    "R-43",
+    "R-46",
+    "R-47"
+   ]
+  },
+  {
+   "id": "garten",
+   "name": {
+    "de": "Rasenmäher und Hochdruckreiniger",
+    "en": "Lawn mowers and pressure washers",
+    "fr": "Tondeuses et nettoyeurs haute pression"
+   },
+   "pfad": {
+    "de": "/produktgruppen/rasenmaeher-hochdruckreiniger/",
+    "en": "/en/product-groups/lawn-mowers-pressure-washers/",
+    "fr": "/fr/produits/tondeuses-nettoyeurs/"
+   },
+   "pflicht": "nr21",
+   "eu_reparierbarkeitsklasse": {
+    "gilt": false,
+    "seit": null,
+    "rechtsakt": null
+   },
+   "oekodesign": null,
+   "oekodesign_hinweis": {
+    "de": "keine Ersatzteilfrist im Datensatz ersatzteil-fristen.json",
+    "en": "no spare parts period in ersatzteil-fristen.json"
+   },
+   "anhang_ii_rl_2024_1799": null,
+   "fr_index": {
+    "art": "indice de réparabilité",
+    "seit": null,
+    "hinweis": {
+     "de": "elektrische Rasenmäher (Kabel, Akku, Roboter) und Hochdruckreiniger; Ministeriumsliste, Stand 08.07.2025",
+     "en": "electric lawn mowers (corded, battery, robot) and pressure washers; ministry list as of 8 July 2025"
+    }
+   },
+   "beleg": [
+    "R-03",
+    "R-04",
+    "R-08",
+    "R-18",
+    "R-30",
+    "R-34",
+    "R-36",
+    "R-39",
+    "R-40",
+    "R-41",
+    "R-43",
+    "R-46",
+    "R-47"
+   ]
+  },
+  {
+   "id": "heizgeraete",
+   "name": {
+    "de": "Heizgeräte",
+    "en": "Space heaters",
+    "fr": "Chauffages d’appoint"
+   },
+   "pfad": {
+    "de": "/produktgruppen/heizgeraete/",
+    "en": "/en/product-groups/space-heaters/",
+    "fr": "/fr/produits/chauffages/"
+   },
+   "pflicht": "nr21",
+   "eu_reparierbarkeitsklasse": {
+    "gilt": false,
+    "seit": null,
+    "rechtsakt": null
+   },
+   "oekodesign": {
+    "rechtsakt": "Verordnung (EU) 2024/1103",
+    "gilt_ab": "2025-07-01",
+    "zeitraum": {
+     "de": "geräteartspezifische Reparateur-Teile ab 01.07.2025 bzw. 2 Jahre nach erstem Exemplar, Fernbedienung ab Inverkehrbringen, jeweils bis frühestens 10 Jahre nach dem letzten Exemplar; Software- und Firmware-Updates 10 Jahre",
+     "en": "device-specific repairer parts from 1 July 2025 or 2 years after the first unit, remote control from placing on the market, each until at least 10 years after the last unit; software and firmware updates 10 years"
+    },
+    "lieferzeit_arbeitstage": 10
+   },
+   "anhang_ii_rl_2024_1799": 11,
+   "anhang_ii_hinweis": {
+    "de": "angefügt durch Delegierte Richtlinie (EU) 2026/74, anzuwenden ab 31.07.2026; ob § 479a BGB die Nr. 11 ohne Gesetzesänderung erfasst, ist offen",
+    "en": "added by Delegated Directive (EU) 2026/74, applicable from 31 July 2026"
+   },
+   "fr_index": {
+    "art": null,
+    "seit": null,
+    "hinweis": {
+     "de": "nicht auf der Ministeriumsliste (Stand 08.07.2025)",
+     "en": "not on the ministry list (8 July 2025)"
+    }
+   },
+   "beleg": [
+    "R-03",
+    "R-08",
+    "R-09",
+    "R-18",
+    "R-19",
+    "R-29",
+    "R-30",
+    "R-31",
+    "R-32",
+    "R-37",
+    "R-43"
+   ]
+  },
+  {
+   "id": "andere",
+   "name": {
+    "de": "Andere Waren",
+    "en": "Other goods",
+    "fr": "Autres produits"
+   },
+   "pfad": {
+    "de": "/produktgruppen/andere-waren/",
+    "en": "/en/product-groups/other-goods/",
+    "fr": "/fr/produits/autres-produits/"
+   },
+   "pflicht": "nr21",
+   "eu_reparierbarkeitsklasse": {
+    "gilt": false,
+    "seit": null,
+    "rechtsakt": null
+   },
+   "oekodesign": null,
+   "oekodesign_hinweis": {
+    "de": "für Möbel, Textilien, Fahrräder ohne Motor oder Werkzeug ohne Akku keine Ersatzteilfrist im Datensatz ersatzteil-fristen.json",
+    "en": "no spare parts period in ersatzteil-fristen.json for furniture, textiles, non-electric bicycles or tools without batteries"
+   },
+   "anhang_ii_rl_2024_1799": null,
+   "anhang_ii_hinweis": {
+    "de": "Waren mit Batterien für leichte Verkehrsmittel (z. B. E-Bikes) stehen unter Nr. 10 mit Verweis auf die Verordnung (EU) 2023/1542; deren Pflichten sind nicht ausgewertet",
+    "en": "goods containing batteries for light means of transport (e.g. e-bikes) are No. 10, referring to Regulation (EU) 2023/1542; its obligations are not analysed"
+   },
+   "fr_index": {
+    "art": null,
+    "seit": null,
+    "hinweis": {
+     "de": "nicht auf der Ministeriumsliste (Stand 08.07.2025)",
+     "en": "not on the ministry list (8 July 2025)"
+    }
+   },
+   "beleg": [
+    "R-02",
+    "R-03",
+    "R-04",
+    "R-08",
+    "R-11",
+    "R-18",
+    "R-30",
+    "R-43",
+    "R-56",
+    "R-60"
+   ]
+  }
+ ]
+}

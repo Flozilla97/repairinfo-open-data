@@ -1,0 +1,463 @@
+{
+ "license": "CC BY 4.0",
+ "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+ "publisher": "MMR Labs GmbH",
+ "source": "https://www.repairinfo.app",
+ "updated": "2026-10-13",
+ "note": "Not legal advice.",
+ "stand": "2026-10-13",
+ "quelle": "Official German versions of the regulations named per group (EUR-Lex, read via the Publications Office of the EU), checked against the English versions for periods, recipients and delivery times; Annex II of Directive (EU) 2024/1799 as amended by Delegated Directive (EU) 2026/74. As of 13 October 2026.",
+ "hinweis": "Minimum periods. The requirements apply to manufacturers, importers and authorised representatives, not to retailers; they are product requirements and give buyers no claim of their own. teile_reparateure: parts for professional repairers (fachlich kompetente Reparateure), often restricted to registered repairers; teile_endnutzer: parts for professional repairers and end users. Periods mostly run from the placing on the market of the last unit of a model. lieferzeit_arbeitstage is the maximum delivery time in working days; for smartphones and slate tablets it applies in the first five years of the period, then 10 working days. Empty lists mean no spare parts requirement; null means not evaluated or not applicable (see zeitraum). Parts lists in German (sprache_teile). Not legal advice.",
+ "gruppen": [
+  {
+   "id": "waschmaschinen",
+   "name": {
+    "de": "Haushaltswaschmaschinen und -waschtrockner",
+    "en": "Household washing machines and washer-dryers",
+    "fr": "Lave-linge et lave-linge séchants ménagers"
+   },
+   "verordnung": "Verordnung (EU) 2019/2023",
+   "fundstelle": "Anhang II Nr. 8 Abs. 1, 2; Geltung Art. 12",
+   "gilt_ab": "2021-03-01",
+   "teile_reparateure": [
+    "Motor und Motorkohlen",
+    "Kraftübertragung zwischen Motor und Trommel",
+    "Pumpen",
+    "Stoßdämpfer und Federn",
+    "Waschtrommel, Lagerkreuz mit Kugellagern",
+    "Heizkörper und Heizelemente inkl. Wärmepumpen",
+    "Rohrleitungen inkl. Schläuche, Ventile, Filter, Aquastopps",
+    "Leiterplatten",
+    "elektronische Displays",
+    "Druckschalter",
+    "Thermostate und Sensoren",
+    "Software und Firmware inkl. Reset-Software"
+   ],
+   "teile_endnutzer": [
+    "Tür",
+    "Türscharnier",
+    "Türdichtungen",
+    "sonstige Dichtungen",
+    "Türverriegelungsbaugruppe",
+    "Kunststoffzubehör wie Waschmittelbehälter"
+   ],
+   "sprache_teile": "de",
+   "zeitraum": {
+    "de": "Reparateure und Endnutzer: je 10 Jahre nach Inverkehrbringen des letzten Exemplars",
+    "en": "Professional repairers and end users: 10 years each after the last unit is placed on the market",
+    "fr": "Réparateurs professionnels et utilisateurs finaux : 10 ans chacun après la mise sur le marché de la dernière unité"
+   },
+   "lieferzeit_arbeitstage": 15,
+   "weitere_pflichten": {
+    "de": "Liste der Reparateur-Teile spätestens 2 Jahre nach dem ersten Exemplar online; Liste der Endnutzer-Teile und Reparaturanleitungen ab dem ersten Exemplar online; Reparaturinformationen für registrierte Reparateure. Reparateur-Teile dürfen auf registrierte Reparateure beschränkt werden."
+   },
+   "anhang_ii_rl_2024_1799": 1,
+   "beleg": "R-21"
+  },
+  {
+   "id": "geschirrspueler",
+   "name": {
+    "de": "Haushaltsgeschirrspüler",
+    "en": "Household dishwashers",
+    "fr": "Lave-vaisselle ménagers"
+   },
+   "verordnung": "Verordnung (EU) 2019/2022",
+   "fundstelle": "Anhang II Nr. 5 Abs. 1, 2",
+   "gilt_ab": "2021-03-01",
+   "teile_reparateure": [
+    "Motoren",
+    "Umwälz- und Ablaufpumpen",
+    "Heizkörper und Heizelemente inkl. Wärmepumpen",
+    "Rohrleitungen inkl. Schläuche, Ventile, Filter, Aquastopps",
+    "Struktur- und Innenausstattungsteile in Verbindung mit Türkomponenten",
+    "Leiterplatten",
+    "elektronische Anzeigen",
+    "Druckschalter",
+    "Thermostate und Sensoren",
+    "Software und Firmware inkl. Reset-Software"
+   ],
+   "teile_endnutzer": [
+    "Türscharniere und -dichtungen",
+    "andere Dichtungen",
+    "Sprüharme",
+    "Ablauffilter",
+    "Geschirrkörbe",
+    "Kunststoffzubehör wie Besteckkörbe und Deckel"
+   ],
+   "sprache_teile": "de",
+   "zeitraum": {
+    "de": "Reparateure 7 Jahre, Endnutzer-Teile 10 Jahre, jeweils nach Inverkehrbringen des letzten Exemplars",
+    "en": "Professional repairers 7 years, end-user parts 10 years, each after the last unit is placed on the market",
+    "fr": "Réparateurs professionnels 7 ans, pièces pour utilisateurs finaux 10 ans, à compter de la mise sur le marché de la dernière unité"
+   },
+   "lieferzeit_arbeitstage": 15,
+   "weitere_pflichten": {
+    "de": "Liste der Reparateur-Teile spätestens 2 Jahre nach dem ersten Exemplar online; Liste der Endnutzer-Teile und Reparaturanleitungen ab dem ersten Exemplar online; Reparaturinformationen für registrierte Reparateure. Reparateur-Teile dürfen auf registrierte Reparateure beschränkt werden."
+   },
+   "anhang_ii_rl_2024_1799": 2,
+   "beleg": "R-22"
+  },
+  {
+   "id": "kuehlgeraete",
+   "name": {
+    "de": "Kühlgeräte (ohne Direktverkaufsfunktion)",
+    "en": "Refrigerating appliances (without direct sales function)",
+    "fr": "Appareils de réfrigération (sans fonction de vente directe)"
+   },
+   "verordnung": "Verordnung (EU) 2019/2019",
+   "fundstelle": "Art. 1; Anhang II Nr. 3 Buchst. a, c",
+   "gilt_ab": "2021-03-01",
+   "teile_reparateure": [
+    "Thermostate",
+    "Temperatursensoren",
+    "Leiterplatten",
+    "Lichtquellen"
+   ],
+   "teile_endnutzer": [
+    "Türgriffe",
+    "Türscharniere",
+    "Einlegeböden",
+    "Einschübe",
+    "Türdichtungen (10 Jahre)"
+   ],
+   "sprache_teile": "de",
+   "zeitraum": {
+    "de": "Reparateur-Teile 7 Jahre; Türgriffe, Türscharniere, Einlegeböden, Einschübe 7 Jahre; Türdichtungen 10 Jahre; jeweils nach Inverkehrbringen des letzten Exemplars",
+    "en": "Repairer parts 7 years; door handles, door hinges, trays and baskets 7 years; door gaskets 10 years; each after the last unit is placed on the market",
+    "fr": "Pièces pour réparateurs 7 ans ; poignées, charnières, clayettes et bacs 7 ans ; joints de porte 10 ans ; à compter de la mise sur le marché de la dernière unité"
+   },
+   "lieferzeit_arbeitstage": 15,
+   "weitere_pflichten": {
+    "de": "Teilelisten online; Reparaturinformationen für registrierte Reparateure. Reparateur-Teile dürfen auf registrierte Reparateure beschränkt werden. Kühlgeräte mit Direktverkaufsfunktion fallen nicht unter die Verordnung."
+   },
+   "anhang_ii_rl_2024_1799": 3,
+   "beleg": "R-23"
+  },
+  {
+   "id": "displays",
+   "name": {
+    "de": "Elektronische Displays (u. a. Fernseher, Monitore)",
+    "en": "Electronic displays (including TVs and monitors)",
+    "fr": "Écrans électroniques (dont téléviseurs et moniteurs)"
+   },
+   "verordnung": "Verordnung (EU) 2019/2021, geändert durch Verordnung (EU) 2021/341",
+   "fundstelle": "Anhang II Abschn. D Nr. 5 Buchst. a, c (Nr. 5 Buchst. a Punkt 1 i. d. F. Art. 5 VO (EU) 2021/341); Abschn. E Nr. 1 Buchst. a",
+   "gilt_ab": "2021-03-01",
+   "teile_reparateure": [
+    "internes Netzteil",
+    "Verbindungsteile für externe Geräte (Kabel, Antennen, USB, DVD und Blu-Ray)",
+    "Kondensatoren über 400 Mikrofarad",
+    "Batterien und Akkumulatoren",
+    "DVD-/Blu-Ray-Modul und HD/SSD-Modul (falls zutreffend)"
+   ],
+   "teile_endnutzer": [
+    "externes Netzteil",
+    "Fernbedienung"
+   ],
+   "sprache_teile": "de",
+   "zeitraum": {
+    "de": "Reparateure und Endnutzer: je 7 Jahre nach Inverkehrbringen des letzten Exemplars",
+    "en": "Professional repairers and end users: 7 years each after the last unit is placed on the market",
+    "fr": "Réparateurs professionnels et utilisateurs finaux : 7 ans chacun après la mise sur le marché de la dernière unité"
+   },
+   "lieferzeit_arbeitstage": 15,
+   "weitere_pflichten": {
+    "de": "Letzte Firmware-Version und letzte Sicherheitsaktualisierung mindestens 8 Jahre nach Inverkehrbringen des letzten Exemplars. Reparateur-Teile dürfen auf registrierte Reparateure beschränkt werden."
+   },
+   "anhang_ii_rl_2024_1799": 4,
+   "beleg": "R-24"
+  },
+  {
+   "id": "schweissgeraete",
+   "name": {
+    "de": "Schweißgeräte",
+    "en": "Welding equipment",
+    "fr": "Matériel de soudage"
+   },
+   "verordnung": "Verordnung (EU) 2019/1784",
+   "fundstelle": "Anhang II Nr. 2 Buchst. a, c; Geltung Art. 9",
+   "gilt_ab": "2021-01-01",
+   "teile_reparateure": [
+    "Schalttafel",
+    "Stromquelle(n)",
+    "Gerätegehäuse",
+    "Batterie(n)",
+    "Schweißbrenner",
+    "Gaszufuhrschlauch/-schläuche",
+    "Gaszufuhrregler",
+    "Schweißdraht- oder Zusatzwerkstoffvorschub",
+    "Ventilator(en)",
+    "Stromkabel",
+    "Software und Firmware inkl. Reset-Software"
+   ],
+   "teile_endnutzer": [],
+   "sprache_teile": "de",
+   "zeitraum": {
+    "de": "Reparateure: 10 Jahre nach Herstellung des letzten Exemplars; keine Pflicht gegenüber Endnutzern",
+    "en": "Professional repairers: 10 years after the last unit is manufactured; no requirement towards end users",
+    "fr": "Réparateurs professionnels : 10 ans après la fabrication de la dernière unité ; aucune obligation envers les utilisateurs finaux"
+   },
+   "lieferzeit_arbeitstage": 15,
+   "weitere_pflichten": {
+    "de": "Liste der Teile spätestens 2 Jahre nach dem ersten Exemplar online; Lieferung an den Reparateur. Teile dürfen auf registrierte Reparateure beschränkt werden."
+   },
+   "anhang_ii_rl_2024_1799": 5,
+   "beleg": "R-25"
+  },
+  {
+   "id": "staubsauger",
+   "name": {
+    "de": "Staubsauger (netzbetrieben)",
+    "en": "Vacuum cleaners (mains-operated)",
+    "fr": "Aspirateurs (sur secteur)"
+   },
+   "verordnung": "Verordnung (EU) Nr. 666/2013",
+   "fundstelle": "Art. 1; Anhang I Nr. 1 Buchst. b, Nr. 2 Buchst. b",
+   "gilt_ab": "2017-09-01",
+   "teile_reparateure": [],
+   "teile_endnutzer": [],
+   "sprache_teile": "de",
+   "zeitraum": {
+    "de": "Keine Ersatzteilpflicht",
+    "en": "No spare parts requirement",
+    "fr": "Pas d’obligation de pièces détachées"
+   },
+   "lieferzeit_arbeitstage": null,
+   "weitere_pflichten": {
+    "de": "Haltbarkeit seit 01.09.2017: Schlauch nach 40 000 Schwenkungen unter Belastung noch verwendbar, Motorlebensdauer mindestens 500 Stunden; Informationen zur zerstörungsfreien Demontage zu Wartungszwecken in einem Website-Bereich für professionelle Nutzer. Gilt für netzbetriebene Staubsauger einschließlich Hybridstaubsauger, nicht für akkubetriebene Staubsauger, Saugroboter, Nass-, Industrie- und Zentralstaubsauger. Eine neuere Staubsauger-Verordnung wurde nicht gefunden."
+   },
+   "anhang_ii_rl_2024_1799": 6,
+   "beleg": "R-28"
+  },
+  {
+   "id": "server",
+   "name": {
+    "de": "Server und Datenspeicherprodukte",
+    "en": "Servers and data storage products",
+    "fr": "Serveurs et produits de stockage de données"
+   },
+   "verordnung": "Verordnung (EU) 2019/424",
+   "fundstelle": "Anhang II Nr. 1.2.1, 1.2.3, 3.3",
+   "gilt_ab": "2020-03-01",
+   "teile_reparateure": [],
+   "teile_endnutzer": [],
+   "sprache_teile": "de",
+   "zeitraum": {
+    "de": "Keine Ersatzteilpflicht",
+    "en": "No spare parts requirement",
+    "fr": "Pas d’obligation de pièces détachées"
+   },
+   "lieferzeit_arbeitstage": null,
+   "weitere_pflichten": {
+    "de": "Seit 01.03.2020 dürfen Verbindungs-, Befestigungs- oder Versiegelungstechniken die Demontage von Datenspeichern, Speicher, CPU, Hauptplatine, Erweiterungs- und Grafikkarten, Netzteil, Gehäuse und Batterien nicht verhindern; seit 01.03.2021 neueste Firmware mindestens 8 Jahre nach Inverkehrbringen des letzten Produkts; Demontageanweisungen nach Registrierung kostenlos für 8 Jahre."
+   },
+   "anhang_ii_rl_2024_1799": 7,
+   "beleg": "R-26"
+  },
+  {
+   "id": "smartphones",
+   "name": {
+    "de": "Smartphones",
+    "en": "Smartphones",
+    "fr": "Smartphones"
+   },
+   "verordnung": "Verordnung (EU) 2023/1670, geändert durch Verordnung (EU) 2025/2006",
+   "fundstelle": "Anhang II Teil B Abschn. 1.1 Nr. 1, 3, 4, 6; Nr. 3 Buchst. a i. d. F. VO (EU) 2025/2006",
+   "gilt_ab": "2025-06-20",
+   "teile_reparateure": [
+    "Batterie(n)",
+    "Frontkamerabaugruppe",
+    "rückseitige Kamerabaugruppe",
+    "externe Audio-Anschlüsse",
+    "externe Ladeanschlüsse",
+    "mechanische Tasten",
+    "Hauptmikrofone",
+    "Lautsprecher",
+    "Scharnierbaugruppe",
+    "mechanischer Display-Einklappmechanismus (jeweils sofern vorhanden)"
+   ],
+   "teile_endnutzer": [
+    "Batterie(n) (Hersteller darf sie auf Reparateure beschränken, wenn Restkapazität ≥ 83 % nach 500 und ≥ 80 % nach 1 000 Ladezyklen und IP67)",
+    "Rückwand(-baugruppe), wenn für den Batteriewechsel zu entfernen",
+    "Schutzfolie für klappbares Display",
+    "Displaybaugruppe",
+    "Ladegerät (außer bei Art. 3 Abs. 4 RL 2014/53/EU)",
+    "SIM- und Speicherkartenhalter"
+   ],
+   "sprache_teile": "de",
+   "zeitraum": {
+    "de": "Reparateure und Endnutzer: je 7 Jahre nach Beendigung des Inverkehrbringens",
+    "en": "Professional repairers and end users: 7 years each after the end of placing on the market",
+    "fr": "Réparateurs professionnels et utilisateurs finaux : 7 ans chacun après la fin de la mise sur le marché"
+   },
+   "lieferzeit_arbeitstage": 5,
+   "weitere_pflichten": {
+    "de": "Lieferung in den ersten 5 Jahren des Zeitraums innerhalb von 5 Arbeitstagen, danach innerhalb von 10 Arbeitstagen. Liste und Bestellverfahren online; Richtbeträge der Ersatzteilpreise vor Steuern mindestens in Euro auf frei zugänglicher Website; Betriebssystem-Updates mindestens 5 Jahre nach Beendigung des Inverkehrbringens. Gilt ab 20.06.2025 oder einen Monat nach Inverkehrbringen, je nachdem, was später ist. Teile für Reparateure dürfen auf registrierte Reparateure beschränkt werden."
+   },
+   "anhang_ii_rl_2024_1799": 8,
+   "beleg": "R-20"
+  },
+  {
+   "id": "slate-tablets",
+   "name": {
+    "de": "Slate-Tablets",
+    "en": "Slate tablets",
+    "fr": "Tablettes"
+   },
+   "verordnung": "Verordnung (EU) 2023/1670, geändert durch Verordnung (EU) 2025/2006",
+   "fundstelle": "Anhang II Teil D Abschn. 1.1 Nr. 1, 3, 4, 6; Nr. 3 Buchst. a i. d. F. VO (EU) 2025/2006",
+   "gilt_ab": "2025-06-20",
+   "teile_reparateure": [
+    "Batterie(n)",
+    "Frontkamerabaugruppe",
+    "rückseitige Kamerabaugruppe",
+    "externe Audio-Anschlüsse",
+    "externe Ladeanschlüsse",
+    "mechanische Tasten",
+    "Hauptmikrofone",
+    "Lautsprecher",
+    "Scharnierbaugruppe",
+    "mechanischer Display-Einklappmechanismus (jeweils sofern vorhanden)"
+   ],
+   "teile_endnutzer": [
+    "Batterie(n) (Beschränkung auf Reparateure mit abweichenden Schwellen, u. a. IP42)",
+    "Rückwand(-baugruppe), wenn für den Batteriewechsel zu entfernen",
+    "Schutzfolie für klappbares Display",
+    "Displaybaugruppe",
+    "Ladegerät (außer bei Art. 3 Abs. 4 RL 2014/53/EU)",
+    "SIM- und Speicherkartenhalter"
+   ],
+   "sprache_teile": "de",
+   "zeitraum": {
+    "de": "Reparateure und Endnutzer: je 7 Jahre nach Beendigung des Inverkehrbringens",
+    "en": "Professional repairers and end users: 7 years each after the end of placing on the market",
+    "fr": "Réparateurs professionnels et utilisateurs finaux : 7 ans chacun après la fin de la mise sur le marché"
+   },
+   "lieferzeit_arbeitstage": 5,
+   "weitere_pflichten": {
+    "de": "Lieferung in den ersten 5 Jahren des Zeitraums innerhalb von 5 Arbeitstagen, danach innerhalb von 10 Arbeitstagen. Liste und Bestellverfahren online; Richtbeträge der Ersatzteilpreise vor Steuern mindestens in Euro auf frei zugänglicher Website; Betriebssystem-Updates mindestens 5 Jahre nach Beendigung des Inverkehrbringens. Gilt ab 20.06.2025 oder einen Monat nach Inverkehrbringen, je nachdem, was später ist. Teile für Reparateure dürfen auf registrierte Reparateure beschränkt werden. Für die Beschränkung der Batterie auf Reparateure gelten abweichende Voraussetzungen (u. a. IP42)."
+   },
+   "anhang_ii_rl_2024_1799": 8,
+   "beleg": "R-20"
+  },
+  {
+   "id": "waeschetrockner",
+   "name": {
+    "de": "Haushaltswäschetrockner",
+    "en": "Household tumble dryers",
+    "fr": "Sèche-linge domestiques à tambour"
+   },
+   "verordnung": "Verordnung (EU) 2023/2533, geändert durch Verordnung (EU) 2025/2262",
+   "fundstelle": "Anhang II Nr. 5 Abs. 1, 2 i. d. F. VO (EU) 2025/2262",
+   "gilt_ab": "2025-07-01",
+   "teile_reparateure": [
+    "Dichtungen und Verschlüsse",
+    "Schalter und Knöpfe",
+    "Wasserpumpe",
+    "Motor und Motorkohlen",
+    "Kraftübertragung zwischen Motor und Trommel (z. B. Trommelriemen)",
+    "Lüfter und Lüfterräder",
+    "Trommeln und Trommellager",
+    "Wasserleitungen inkl. Schläuche, Ventile, Filter",
+    "Kabel und Stecker",
+    "Leiterplatten",
+    "elektronische Displays",
+    "Thermostate und Temperatursensoren",
+    "Software und Firmware inkl. Reset-Software",
+    "Stoßdämpfer und Federn",
+    "Heizungen und Heizelemente",
+    "elektrische Sicherungen",
+    "Spannrolle",
+    "Stützrolle",
+    "Druckschalter",
+    "Motorkondensator"
+   ],
+   "teile_endnutzer": [
+    "Türen",
+    "Türdichtungen",
+    "Türgriffe",
+    "Türverriegelungsbaugruppen",
+    "Türscharniere",
+    "Flusenfilter",
+    "Luftfilter",
+    "Kunststoffzubehör",
+    "Kondensatbehälter"
+   ],
+   "sprache_teile": "de",
+   "zeitraum": {
+    "de": "Für Modelle, von denen ab 01.07.2025 Exemplare in Verkehr gebracht werden: Reparateur-Teile ab 01.07.2025 bzw. 2 Jahre nach dem ersten Exemplar (das Spätere) bis frühestens 10 Jahre nach dem letzten Exemplar; Endnutzer-Teile ab Inverkehrbringen bis frühestens 10 Jahre nach dem letzten Exemplar",
+    "en": "For models with units placed on the market from 1 July 2025: repairer parts from 1 July 2025 or 2 years after the first unit (whichever is later) until at least 10 years after the last unit; end-user parts from placing on the market until at least 10 years after the last unit",
+    "fr": "Pour les modèles dont des unités sont mises sur le marché à partir du 1er juillet 2025 : pièces pour réparateurs à partir du 1er juillet 2025 ou 2 ans après la première unité (la date la plus tardive) et jusqu’à au moins 10 ans après la dernière unité ; pièces pour utilisateurs finaux dès la mise sur le marché et jusqu’à au moins 10 ans après la dernière unité"
+   },
+   "lieferzeit_arbeitstage": 15,
+   "weitere_pflichten": {
+    "de": "Liste und Bestellverfahren online; Richtbeträge der Ersatzteilpreise vor Steuern in Euro auf frei zugänglicher Website; Austausch ohne Werkzeug oder mit nicht herstellerspezifischem Werkzeug; Reparierbarkeitsklasse auf dem Energielabel für Geräte, die ab 01.01.2027 in Verkehr gebracht werden (Delegierte Verordnung (EU) 2025/1353)."
+   },
+   "anhang_ii_rl_2024_1799": 9,
+   "beleg": "R-27"
+  },
+  {
+   "id": "batterien-lev",
+   "name": {
+    "de": "Waren mit Batterien für leichte Verkehrsmittel (z. B. E-Bikes)",
+    "en": "Goods with batteries for light means of transport (e.g. e-bikes)",
+    "fr": "Biens avec batteries de moyens de transport légers (p. ex. vélos électriques)"
+   },
+   "verordnung": "Verordnung (EU) 2023/1542",
+   "fundstelle": "Art. 11 (nicht ausgewertet); Anhang II Nr. 10 RL (EU) 2024/1799",
+   "gilt_ab": null,
+   "teile_reparateure": null,
+   "teile_endnutzer": null,
+   "sprache_teile": "de",
+   "zeitraum": {
+    "de": "Nicht ausgewertet",
+    "en": "Not evaluated",
+    "fr": "Non analysé"
+   },
+   "lieferzeit_arbeitstage": null,
+   "weitere_pflichten": {
+    "de": "Nicht ausgewertet: Art. 11 der Verordnung (EU) 2023/1542 wurde für diesen Datensatz nicht gelesen. Die Gruppe steht hier, weil Anhang II der Richtlinie (EU) 2024/1799 sie nennt."
+   },
+   "anhang_ii_rl_2024_1799": 10,
+   "beleg": "R-30"
+  },
+  {
+   "id": "einzelraumheizgeraete",
+   "name": {
+    "de": "Haushalts-Einzelraumheizgeräte",
+    "en": "Domestic local space heaters",
+    "fr": "Dispositifs de chauffage décentralisés domestiques"
+   },
+   "verordnung": "Verordnung (EU) 2024/1103",
+   "fundstelle": "Anhang II Nr. 5 Abs. 1, 2; Art. 1 Delegierte RL (EU) 2026/74",
+   "gilt_ab": "2025-07-01",
+   "teile_reparateure": [
+    "Regler",
+    "Umgebungsthermostat",
+    "Motor (bei Gebläse)",
+    "Leiterplatten",
+    "Displays oder Statusanzeigen",
+    "Laufräder",
+    "Regelungssensoren",
+    "Knöpfe und Schalter",
+    "Fernbedienungssensoren",
+    "bei Speicherheizgeräten zusätzlich u. a. Heizelemente, Sicherheitsschalter, Anschlusskabel"
+   ],
+   "teile_endnutzer": [
+    "Fernbedienung"
+   ],
+   "sprache_teile": "de",
+   "zeitraum": {
+    "de": "Für Modelle, von denen ab 01.07.2025 Exemplare in Verkehr gebracht werden: Reparateur-Teile ab 01.07.2025 bzw. 2 Jahre nach dem ersten Exemplar (das Spätere) bis frühestens 10 Jahre nach dem letzten Exemplar; Fernbedienung ab Inverkehrbringen bis frühestens 10 Jahre nach dem letzten Exemplar",
+    "en": "For models with units placed on the market from 1 July 2025: repairer parts from 1 July 2025 or 2 years after the first unit (whichever is later) until at least 10 years after the last unit; remote control from placing on the market until at least 10 years after the last unit",
+    "fr": "Pour les modèles dont des unités sont mises sur le marché à partir du 1er juillet 2025 : pièces pour réparateurs à partir du 1er juillet 2025 ou 2 ans après la première unité (la date la plus tardive) et jusqu’à au moins 10 ans après la dernière unité ; télécommande dès la mise sur le marché et jusqu’à au moins 10 ans après la dernière unité"
+   },
+   "lieferzeit_arbeitstage": 10,
+   "weitere_pflichten": {
+    "de": "Richtbeträge der Ersatzteilpreise vor Steuern; Software- und Firmware-Aktualisierungen mindestens 10 Jahre kostenlos. Die Teilelisten sind geräteartspezifisch (Anhang II Nr. 5 Abs. 1 Buchst. a); die Liste nennt Beispiele für ortsbewegliche elektrische Geräte. Seit der Delegierten Richtlinie (EU) 2026/74 in Anhang II der Richtlinie (EU) 2024/1799."
+   },
+   "anhang_ii_rl_2024_1799": 11,
+   "beleg": "R-29"
+  }
+ ]
+}

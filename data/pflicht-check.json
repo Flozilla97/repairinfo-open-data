@@ -1,0 +1,759 @@
+{
+ "license": "CC BY 4.0",
+ "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+ "publisher": "MMR Labs GmbH",
+ "source": "https://www.repairinfo.app",
+ "updated": "2026-10-13",
+ "note": "Not legal advice.",
+ "version": "pflicht.v1",
+ "stand": "2026-10-13",
+ "description": "Decision tree of the free obligation check on www.repairinfo.app: which repair information a product needs before purchase under Article 6(1)(u) and (v) of Directive 2011/83/EU as amended by Directive (EU) 2024/825 (Germany: Art. 246a § 1 Abs. 1 Satz 1 Nr. 20, 21 EGBGB), with an extra question on the French repairability and durability index. Open legal questions are marked as open. Not legal advice.",
+ "tool": {
+  "de": "https://www.repairinfo.app/werkzeuge/pflicht-check/",
+  "en": "https://www.repairinfo.app/en/tools/obligation-check/",
+  "fr": "https://www.repairinfo.app/fr/outils/verifier-obligation/"
+ },
+ "start": "kunden",
+ "fragen": {
+  "kunden": {
+   "text": {
+    "de": "An wen verkaufst du?",
+    "en": "Who do you sell to?",
+    "fr": "À qui vendez-vous ?"
+   },
+   "antworten": [
+    {
+     "id": "verbraucher",
+     "text": {
+      "de": "An Verbraucher, auch neben Geschäftskunden",
+      "en": "To consumers, possibly alongside businesses",
+      "fr": "À des consommateurs, éventuellement aussi à des professionnels"
+     },
+     "weiter": "produkt"
+    },
+    {
+     "id": "b2b",
+     "text": {
+      "de": "Nur an Unternehmen",
+      "en": "Only to businesses",
+      "fr": "Uniquement à des professionnels"
+     },
+     "ergebnis": "b2b"
+    }
+   ]
+  },
+  "produkt": {
+   "text": {
+    "de": "Was verkaufst du?",
+    "en": "What are you selling?",
+    "fr": "Que vendez-vous ?"
+   },
+   "hilfe": {
+    "de": "Prüfe ein Produkt nach dem anderen. Ergebnisse lassen sich über die Adresse teilen.",
+    "en": "Check one product at a time. You can share a result via its address.",
+    "fr": "Vérifiez un produit à la fois. Le résultat peut être partagé via son adresse."
+   },
+   "antworten": [
+    {
+     "id": "smartphone",
+     "text": {
+      "de": "Smartphone oder Tablet",
+      "en": "Smartphone or tablet",
+      "fr": "Smartphone ou tablette"
+     },
+     "weiter": "label"
+    },
+    {
+     "id": "trockner",
+     "text": {
+      "de": "Wäschetrockner",
+      "en": "Tumble dryer",
+      "fr": "Sèche-linge"
+     },
+     "weiter": "trockner"
+    },
+    {
+     "id": "geraet",
+     "text": {
+      "de": "Anderes Elektrogerät",
+      "en": "Other electrical appliance",
+      "fr": "Autre appareil électrique"
+     },
+     "hilfe": {
+      "de": "z. B. Waschmaschine, Geschirrspüler, Fernseher, Laptop, Staubsauger",
+      "en": "e.g. washing machine, dishwasher, TV, laptop, vacuum cleaner",
+      "fr": "p. ex. lave-linge, lave-vaisselle, téléviseur, ordinateur portable, aspirateur"
+     },
+     "weiter": "rolle",
+     "zusatz": "oekodesign"
+    },
+    {
+     "id": "ware",
+     "text": {
+      "de": "Andere Ware",
+      "en": "Other goods",
+      "fr": "Autre produit"
+     },
+     "hilfe": {
+      "de": "z. B. Möbel, Fahrrad, Werkzeug, Kleidung",
+      "en": "e.g. furniture, bicycle, tools, clothing",
+      "fr": "p. ex. meuble, vélo, outillage, vêtement"
+     },
+     "weiter": "rolle"
+    },
+    {
+     "id": "digital",
+     "text": {
+      "de": "Nur digitale Inhalte oder Dienstleistungen",
+      "en": "Only digital content or services",
+      "fr": "Uniquement des contenus ou services numériques"
+     },
+     "ergebnis": "digital"
+    }
+   ]
+  },
+  "label": {
+   "text": {
+    "de": "Trägt das Gerät ein Energielabel mit Reparierbarkeitsklasse?",
+    "en": "Does the device carry an energy label with a repairability class?",
+    "fr": "L’appareil porte-t-il une étiquette énergétique avec classe de réparabilité ?"
+   },
+   "hilfe": {
+    "de": "Die Klasse A bis E steht auf dem Etikett und in der EU-Datenbank EPREL. Pflicht ist das Label für Smartphones und Slate-Tablets, die seit dem 20. Juni 2025 in Verkehr gebracht werden.",
+    "en": "The class A to E is printed on the label and listed in the EU database EPREL. The label is mandatory for smartphones and slate tablets placed on the market since 20 June 2025.",
+    "fr": "La classe A à E figure sur l’étiquette et dans la base européenne EPREL. L’étiquette est obligatoire pour les smartphones et tablettes mis sur le marché depuis le 20 juin 2025."
+   },
+   "antworten": [
+    {
+     "id": "ja",
+     "text": {
+      "de": "Ja",
+      "en": "Yes",
+      "fr": "Oui"
+     },
+     "ergebnis": "klasse"
+    },
+    {
+     "id": "nein",
+     "text": {
+      "de": "Nein, älteres Gerät ohne Klasse",
+      "en": "No, an older device without a class",
+      "fr": "Non, appareil plus ancien sans classe"
+     },
+     "weiter": "rolle"
+    },
+    {
+     "id": "unsicher",
+     "text": {
+      "de": "Weiß ich nicht",
+      "en": "I don’t know",
+      "fr": "Je ne sais pas"
+     },
+     "ergebnis": "klasse_suchen"
+    }
+   ]
+  },
+  "trockner": {
+   "text": {
+    "de": "Trägt der Trockner das neue Energielabel mit Reparierbarkeitsklasse?",
+    "en": "Does the dryer carry the new energy label with a repairability class?",
+    "fr": "Le sèche-linge porte-t-il la nouvelle étiquette avec classe de réparabilité ?"
+   },
+   "hilfe": {
+    "de": "Pflicht für Geräte, die ab dem 1. Januar 2027 in Verkehr gebracht werden. Seit dem 24. November 2025 dürfen Lieferanten es freiwillig verwenden.",
+    "en": "Mandatory for appliances placed on the market from 1 January 2027. Suppliers may use it voluntarily since 24 November 2025.",
+    "fr": "Obligatoire pour les appareils mis sur le marché à partir du 1er janvier 2027. Les fournisseurs peuvent l’utiliser volontairement depuis le 24 novembre 2025."
+   },
+   "antworten": [
+    {
+     "id": "ja",
+     "text": {
+      "de": "Ja, mit Klasse A bis E",
+      "en": "Yes, with class A to E",
+      "fr": "Oui, avec classe A à E"
+     },
+     "ergebnis": "klasse_trockner"
+    },
+    {
+     "id": "nein",
+     "text": {
+      "de": "Nein, Label ohne Reparierbarkeitsklasse",
+      "en": "No, label without repairability class",
+      "fr": "Non, étiquette sans classe de réparabilité"
+     },
+     "weiter": "rolle",
+     "zusatz": "trockner_2027"
+    }
+   ]
+  },
+  "rolle": {
+   "text": {
+    "de": "Bist du selbst Hersteller, Eigenmarke oder Importeur dieser Ware?",
+    "en": "Are you the manufacturer, own brand or importer of this product?",
+    "fr": "Êtes-vous vous-même fabricant, titulaire de la marque ou importateur de ce produit ?"
+   },
+   "hilfe": {
+    "de": "Als Hersteller gilt auch, wer seine Marke anbringt oder die Ware in die EU einführt (Art. 2 Nr. 4 Richtlinie (EU) 2019/771).",
+    "en": "Anyone who puts their brand on the goods or imports them into the EU also counts as producer (Article 2(4) Directive (EU) 2019/771).",
+    "fr": "Est aussi considéré comme producteur celui qui appose sa marque sur le produit ou l’importe dans l’UE (article 2, point 4, directive (UE) 2019/771)."
+   },
+   "antworten": [
+    {
+     "id": "nein",
+     "text": {
+      "de": "Nein, ich verkaufe Ware anderer Hersteller",
+      "en": "No, I sell other manufacturers’ products",
+      "fr": "Non, je vends des produits d’autres fabricants"
+     },
+     "weiter": "hersteller"
+    },
+    {
+     "id": "ja",
+     "text": {
+      "de": "Ja, ganz oder teilweise",
+      "en": "Yes, fully or partly",
+      "fr": "Oui, en tout ou en partie"
+     },
+     "ergebnis": "eigenmarke"
+    }
+   ]
+  },
+  "hersteller": {
+   "text": {
+    "de": "Hat der Hersteller dir Angaben zur Reparatur gegeben?",
+    "en": "Has the manufacturer given you repair information?",
+    "fr": "Le fabricant vous a-t-il fourni des informations de réparation ?"
+   },
+   "hilfe": {
+    "de": "Zum Beispiel im Datenblatt, im Händlerportal, auf Verpackung, Etikett oder Anhänger: Ersatzteile, Kosten, Bestellweg, Anleitungen, Einschränkungen.",
+    "en": "For example in the data sheet, the dealer portal, on the packaging, label or tag: spare parts, cost, ordering, manuals, restrictions.",
+    "fr": "Par exemple dans la fiche technique, l’espace revendeur, sur l’emballage ou l’étiquette : pièces, coût, commande, notices, restrictions."
+   },
+   "antworten": [
+    {
+     "id": "ja",
+     "text": {
+      "de": "Ja, zumindest teilweise",
+      "en": "Yes, at least partly",
+      "fr": "Oui, au moins en partie"
+     },
+     "ergebnis": "nr21"
+    },
+    {
+     "id": "nein",
+     "text": {
+      "de": "Nein, oder ich weiß es nicht",
+      "en": "No, or I don’t know",
+      "fr": "Non, ou je ne sais pas"
+     },
+     "ergebnis": "nr21_anfrage"
+    }
+   ]
+  },
+  "fr_smart": {
+   "text": {
+    "de": "Verkaufst du auch an Verbraucher in Frankreich?",
+    "en": "Do you also sell to consumers in France?",
+    "fr": "Vendez-vous aussi à des consommateurs en France ?"
+   },
+   "antworten": [
+    {
+     "id": "ja",
+     "text": {
+      "de": "Ja",
+      "en": "Yes",
+      "fr": "Oui"
+     },
+     "zusatz": "fr_smartphone"
+    },
+    {
+     "id": "nein",
+     "text": {
+      "de": "Nein",
+      "en": "No",
+      "fr": "Non"
+     }
+    }
+   ]
+  },
+  "fr": {
+   "text": {
+    "de": "Verkaufst du das Produkt auch an Verbraucher in Frankreich?",
+    "en": "Do you also sell this product to consumers in France?",
+    "fr": "Vendez-vous ce produit à des consommateurs en France ?"
+   },
+   "antworten": [
+    {
+     "id": "reparabilite",
+     "text": {
+      "de": "Ja, einen Laptop, Geschirrspüler, Staubsauger, Hochdruckreiniger oder elektrischen Rasenmäher",
+      "en": "Yes, a laptop, dishwasher, vacuum cleaner, pressure washer or electric lawn mower",
+      "fr": "Oui, un ordinateur portable, lave-vaisselle, aspirateur, nettoyeur haute pression ou une tondeuse électrique"
+     },
+     "zusatz": "fr_reparabilite"
+    },
+    {
+     "id": "durabilite",
+     "text": {
+      "de": "Ja, einen Fernseher oder eine Waschmaschine",
+      "en": "Yes, a TV or a washing machine",
+      "fr": "Oui, un téléviseur ou un lave-linge"
+     },
+     "zusatz": "fr_durabilite"
+    },
+    {
+     "id": "andere",
+     "text": {
+      "de": "Ja, ein anderes Produkt",
+      "en": "Yes, another product",
+      "fr": "Oui, un autre produit"
+     },
+     "zusatz": "fr_kein"
+    },
+    {
+     "id": "nein",
+     "text": {
+      "de": "Nein",
+      "en": "No",
+      "fr": "Non"
+     }
+    }
+   ]
+  }
+ },
+ "ergebnisse": {
+  "b2b": {
+   "ton": "gruen",
+   "kennzeile": {
+    "de": "Keine Angabe nach Nr. 20 und 21",
+    "en": "No repair information required",
+    "fr": "Pas d’information requise"
+   },
+   "titel": {
+    "de": "Für reine B2B-Verkäufe nicht nötig",
+    "en": "Not needed for business-only sales",
+    "fr": "Inutile pour les ventes entre professionnels"
+   },
+   "text": {
+    "de": "Die Angaben sind nur Verbrauchern geschuldet. Verkaufst du auch an Privatkunden, gilt die Pflicht für diese Verkäufe.",
+    "en": "The information is owed to consumers only. If you also sell to private customers, the duty applies to those sales.",
+    "fr": "Ces informations ne sont dues qu’aux consommateurs. Si vous vendez aussi à des particuliers, l’obligation s’applique à ces ventes."
+   },
+   "fundstellen": {
+    "de": "§ 312 Abs. 1 BGB; Art. 246a § 1 EGBGB",
+    "en": "Article 6(1) Directive 2011/83/EU",
+    "fr": "Article 6, paragraphe 1, directive 2011/83/UE"
+   },
+   "links": [
+    [
+     "betroffen",
+     {
+      "de": "Wer betroffen ist",
+      "en": "Who is affected",
+      "fr": "Qui est concerné"
+     }
+    ]
+   ]
+  },
+  "digital": {
+   "ton": "grau",
+   "kennzeile": {
+    "de": "Nr. 20 und 21 betreffen Waren",
+    "en": "The rule covers goods",
+    "fr": "La règle vise les biens"
+   },
+   "titel": {
+    "de": "Für digitale Inhalte und Dienstleistungen nicht einschlägig",
+    "en": "Not relevant for digital content and services",
+    "fr": "Sans objet pour les contenus et services numériques"
+   },
+   "text": {
+    "de": "Reparierbarkeitswert und Reparaturinformationen beziehen sich auf Waren. Für digitale Inhalte und Dienstleistungen gelten andere Informationspflichten, die dieser Check nicht prüft.",
+    "en": "The repairability score and repair information relate to goods. Digital content and services have other information duties, which this check does not cover.",
+    "fr": "L’indice de réparabilité et les informations de réparation portent sur des biens. Les contenus et services numériques ont d’autres obligations d’information, que cette vérification ne couvre pas."
+   },
+   "fundstellen": {
+    "de": "Art. 246a § 1 Abs. 1 Satz 1 Nr. 21 EGBGB",
+    "en": "Article 6(1)(v) Directive 2011/83/EU (Germany: Art. 246a § 1 Nr. 21 EGBGB)",
+    "fr": "Article 6, paragraphe 1, point v), directive 2011/83/UE"
+   },
+   "links": [
+    [
+     "pflicht",
+     {
+      "de": "Die Pflicht im Überblick",
+      "en": "The requirement explained",
+      "fr": "L’obligation en détail"
+     }
+    ]
+   ]
+  },
+  "klasse": {
+   "ton": "rot",
+   "kennzeile": {
+    "de": "Pflicht nach Nr. 20",
+    "en": "Repairability score required",
+    "fr": "Indice de réparabilité de l’UE requis"
+   },
+   "titel": {
+    "de": "Zeige die Reparierbarkeitsklasse",
+    "en": "Show the repairability class",
+    "fr": "Affichez la classe de réparabilité"
+   },
+   "text": {
+    "de": "Für dein Gerät gibt es einen Reparierbarkeitswert der Union: die Klasse A bis E vom Energielabel, berechnet aus dem Reparierbarkeitsindex (Verordnung (EU) 2023/1669). Er gehört vor dem Kauf auf die Produktseite. Ob die Klasse oder der Index gemeint ist, ist nicht entschieden; wer beides zeigt, deckt beide Lesarten ab. Ersatzteil-Angaben sind dann freiwillig. Das Energielabel selbst zeigst du zusätzlich nahe dem Preis.",
+    "en": "Your device has an EU repairability score: the class A to E from the energy label, derived from the repairability index (Regulation (EU) 2023/1669). It belongs on the product page before purchase. Whether the class or the index is meant is not settled; showing both covers both readings. Spare parts information is then optional. Show the energy label itself near the price as well.",
+    "fr": "Votre appareil a un indice de réparabilité de l’UE : la classe A à E de l’étiquette énergétique, issue de l’indice de réparabilité calculé selon le règlement (UE) 2023/1669. Elle doit figurer sur la fiche produit avant l’achat. La règle ne précise pas si la classe ou l’indice est visé ; afficher les deux couvre les deux lectures. Les informations sur les pièces sont alors facultatives. L’étiquette énergétique elle-même s’affiche en plus près du prix."
+   },
+   "fundstellen": {
+    "de": "Art. 246a § 1 Abs. 1 Satz 1 Nr. 20 EGBGB; VO (EU) 2023/1669 Anh. II, Anh. VIII",
+    "en": "Article 6(1)(u) Directive 2011/83/EU; Regulation (EU) 2023/1669 Annexes II and VIII",
+    "fr": "Article 6, paragraphe 1, point u), directive 2011/83/UE ; règlement (UE) 2023/1669, annexes II et VIII"
+   },
+   "links": [
+    [
+     "tool-eprel",
+     {
+      "de": "Klasse in EPREL abfragen",
+      "en": "Look up the class in EPREL",
+      "fr": "Trouver la classe dans EPREL"
+     }
+    ],
+    [
+     "shopify",
+     {
+      "de": "Für alle Produkte: Shopify-App",
+      "en": "For every product: Shopify app",
+      "fr": "Pour tous les produits : application Shopify"
+     }
+    ]
+   ],
+   "nachfrage": "fr_smart"
+  },
+  "klasse_suchen": {
+   "ton": "gelb",
+   "kennzeile": {
+    "de": "Wahrscheinlich Nr. 20",
+    "en": "Probably the repairability class",
+    "fr": "Probablement la classe de l’UE"
+   },
+   "titel": {
+    "de": "Prüfe, ob dein Gerät eine Klasse hat",
+    "en": "Check whether your device has a class",
+    "fr": "Vérifiez si votre appareil a une classe"
+   },
+   "text": {
+    "de": "Die EPREL-Registriernummer steht in der Bedienungsanleitung oder den Produktunterlagen (als Nummer, Link oder QR-Code) und im Produktdatenblatt; sonst frage den Hersteller. Mit der Nummer fragst du die Klasse ab. Gibt es eine, zeige sie auf der Produktseite. Gibt es keine, gelten die Ersatzteil-Angaben nach Nr. 21.",
+    "en": "The EPREL registration number is given in the user manual or product documents (as a number, link or QR code) and in the product information sheet; otherwise ask the manufacturer. Use it to look up the class. If there is one, show it on the product page. If not, the spare parts information applies instead.",
+    "fr": "Le numéro d’enregistrement EPREL figure dans la notice ou les documents du produit (numéro, lien ou QR code) et dans la fiche d’information produit ; sinon, demandez-le au fabricant. Il permet de retrouver la classe. S’il y en a une, affichez-la sur la fiche produit. Sinon, ce sont les informations sur les pièces détachées qui s’appliquent."
+   },
+   "fundstellen": {
+    "de": "Art. 246a § 1 Abs. 1 Satz 1 Nr. 20 EGBGB",
+    "en": "Article 6(1)(u) Directive 2011/83/EU (Germany: Art. 246a § 1 Nr. 20 EGBGB)",
+    "fr": "Article 6, paragraphe 1, point u), directive 2011/83/UE"
+   },
+   "links": [
+    [
+     "tool-eprel",
+     {
+      "de": "EPREL-Abfrage",
+      "en": "EPREL lookup",
+      "fr": "Recherche EPREL"
+     }
+    ],
+    [
+     "eprel",
+     {
+      "de": "Wo die Nummer steht",
+      "en": "Where to find the number",
+      "fr": "Où trouver le numéro"
+     }
+    ]
+   ],
+   "nachfrage": "fr_smart"
+  },
+  "klasse_trockner": {
+   "ton": "rot",
+   "kennzeile": {
+    "de": "Nr. 20 mit dem neuen Label",
+    "en": "Repairability score with the new label",
+    "fr": "Classe de l’UE avec la nouvelle étiquette"
+   },
+   "titel": {
+    "de": "Zeige die Reparierbarkeitsklasse des Trockners",
+    "en": "Show the dryer’s repairability class",
+    "fr": "Affichez la classe de réparabilité du sèche-linge"
+   },
+   "text": {
+    "de": "Mit der Delegierten Verordnung (EU) 2025/1353 gibt es für Wäschetrockner eine Reparierbarkeitsklasse A bis E, Pflicht auf dem Label für Geräte ab dem 1. Januar 2027. Trägt dein Gerät die Klasse, zeige sie auf der Produktseite. Die Skala unterscheidet sich von der für Smartphones.",
+    "en": "Delegated Regulation (EU) 2025/1353 introduces a repairability class A to E for tumble dryers, mandatory on the label for appliances from 1 January 2027. If your appliance carries the class, show it on the product page. The scale differs from the one for smartphones.",
+    "fr": "Le règlement délégué (UE) 2025/1353 crée une classe de réparabilité A à E pour les sèche-linge, obligatoire sur l’étiquette pour les appareils mis sur le marché à partir du 1er janvier 2027. Si votre appareil la porte, affichez-la sur la fiche produit. L’échelle diffère de celle des smartphones."
+   },
+   "fundstellen": {
+    "de": "Art. 246a § 1 Abs. 1 Satz 1 Nr. 20 EGBGB; Delegierte VO (EU) 2025/1353",
+    "en": "Article 6(1)(u) Directive 2011/83/EU; Delegated Regulation (EU) 2025/1353",
+    "fr": "Article 6, paragraphe 1, point u), directive 2011/83/UE ; règlement délégué (UE) 2025/1353"
+   },
+   "links": [
+    [
+     "reparierbarkeitsklasse",
+     {
+      "de": "Klassen und Skalen",
+      "en": "Classes and scales",
+      "fr": "Classes et échelles"
+     }
+    ],
+    [
+     "pflicht",
+     {
+      "de": "Die Pflicht im Überblick",
+      "en": "The requirement explained",
+      "fr": "L’obligation en détail"
+     }
+    ]
+   ],
+   "nachfrage": "fr"
+  },
+  "eigenmarke": {
+   "ton": "gelb",
+   "kennzeile": {
+    "de": "Offene Rechtsfrage",
+    "en": "Open legal question",
+    "fr": "Question juridique ouverte"
+   },
+   "titel": {
+    "de": "Hersteller, Eigenmarke oder Importeur: zwei Lesarten",
+    "en": "Manufacturer, own brand or importer: two readings",
+    "fr": "Fabricant, marque propre ou importateur : deux lectures"
+   },
+   "text": {
+    "de": "Ob die Bedingung „sofern der Hersteller dem Unternehmer diese Informationen zur Verfügung stellt“ auch gilt, wenn du selbst Hersteller bist, ist nicht entschieden. Nach der einen Lesart stehen dir die Angaben zur Verfügung, also zeigst du sie; dafür spricht Erwägungsgrund 36. Nach der anderen löst erst die Weitergabe zwischen zwei Personen die Pflicht aus. Die Shopify-App folgt der ersten Lesart. Daneben kannst du eigene Pflichten als Hersteller oder Importeur haben, etwa Ersatzteile nach den Ökodesign-Verordnungen.",
+    "en": "Whether the condition “provided that the producer makes the information available to the trader” applies when you are the producer yourself is not settled. One reading: the information is available to you, so you show it; recital 36 supports this. The other: only a transfer between two persons triggers the duty. The Shopify app follows the first reading. You may also have your own duties as manufacturer or importer, such as spare parts under the ecodesign regulations.",
+    "fr": "La condition « à condition que le producteur mette les informations à disposition du professionnel » s’applique-t-elle si vous êtes vous-même le producteur ? La question n’est pas tranchée. Selon une lecture, les informations sont à votre disposition et vous les affichez ; le considérant 36 va dans ce sens. Selon l’autre, seule une transmission entre deux personnes déclenche l’obligation. L’application Shopify suit la première lecture. Vous pouvez aussi avoir vos propres obligations de fabricant ou d’importateur, par exemple sur les pièces détachées (écoconception)."
+   },
+   "fundstellen": {
+    "de": "Nr. 21 EGBGB; Erwägungsgrund 36 RL (EU) 2024/825; Art. 2 Nr. 4 RL (EU) 2019/771",
+    "en": "Article 6(1)(v) Directive 2011/83/EU; recital 36 Directive (EU) 2024/825; Article 2(4) Directive (EU) 2019/771",
+    "fr": "Article 6, paragraphe 1, point v), directive 2011/83/UE ; considérant 36, directive (UE) 2024/825 ; article 2, point 4, directive (UE) 2019/771"
+   },
+   "links": [
+    [
+     "hersteller",
+     {
+      "de": "Beide Lesarten im Detail",
+      "en": "Both readings in detail",
+      "fr": "Les deux lectures en détail"
+     }
+    ],
+    [
+     "ersatzteile-fristen",
+     {
+      "de": "Ersatzteil-Pflichten der Hersteller",
+      "en": "Manufacturers’ spare parts duties",
+      "fr": "Obligations des fabricants sur les pièces"
+     }
+    ]
+   ],
+   "nachfrage": "fr"
+  },
+  "nr21": {
+   "ton": "rot",
+   "kennzeile": {
+    "de": "Pflicht nach Nr. 21",
+    "en": "Repair information required",
+    "fr": "Informations de réparation requises"
+   },
+   "titel": {
+    "de": "Zeige die Angaben des Herstellers",
+    "en": "Show the manufacturer’s information",
+    "fr": "Affichez les informations du fabricant"
+   },
+   "text": {
+    "de": "Für deine Ware gibt es keinen Reparierbarkeitswert der Union. Zeige deshalb vor dem Kauf, was der Hersteller dir gibt: Verfügbarkeit, geschätzte Kosten und Bestellweg von Ersatzteilen, Reparatur- und Wartungsanleitungen und Reparatureinschränkungen.",
+    "en": "There is no EU repairability score for your product. Show what the manufacturer gives you before purchase: availability, estimated cost and ordering procedure of spare parts, repair and maintenance instructions, and repair restrictions.",
+    "fr": "Votre produit n’a pas d’indice de réparabilité de l’UE. Affichez donc avant l’achat ce que le fabricant vous fournit : disponibilité, coût estimé et procédure de commande des pièces détachées, instructions de réparation et d’entretien, restrictions de réparation."
+   },
+   "fundstellen": {
+    "de": "Art. 246a § 1 Abs. 1 Satz 1 Nr. 21 EGBGB",
+    "en": "Article 6(1)(v) Directive 2011/83/EU (Germany: Art. 246a § 1 Nr. 21 EGBGB)",
+    "fr": "Article 6, paragraphe 1, point v), directive 2011/83/UE"
+   },
+   "links": [
+    [
+     "tool-barcode",
+     {
+      "de": "Angaben per Barcode finden",
+      "en": "Find data by barcode",
+      "fr": "Chercher par code-barres"
+     }
+    ],
+    [
+     "reparaturinformationen",
+     {
+      "de": "Was genau auf die Seite gehört",
+      "en": "What exactly to show",
+      "fr": "Ce qu’il faut afficher"
+     }
+    ],
+    [
+     "shopify",
+     {
+      "de": "Für alle Produkte: Shopify-App",
+      "en": "For every product: Shopify app",
+      "fr": "Pour tous les produits : application Shopify"
+     }
+    ]
+   ],
+   "nachfrage": "fr"
+  },
+  "nr21_anfrage": {
+   "ton": "gelb",
+   "kennzeile": {
+    "de": "Nr. 21, sobald der Hersteller liefert",
+    "en": "Required once the manufacturer provides it",
+    "fr": "Requis dès que le fabricant fournit"
+   },
+   "titel": {
+    "de": "Frage beim Hersteller an und halte es fest",
+    "en": "Ask the manufacturer and keep a record",
+    "fr": "Interrogez le fabricant et gardez une trace"
+   },
+   "text": {
+    "de": "Die Angaben nach Nr. 21 schuldest du, soweit der Hersteller sie dir zur Verfügung stellt. Auf Herstellerwebsites suchen musst du nach Erwägungsgrund 36 nicht. Frage einmal je Hersteller an und hebe Anfrage und Antwort auf; ob du im Streitfall belegen musst, dass nichts kam, ist offen. Für viele Geräte findest du Ersatzteil-Jahre und Anleitungen schon per Barcode.",
+    "en": "You owe the information to the extent the manufacturer makes it available to you. Recital 36 says you need not search manufacturer websites. Ask each manufacturer once and keep the request and any reply; whether you must prove that nothing came is an open question. For many appliances, spare parts years and manuals can already be found by barcode.",
+    "fr": "Ces informations sont dues dans la mesure où le fabricant vous les fournit. Selon le considérant 36, vous n’avez pas à les chercher sur les sites des fabricants. Interrogez chaque fabricant une fois et conservez la demande et la réponse ; la question de savoir si vous devez prouver l’absence de réponse reste ouverte. Pour de nombreux appareils, la durée des pièces et les notices se trouvent déjà par code-barres."
+   },
+   "fundstellen": {
+    "de": "Nr. 21 EGBGB; Erwägungsgrund 36 RL (EU) 2024/825; § 312m Abs. 2 BGB",
+    "en": "Article 6(1)(v) Directive 2011/83/EU; recital 36 Directive (EU) 2024/825",
+    "fr": "Article 6, paragraphe 1, point v), directive 2011/83/UE ; considérant 36, directive (UE) 2024/825"
+   },
+   "links": [
+    [
+     "tool-anfrage",
+     {
+      "de": "Anfrage schreiben",
+      "en": "Write the request",
+      "fr": "Rédiger la demande"
+     }
+    ],
+    [
+     "tool-barcode",
+     {
+      "de": "Barcode-Check",
+      "en": "Barcode check",
+      "fr": "Recherche par code-barres"
+     }
+    ],
+    [
+     "hersteller",
+     {
+      "de": "Wenn nichts kommt",
+      "en": "If nothing comes",
+      "fr": "Sans réponse"
+     }
+    ]
+   ],
+   "nachfrage": "fr"
+  }
+ },
+ "zusaetze": {
+  "oekodesign": {
+   "titel": {
+    "de": "Ersatzteile bei Elektrogeräten",
+    "en": "Spare parts for electrical appliances",
+    "fr": "Pièces détachées des appareils électriques"
+   },
+   "text": {
+    "de": "Für viele Haushaltsgeräte, Displays und Smartphones müssen Hersteller bestimmte Ersatzteile 7 bis 10 Jahre bereithalten (Ökodesign-Verordnungen). Das hilft bei der Anfrage, ersetzt aber nicht die Angaben, die der Hersteller dir gibt.",
+    "en": "For many household appliances, displays and smartphones, manufacturers must keep certain spare parts available for 7 to 10 years (ecodesign regulations). This helps with your request but does not replace the information the manufacturer gives you.",
+    "fr": "Pour de nombreux appareils ménagers, écrans et smartphones, les fabricants doivent garder certaines pièces disponibles pendant 7 à 10 ans (règlements d’écoconception). Cela aide pour votre demande, sans remplacer les informations que le fabricant vous fournit."
+   },
+   "fundstellen": {
+    "de": "z. B. VO (EU) 2019/2022, 2019/2023, 2023/1670",
+    "en": "e.g. Regulations (EU) 2019/2022, 2019/2023, 2023/1670",
+    "fr": "p. ex. règlements (UE) 2019/2022, 2019/2023, 2023/1670"
+   }
+  },
+  "trockner_2027": {
+   "titel": {
+    "de": "Wäschetrockner ab 2027",
+    "en": "Tumble dryers from 2027",
+    "fr": "Sèche-linge à partir de 2027"
+   },
+   "text": {
+    "de": "Für Trockner, die ab dem 1. Januar 2027 in Verkehr gebracht werden, kommt die Reparierbarkeitsklasse aufs Label. Ob für ältere Geräte ohne Klasse dann weiter Nr. 21 gilt, ist offen.",
+    "en": "Dryers placed on the market from 1 January 2027 carry the repairability class on the label. Whether older appliances without a class remain under the spare parts rule is an open question.",
+    "fr": "Les sèche-linge mis sur le marché à partir du 1er janvier 2027 portent la classe de réparabilité sur l’étiquette. Pour les appareils plus anciens sans classe, la règle applicable reste ouverte."
+   },
+   "fundstellen": {
+    "de": "Delegierte VO (EU) 2025/1353",
+    "en": "Delegated Regulation (EU) 2025/1353",
+    "fr": "Règlement délégué (UE) 2025/1353"
+   }
+  },
+  "fr_smartphone": {
+   "titel": {
+    "de": "Frankreich: kein eigener Index mehr für Smartphones",
+    "en": "France: no national index for smartphones any more",
+    "fr": "France : plus d’indice français pour les smartphones"
+   },
+   "text": {
+    "de": "Seit dem 7. Juli 2025 gibt es in Frankreich keinen indice de réparabilité für Smartphones mehr. Dort gilt die EU-Klasse wie überall in der EU.",
+    "en": "Since 7 July 2025, France no longer has an indice de réparabilité for smartphones. The EU class applies there as everywhere in the EU.",
+    "fr": "Depuis le 7 juillet 2025, l’indice de réparabilité français ne s’applique plus aux smartphones. C’est la classe de réparabilité de l’UE qui s’affiche, comme partout dans l’UE."
+   },
+   "fundstellen": {
+    "de": "Arrêté vom 26.06.2025",
+    "en": "Arrêté of 26 June 2025",
+    "fr": "Arrêté du 26 juin 2025"
+   }
+  },
+  "fr_reparabilite": {
+   "titel": {
+    "de": "Frankreich: indice de réparabilité",
+    "en": "France: indice de réparabilité",
+    "fr": "France : indice de réparabilité"
+   },
+   "text": {
+    "de": "Für dieses Produkt verlangt Frankreich zusätzlich den indice de réparabilité: eine Note auf zehn, sichtbar nahe dem Preis, die Parameter mit höchstens einem Klick erreichbar. Er ist ein französischer Wert, kein Reparierbarkeitswert der Union. Ob die Pflicht auch Shops ohne Niederlassung in Frankreich trifft, ist offen.",
+    "en": "For this product, France also requires the indice de réparabilité: a score out of ten, visible near the price, with its parameters at most one click away. It is a French score, not an EU repairability score. Whether it applies to shops without an establishment in France is an open question.",
+    "fr": "Pour ce produit, l’indice de réparabilité français s’affiche en plus : une note sur dix, visible près du prix, avec les paramètres accessibles en une action au plus. C’est un indice national, distinct de la classe de réparabilité de l’UE."
+   },
+   "fundstellen": {
+    "de": "Art. L. 541-9-2 und R. 541-213 Code de l’environnement",
+    "en": "Articles L. 541-9-2 and R. 541-213 French Environmental Code",
+    "fr": "Articles L. 541-9-2 et R. 541-213 du Code de l’environnement"
+   }
+  },
+  "fr_durabilite": {
+   "titel": {
+    "de": "Frankreich: indice de durabilité",
+    "en": "France: indice de durabilité",
+    "fr": "France : indice de durabilité"
+   },
+   "text": {
+    "de": "Für Fernseher (seit 8. Januar 2025) und Waschmaschinen (seit 8. April 2025) hat in Frankreich der indice de durabilité den Reparierbarkeitsindex ersetzt: eine Note von 0 bis 10, sichtbar nahe dem Preis.",
+    "en": "For TVs (since 8 January 2025) and washing machines (since 8 April 2025), France replaced the repairability index with the indice de durabilité: a score from 0 to 10, visible near the price.",
+    "fr": "Pour les téléviseurs (depuis le 8 janvier 2025) et les lave-linge (depuis le 8 avril 2025), l’indice de durabilité a remplacé l’indice de réparabilité : une note de 0 à 10, visible près du prix."
+   },
+   "fundstellen": {
+    "de": "Art. L. 541-9-2 II Code de l’environnement; Décret n° 2024-316",
+    "en": "Article L. 541-9-2 II French Environmental Code; Décret n° 2024-316",
+    "fr": "Article L. 541-9-2 II du Code de l’environnement ; décret n° 2024-316"
+   }
+  },
+  "fr_kein": {
+   "titel": {
+    "de": "Frankreich: kein Index für dieses Produkt",
+    "en": "France: no index for this product",
+    "fr": "France : pas d’indice pour ce produit"
+   },
+   "text": {
+    "de": "Den französischen Index gibt es für Laptops, elektrische Rasenmäher, Geschirrspüler, Staubsauger und Hochdruckreiniger, den indice de durabilité für Fernseher und Waschmaschinen (Stand 8. Juli 2025).",
+    "en": "The French index covers laptops, electric lawn mowers, dishwashers, vacuum cleaners and pressure washers, the indice de durabilité covers TVs and washing machines (as of 8 July 2025).",
+    "fr": "L’indice de réparabilité concerne les ordinateurs portables, tondeuses électriques, lave-vaisselle, aspirateurs et nettoyeurs haute pression ; l’indice de durabilité les téléviseurs et lave-linge (au 8 juillet 2025)."
+   }
+  }
+ }
+}

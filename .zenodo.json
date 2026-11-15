@@ -1,0 +1,14 @@
+{
+  "upload_type": "dataset",
+  "title": "repairinfo open data: repairability and durability of electrical devices (EPREL, data.gouv.fr)",
+  "description": "<p>Open data on the repairability and durability of electrical devices, prepared by repairinfo.app (MMR Labs GmbH) from the EU product database EPREL and the French repairability and durability indices on data.gouv.fr.</p><p>Contents: spare-part periods per product group under EU ecodesign regulations; product groups and applicable information duties; rankings of dishwashers, vacuum cleaners and laptops by the French repairability index and of TVs and washing machines by the French durability index; a smartphone register from EPREL (repairability class, update years, charge cycles, replaceable battery); a cleaned GTIN extract of the French repairability index.</p><p>Values are manufacturer declarations; repairinfo.app does not test devices. The French index is a national score, not an EU repairability score. No prices, affiliate links or personal data. Licences: repairinfo.app compilation CC BY 4.0; data.gouv.fr data Licence Ouverte 2.0; EPREL data under the EPREL Public API terms (credit: Source: EPREL, European Commission; no endorsement implied). Current version: https://www.repairinfo.app/daten-und-api/</p>",
+  "creators": [{ "name": "repairinfo.app, MMR Labs GmbH" }],
+  "license": "cc-by-4.0",
+  "keywords": ["repairability", "right to repair", "EPREL", "ecodesign", "energy label", "indice de réparabilité", "indice de durabilité", "spare parts", "open data"],
+  "related_identifiers": [
+    { "identifier": "https://www.repairinfo.app/daten-und-api/", "relation": "isDocumentedBy", "resource_type": "other" },
+    { "identifier": "https://www.data.gouv.fr/datasets/fichiers-consolides-des-donnees-respectant-le-schema-indice-de-reparabilite", "relation": "isDerivedFrom", "resource_type": "dataset" },
+    { "identifier": "https://eprel.ec.europa.eu/", "relation": "isDerivedFrom", "resource_type": "dataset" }
+  ],
+  "language": "eng"
+}

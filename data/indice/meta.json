@@ -1,0 +1,96 @@
+{
+ "quelle": "https://www.data.gouv.fr/datasets/fichiers-consolides-des-donnees-respectant-le-schema-indice-de-reparabilite",
+ "datei": "https://www.data.gouv.fr/api/1/datasets/r/b0fddb1d-7032-4e30-a055-9d923e94ce59",
+ "lizenz": "Licence Ouverte / Open Licence 2.0",
+ "lizenzUrl": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+ "abgerufen": "2026-11-10",
+ "modelle": 2822,
+ "mitErsatzteilJahren": 656,
+ "mitDokumentation": 573,
+ "mehrdeutig": 6,
+ "zeilen": {
+  "roh": 4896,
+  "verworfen": {
+   "ohneGtin": 16,
+   "gtinFormat": 167,
+   "pruefziffer": 18,
+   "aeltereBerechnung": 1867
+  }
+ },
+ "kriterien": {
+  "skala20": 4584,
+  "skala10": 96,
+  "unpassend": 15,
+  "ohne": 0
+ },
+ "kategorien": {
+  "ordinateur portable": 1946,
+  "Lave-vaisselle": 580,
+  "Aspirateur non filaire": 95,
+  "Aspirateur filaire": 77,
+  "Lave-linge à chargement par le haut (ou Lave-linge top)": 66,
+  "Lave-linge à chargement frontal (ou Lave-linge hublot)": 26,
+  "Tondeuse à gazon électrique batterie": 10,
+  "Tondeuse à gazon électrique robot": 6,
+  "Aspirateur robot": 6,
+  "Smartphone": 6,
+  "Nettoyeur haute pression": 4
+ },
+ "jeKategorie": {
+  "ordinateur portable": {
+   "modelle": 1946,
+   "mitErsatzteilJahren": 16,
+   "mitDokumentation": 16
+  },
+  "Lave-vaisselle": {
+   "modelle": 580,
+   "mitErsatzteilJahren": 408,
+   "mitDokumentation": 407
+  },
+  "Aspirateur non filaire": {
+   "modelle": 95,
+   "mitErsatzteilJahren": 64,
+   "mitDokumentation": 29
+  },
+  "Aspirateur filaire": {
+   "modelle": 77,
+   "mitErsatzteilJahren": 54,
+   "mitDokumentation": 13
+  },
+  "Lave-linge à chargement par le haut (ou Lave-linge top)": {
+   "modelle": 66,
+   "mitErsatzteilJahren": 66,
+   "mitDokumentation": 66
+  },
+  "Lave-linge à chargement frontal (ou Lave-linge hublot)": {
+   "modelle": 26,
+   "mitErsatzteilJahren": 26,
+   "mitDokumentation": 26
+  },
+  "Tondeuse à gazon électrique batterie": {
+   "modelle": 10,
+   "mitErsatzteilJahren": 10,
+   "mitDokumentation": 10
+  },
+  "Tondeuse à gazon électrique robot": {
+   "modelle": 6,
+   "mitErsatzteilJahren": 6,
+   "mitDokumentation": 6
+  },
+  "Aspirateur robot": {
+   "modelle": 6,
+   "mitErsatzteilJahren": 6,
+   "mitDokumentation": 0
+  },
+  "Smartphone": {
+   "modelle": 6,
+   "mitErsatzteilJahren": 0,
+   "mitDokumentation": 0
+  },
+  "Nettoyeur haute pression": {
+   "modelle": 4,
+   "mitErsatzteilJahren": 0,
+   "mitDokumentation": 0
+  }
+ }
+}

@@ -1,0 +1,8059 @@
+{
+ "license": "Licence Ouverte 2.0",
+ "licenseUrl": "https://www.etalab.gouv.fr/licence-ouverte-open-licence",
+ "publisher": "MMR Labs GmbH",
+ "source": "data.gouv.fr",
+ "updated": "2026-11-10",
+ "note": "Extract of the French repairability index (indice de réparabilité). National French score, not an EU repairability score.",
+ "sourceUrl": "https://www.data.gouv.fr/datasets/fichiers-consolides-des-donnees-respectant-le-schema-indice-de-reparabilite",
+ "title": "Repairability rankings from the French repairability index",
+ "datasetDate": "2026-11-10",
+ "sourceDataset": "https://www.data.gouv.fr/datasets/fichiers-consolides-des-donnees-respectant-le-schema-indice-de-reparabilite",
+ "sourceFile": "https://www.data.gouv.fr/api/1/datasets/r/b0fddb1d-7032-4e30-a055-9d923e94ce59",
+ "method": "Models sorted by the score of the French repairability index (indice de réparabilité, Code de l'environnement, Art. L. 541-9-2) as published by the company that placed them on the French market. No own rating. Same score, same rank; ranks consecutive; within a score, longer spare parts supply first, then name. Entries with the same model name or the same barcode count as one model (latest entry). Rows without a valid GTIN, with a wrong check digit and older calculations of the same model are removed.",
+ "cleaning": {
+  "rows": 4896,
+  "removed": {
+   "noGtin": 16,
+   "invalidGtin": 167,
+   "wrongCheckDigit": 18,
+   "olderCalculation": 1867
+  },
+  "barcodesAfterCleaning": 2822
+ },
+ "notRanked": "Washing machines (indice de durabilité instead since 8 April 2025) and smartphones (no French index since 7 July 2025) are still in the dataset but not ranked.",
+ "categories": {
+  "dishwashers": {
+   "name": "Dishwashers (lave-vaisselle)",
+   "models": 580,
+   "barcodes": 580,
+   "datasetEntries": 581,
+   "highestScore": 9.9,
+   "modelsWithHighestScore": 14,
+   "modelsWithSparePartsYears": 408,
+   "top": [
+    {
+     "rank": 1,
+     "model": "QW-NA1EF49D3W-FR",
+     "placedOnMarketBy": "VESTEL France",
+     "score": 9.9,
+     "calculated": "2026-01-09",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      19.2,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04550556205634"
+     ],
+     "eprel": {
+      "registrationNumber": "2488414",
+      "energyClass": "D",
+      "capacity": 13,
+      "noiseDb": 49,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 60,
+      "energyPer100Cycles": 84,
+      "waterLitres": 12.9,
+      "guaranteeMonths": 24,
+      "noiseClass": "C",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 2,
+     "model": "QW-NA1FF45D6I-FR",
+     "placedOnMarketBy": "VESTEL France",
+     "score": 9.9,
+     "calculated": "2026-03-20",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      19.2,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04550556218474"
+     ],
+     "eprel": {
+      "registrationNumber": "2551508",
+      "energyClass": "D",
+      "capacity": 16,
+      "noiseDb": 45,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 60,
+      "energyPer100Cycles": 87,
+      "waterLitres": 10.9,
+      "guaranteeMonths": 24,
+      "noiseClass": "C",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 3,
+     "model": "QW-NA1FF45D6W-FR",
+     "placedOnMarketBy": "VESTEL France",
+     "score": 9.9,
+     "calculated": "2026-03-20",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      19.2,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04550556200325"
+     ],
+     "eprel": {
+      "registrationNumber": "2476394",
+      "energyClass": "D",
+      "capacity": 16,
+      "noiseDb": 45,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 60,
+      "energyPer100Cycles": 87,
+      "waterLitres": 10.9,
+      "guaranteeMonths": 24,
+      "noiseClass": "C",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 4,
+     "model": "QW-NA1FF47D3I-FR",
+     "placedOnMarketBy": "VESTEL France",
+     "score": 9.9,
+     "calculated": "2026-01-23",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      19.2,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04550556205627"
+     ],
+     "eprel": {
+      "registrationNumber": "2532511",
+      "energyClass": "D",
+      "capacity": 13,
+      "noiseDb": 47,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 60,
+      "energyPer100Cycles": 84,
+      "waterLitres": 12.9,
+      "guaranteeMonths": 24,
+      "noiseClass": "C",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 5,
+     "model": "QW-NA1FF47D3W-FR",
+     "placedOnMarketBy": "VESTEL France",
+     "score": 9.9,
+     "calculated": "2026-01-23",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      19.2,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04550556200332"
+     ],
+     "eprel": {
+      "registrationNumber": "2476418",
+      "energyClass": "D",
+      "capacity": 13,
+      "noiseDb": 47,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 60,
+      "energyPer100Cycles": 84,
+      "waterLitres": 12.9,
+      "guaranteeMonths": 24,
+      "noiseClass": "C",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 6,
+     "model": "QW-NA3YF42AA-FR",
+     "placedOnMarketBy": "VESTEL France",
+     "score": 9.9,
+     "calculated": "2025-03-24",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      19.2,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04550556148436"
+     ],
+     "eprel": {
+      "registrationNumber": "2050776",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 60,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9.2,
+      "guaranteeMonths": 36,
+      "noiseClass": "B",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 7,
+     "model": "QW-NA3YF42AW-FR",
+     "placedOnMarketBy": "VESTEL France",
+     "score": 9.9,
+     "calculated": "2025-03-24",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      19.2,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04550556144728"
+     ],
+     "image": null
+    },
+    {
+     "rank": 8,
+     "model": "QW-NA4YF42AW-FR",
+     "placedOnMarketBy": "VESTEL France",
+     "score": 9.9,
+     "calculated": "2025-03-24",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      19.2,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04550556148443"
+     ],
+     "eprel": {
+      "registrationNumber": "2050169",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 60,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9.2,
+      "guaranteeMonths": 36,
+      "noiseClass": "B",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 9,
+     "model": "QW-NA4YF44AI-FR",
+     "placedOnMarketBy": "VESTEL France",
+     "score": 9.9,
+     "calculated": "2025-03-24",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      19.2,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04550556149860"
+     ],
+     "eprel": {
+      "registrationNumber": "2050172",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 44,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 60,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9.2,
+      "guaranteeMonths": 36,
+      "noiseClass": "B",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 10,
+     "model": "QW-NA4YF44AW-FR",
+     "placedOnMarketBy": "VESTEL France",
+     "score": 9.9,
+     "calculated": "2025-03-24",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      19.2,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04550556134804"
+     ],
+     "eprel": {
+      "registrationNumber": "1949600",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 44,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 60,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9.2,
+      "guaranteeMonths": 36,
+      "noiseClass": "B",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 11,
+     "model": "QW-NA4YF44EAA-FR",
+     "placedOnMarketBy": "VESTEL France",
+     "score": 9.9,
+     "calculated": "2025-03-24",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      19.2,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04550556112666"
+     ],
+     "eprel": {
+      "registrationNumber": "1668521",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 44,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 60,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9.2,
+      "guaranteeMonths": 36,
+      "noiseClass": "B",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 12,
+     "model": "QW-NA4YF44EAW-FR",
+     "placedOnMarketBy": "SHARP",
+     "brandName": "Sharp",
+     "score": 9.9,
+     "calculated": "2025-03-24",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      19.2,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04550556132121"
+     ],
+     "eprel": {
+      "registrationNumber": "1868187",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 44,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 60,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9.2,
+      "guaranteeMonths": 36,
+      "noiseClass": "B",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 13,
+     "model": "QW-NI1EI45E8X-FR",
+     "placedOnMarketBy": "VESTEL France",
+     "score": 9.9,
+     "calculated": "2025-03-24",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      19.2,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04550556142465"
+     ],
+     "eprel": {
+      "registrationNumber": "1999287",
+      "energyClass": "E",
+      "capacity": 15,
+      "noiseDb": 45,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 97,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "C",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 14,
+     "model": "QW-NI1EI45EX-FR",
+     "placedOnMarketBy": "VESTEL France",
+     "score": 9.9,
+     "calculated": "2025-03-24",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      19.2,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04974019180748"
+     ],
+     "eprel": {
+      "registrationNumber": "368569",
+      "energyClass": "E",
+      "capacity": 15,
+      "noiseDb": 45,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 97,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "C",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 15,
+     "model": "WH7PA15AM60_869991724790",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.6,
+     "calculated": "2025-03-20",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      20,
+      18,
+      18.3,
+      20,
+      20
+     ],
+     "gtins": [
+      "08003437065620"
+     ],
+     "eprel": {
+      "registrationNumber": "2219948",
+      "energyClass": "A",
+      "capacity": 15,
+      "noiseDb": 38,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 55,
+      "waterLitres": 9.9,
+      "guaranteeMonths": 24,
+      "noiseClass": "A",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 16,
+     "model": "12852170 - G5811 SCi F ED230 1.9 Active Plus CS",
+     "salesName": "Miele G 5811 SCi Active Plus",
+     "salesNameSource": "https://www.miele.fr/product/12852170/lave-vaisselle-integre-g-5811-sci-active-plus-inox-cleansteel-inox-antitrace",
+     "placedOnMarketBy": "Miele & Cie. KG",
+     "brandName": "Miele",
+     "score": 9.5,
+     "calculated": "2025-05-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      15,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04002516908449"
+     ],
+     "eprel": {
+      "registrationNumber": "2244456",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 43,
+      "widthCm": 60,
+      "heightCm": 81,
+      "depthCm": 57,
+      "energyPer100Cycles": 54,
+      "waterLitres": 8.2,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 17,
+     "model": "12852310 - G7040 SCi F ED230 1.9 CLST AutoDos",
+     "salesName": "Miele G 7040 SCi AutoDos",
+     "salesNameSource": "https://www.miele.fr/product/12852310/lave-vaisselle-integre-g-7040-sci-autodos-inox-cleansteel-inox-antitrace",
+     "placedOnMarketBy": "Miele & Cie. KG",
+     "brandName": "Miele",
+     "score": 9.5,
+     "calculated": "2025-05-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      15,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04002516908555"
+     ],
+     "eprel": {
+      "registrationNumber": "2241811",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 43,
+      "widthCm": 60,
+      "heightCm": 81,
+      "depthCm": 57,
+      "energyPer100Cycles": 54,
+      "waterLitres": 8.4,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 18,
+     "model": "12852330 - G7080 SCVi F ED230 1.9 AutoDos",
+     "salesName": "Miele G 7080 SCVi AutoDos",
+     "salesNameSource": "https://www.miele.fr/product/12852330/lave-vaisselle-totalement-integrable-g-7080-scvi-autodos-acier-inoxydable",
+     "placedOnMarketBy": "Miele & Cie. KG",
+     "brandName": "Miele",
+     "score": 9.5,
+     "calculated": "2025-05-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      15,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04002516908579"
+     ],
+     "eprel": {
+      "registrationNumber": "2238292",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 43,
+      "widthCm": 60,
+      "heightCm": 81,
+      "depthCm": 55,
+      "energyPer100Cycles": 54,
+      "waterLitres": 8.4,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 19,
+     "model": "12852340 - G7085 SCVi XXL F ED230 1.9 AutoDos",
+     "salesName": "Miele G 7085 SCVi XXL AutoDos",
+     "salesNameSource": "https://www.miele.fr/product/12852340/lave-vaisselle-totalement-integrable-xxl-g-7085-scvi-xxl-autodos-acier-inoxydable",
+     "placedOnMarketBy": "Miele & Cie. KG",
+     "brandName": "Miele",
+     "score": 9.5,
+     "calculated": "2025-05-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      15,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04002516908586"
+     ],
+     "eprel": {
+      "registrationNumber": "2238032",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 43,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 55,
+      "energyPer100Cycles": 54,
+      "waterLitres": 8.4,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 20,
+     "model": "12852350 - G7090 SCVi F ED230 1.9 AutoDos FF",
+     "salesName": "Miele G 7090 SCVi AutoDos FF",
+     "salesNameSource": "https://www.miele.fr/product/12852350/lave-vaisselle-totalement-integrable-g-7090-scvi-autodos-ff-acier-inoxydable",
+     "placedOnMarketBy": "Miele & Cie. KG",
+     "brandName": "Miele",
+     "score": 9.5,
+     "calculated": "2025-05-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      15,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04002516908593"
+     ],
+     "eprel": {
+      "registrationNumber": "2302219",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 43,
+      "widthCm": 60,
+      "heightCm": 81,
+      "depthCm": 55,
+      "energyPer100Cycles": 54,
+      "waterLitres": 8.4,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 21,
+     "model": "7622997377 - BDFN26446G",
+     "placedOnMarketBy": "BEKO",
+     "brandName": "Beko",
+     "score": 9.4,
+     "calculated": "2026-02-17",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.2,
+      19.3,
+      18.3,
+      20,
+      20
+     ],
+     "gtins": [
+      "08690842683145"
+     ],
+     "image": null
+    },
+    {
+     "rank": 22,
+     "model": "7640497377 - BDFN26560GP",
+     "placedOnMarketBy": "BEKO",
+     "brandName": "Beko",
+     "score": 9.4,
+     "calculated": "2026-02-17",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      15.4,
+      20,
+      18.3,
+      20,
+      20
+     ],
+     "gtins": [
+      "08690842768224"
+     ],
+     "image": null
+    },
+    {
+     "rank": 23,
+     "model": "7642393977 - BDFN26550XP",
+     "placedOnMarketBy": "BEKO",
+     "brandName": "Beko",
+     "score": 9.4,
+     "calculated": "2026-02-17",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      15.4,
+      20,
+      18.3,
+      20,
+      20
+     ],
+     "gtins": [
+      "08690842772054"
+     ],
+     "image": null
+    },
+    {
+     "rank": 24,
+     "model": "7680203935 - BDFS26041XQ",
+     "placedOnMarketBy": "BEKO",
+     "brandName": "Beko",
+     "score": 9.4,
+     "calculated": "2026-02-17",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.2,
+      19.3,
+      18.3,
+      20,
+      20
+     ],
+     "gtins": [
+      "08003437067907"
+     ],
+     "sameEntryAlso": [
+      {
+       "model": "W8F HP51X _859991731010",
+       "placedOnMarketBy": "WHIRLPOOL"
+      }
+     ],
+     "image": null
+    },
+    {
+     "rank": 25,
+     "model": "BDFN15440S_7614597377",
+     "placedOnMarketBy": "BEKO",
+     "brandName": "Beko",
+     "score": 9.4,
+     "calculated": "2026-02-17",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.2,
+      20,
+      18.3,
+      20,
+      20
+     ],
+     "gtins": [
+      "08690842681523"
+     ],
+     "image": null
+    },
+    {
+     "rank": 26,
+     "model": "BDFN26443G_7608297377",
+     "placedOnMarketBy": "BEKO",
+     "brandName": "Beko",
+     "score": 9.4,
+     "calculated": "2026-02-17",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.2,
+      20,
+      18.3,
+      20,
+      20
+     ],
+     "gtins": [
+      "08690842679421"
+     ],
+     "image": null
+    },
+    {
+     "rank": 27,
+     "model": "BDFN26451G_7614497377",
+     "placedOnMarketBy": "BEKO",
+     "brandName": "Beko",
+     "score": 9.4,
+     "calculated": "2026-02-17",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.2,
+      20,
+      18.3,
+      20,
+      20
+     ],
+     "gtins": [
+      "08690842673566"
+     ],
+     "image": null
+    },
+    {
+     "rank": 28,
+     "model": "SBV4EB806E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SBV4EB806E",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2025-07-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005546251"
+     ],
+     "eprel": {
+      "registrationNumber": "2325032",
+      "energyClass": "A",
+      "capacity": 13,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 87,
+      "depthCm": 55,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 29,
+     "model": "SBV4HBX13E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/supportdetail/product/SBV4HBX13E/66",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2025-07-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005551019"
+     ],
+     "eprel": {
+      "registrationNumber": "2346932",
+      "energyClass": "C",
+      "capacity": 13,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 87,
+      "depthCm": 55,
+      "energyPer100Cycles": 74,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 30,
+     "model": "SBV4HCX07E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SBV4HCX07E",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2025-07-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005521371"
+     ],
+     "eprel": {
+      "registrationNumber": "2143483",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 87,
+      "depthCm": 55,
+      "energyPer100Cycles": 75,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 31,
+     "model": "SMI4ECS29E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/supportdetail/product/SMI4ECS29E/01",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005437276"
+     ],
+     "image": null
+    },
+    {
+     "rank": 32,
+     "model": "SMI4ECS35E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SMI4ECS35E",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2025-07-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005545339"
+     ],
+     "eprel": {
+      "registrationNumber": "2318256",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 40,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 57,
+      "energyPer100Cycles": 75,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 33,
+     "model": "SMI4HBS12E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SMI4HBS12E",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2025-07-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005535965"
+     ],
+     "eprel": {
+      "registrationNumber": "2255848",
+      "energyClass": "C",
+      "capacity": 13,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 57,
+      "energyPer100Cycles": 74,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 34,
+     "model": "SMI4HBS23E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/supportdetail/product/SMI4HBS23E/01",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005434978"
+     ],
+     "image": null
+    },
+    {
+     "rank": 35,
+     "model": "SMI4HCB07E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SMI4HCB07E",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2025-07-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005529438"
+     ],
+     "eprel": {
+      "registrationNumber": "2204187",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 57,
+      "energyPer100Cycles": 75,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 36,
+     "model": "SMI4HCB19E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SMI4HCB19E",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005444694"
+     ],
+     "eprel": {
+      "registrationNumber": "1656057",
+      "energyClass": "D",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 57,
+      "energyPer100Cycles": 85,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 37,
+     "model": "SMI4HCS07E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SMI4HCS07E",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2025-07-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005529421"
+     ],
+     "eprel": {
+      "registrationNumber": "2204184",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 57,
+      "energyPer100Cycles": 75,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 38,
+     "model": "SMI4HCS19F",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/supportdetail/product/SMI4HCS19F/48",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005482313"
+     ],
+     "image": null
+    },
+    {
+     "rank": 39,
+     "model": "SMU4ECS28E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SMU4ECS28E",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2025-02-10",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005483068"
+     ],
+     "eprel": {
+      "registrationNumber": "1956206",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 57,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 40,
+     "model": "SMV4EB806E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SMV4EB806E",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2025-07-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005546244"
+     ],
+     "eprel": {
+      "registrationNumber": "2325036",
+      "energyClass": "A",
+      "capacity": 13,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 41,
+     "model": "SMV4EBX33E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SMV4EBX33E",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2025-04-01",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005535378"
+     ],
+     "eprel": {
+      "registrationNumber": "2247952",
+      "energyClass": "A",
+      "capacity": 13,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 42,
+     "model": "SMV4ECX07E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SMV4ECX07E",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005437153"
+     ],
+     "image": null
+    },
+    {
+     "rank": 43,
+     "model": "SMV4ECX35E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/supportdetail/product/SMV4ECX35E/66",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2025-07-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005545346"
+     ],
+     "eprel": {
+      "registrationNumber": "2318258",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 40,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 75,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 44,
+     "model": "SMV4EUX09F",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SMV4EUX09F",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005482276"
+     ],
+     "eprel": {
+      "registrationNumber": "1951364",
+      "energyClass": "B",
+      "capacity": 13,
+      "noiseDb": 44,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 64,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 45,
+     "model": "SMV4EVX02F",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/supportdetail/product/SMV4EVX02F/01",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005482146"
+     ],
+     "image": null
+    },
+    {
+     "rank": 46,
+     "model": "SMV4EVX36F",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SMV4EVX36F",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005484355"
+     ],
+     "eprel": {
+      "registrationNumber": "1961922",
+      "energyClass": "B",
+      "capacity": 14,
+      "noiseDb": 44,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 65,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 47,
+     "model": "SMV4HBX13E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SMV4HBX13E",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2025-07-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005551002"
+     ],
+     "eprel": {
+      "registrationNumber": "2346936",
+      "energyClass": "C",
+      "capacity": 13,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 74,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 48,
+     "model": "SMV4HCX07E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SMV4HCX07E",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2025-07-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005521166"
+     ],
+     "eprel": {
+      "registrationNumber": "2143481",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 75,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 49,
+     "model": "SMV4HVX01E",
+     "salesName": "Bosch Série 4",
+     "salesNameSource": "https://www.bosch-home.fr/supportdetail/product/SMV4HVX01E/01",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2024-12-16",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005444748"
+     ],
+     "eprel": {
+      "registrationNumber": "1656059",
+      "energyClass": "D",
+      "capacity": 14,
+      "noiseDb": 46,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 85,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "C",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 50,
+     "model": "SBD6ECX12E",
+     "salesName": "Bosch Série 6",
+     "salesNameSource": "https://www.bosch-home.fr/supportdetail/product/SBD6ECX12E/01",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2025-02-10",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005501212"
+     ],
+     "eprel": {
+      "registrationNumber": "2008120",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 87,
+      "depthCm": 55,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 51,
+     "model": "SBV6EB801E",
+     "salesName": "Bosch Série 6",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SBV6EB801E",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005339044"
+     ],
+     "image": null
+    },
+    {
+     "rank": 52,
+     "model": "SBV6ECX00F",
+     "salesName": "Bosch Série 6",
+     "salesNameSource": "https://www.bosch-home.fr/supportdetail/product/SBV6ECX00F/45",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005463435"
+     ],
+     "image": null
+    },
+    {
+     "rank": 53,
+     "model": "SMD6ECX12E",
+     "salesName": "Bosch Série 6",
+     "salesNameSource": "https://www.bosch-home.fr/supportdetail/product/SMD6ECX12E/45",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2025-02-10",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005479948"
+     ],
+     "eprel": {
+      "registrationNumber": "1940711",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 54,
+     "model": "SMV6EB801E",
+     "salesName": "Bosch Série 6",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SMV6EB801E",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005339686"
+     ],
+     "image": null
+    },
+    {
+     "rank": 55,
+     "model": "SMV6ECX00F",
+     "salesName": "Bosch Série 6",
+     "salesNameSource": "https://www.bosch-home.fr/supportdetail/product/SMV6ECX00F/45",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005477647"
+     ],
+     "image": null
+    },
+    {
+     "rank": 56,
+     "model": "SMV6ECX93E",
+     "salesName": "Bosch Série 6",
+     "salesNameSource": "https://www.bosch-home.fr/liste-des-produits/SMV6ECX93E",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "score": 9.4,
+     "calculated": "2024-12-16",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005214501"
+     ],
+     "eprel": {
+      "registrationNumber": "250814",
+      "energyClass": "D",
+      "capacity": 13,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 84,
+      "waterLitres": 6.7,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 57,
+     "model": "DF210100",
+     "salesName": "Gaggenau Série 200",
+     "salesNameSource": "https://www.gaggenau.com/fr/liste-des-produits/DF210100",
+     "placedOnMarketBy": "Gaggenau",
+     "brandName": "Gaggenau",
+     "score": 9.4,
+     "calculated": "2024-12-16",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242006296735"
+     ],
+     "eprel": {
+      "registrationNumber": "365158",
+      "energyClass": "D",
+      "capacity": 13,
+      "noiseDb": 44,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 84,
+      "waterLitres": 9.5,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 58,
+     "model": "H3FTD861W_869993359080",
+     "placedOnMarketBy": "HOTPOINT",
+     "brandName": "Hotpoint",
+     "score": 9.4,
+     "calculated": "2026-07-15",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842906244"
+     ],
+     "eprel": {
+      "registrationNumber": "2640649",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 41,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 59,
+      "energyPer100Cycles": 54,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 59,
+     "model": "H4ITP41W_869993356460",
+     "placedOnMarketBy": "HOTPOINT",
+     "brandName": "Hotpoint",
+     "score": 9.4,
+     "calculated": "2026-07-03",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842899959"
+     ],
+     "eprel": {
+      "registrationNumber": "2620767",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 41,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 75,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 60,
+     "model": "HA2ITC14B1N60W_869993319230",
+     "placedOnMarketBy": "HOTPOINT",
+     "brandName": "Hotpoint",
+     "score": 9.4,
+     "calculated": "2026-07-15",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842886683"
+     ],
+     "eprel": {
+      "registrationNumber": "2580217",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 41,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 75,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 61,
+     "model": "HA3FA14B3N6SB_869993361950",
+     "placedOnMarketBy": "HOTPOINT",
+     "brandName": "Hotpoint",
+     "score": 9.4,
+     "calculated": "2026-07-03",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842913709"
+     ],
+     "eprel": {
+      "registrationNumber": "2668658",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 43,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 59,
+      "energyPer100Cycles": 54,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 62,
+     "model": "HA3FA14B3N6W_869993361960",
+     "placedOnMarketBy": "HOTPOINT",
+     "brandName": "Hotpoint",
+     "score": 9.4,
+     "calculated": "2026-07-03",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842913730"
+     ],
+     "eprel": {
+      "registrationNumber": "2670631",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 43,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 59,
+      "energyPer100Cycles": 54,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 63,
+     "model": "HA3ITA14B1N6W_869993317350",
+     "placedOnMarketBy": "HOTPOINT",
+     "brandName": "Hotpoint",
+     "score": 9.4,
+     "calculated": "2026-07-15",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842883750"
+     ],
+     "eprel": {
+      "registrationNumber": "2576871",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 41,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 54,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 64,
+     "model": "HA3PTA14B1N6X_869993359130",
+     "placedOnMarketBy": "HOTPOINT",
+     "brandName": "Hotpoint",
+     "score": 9.4,
+     "calculated": "2026-07-15",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842906312"
+     ],
+     "eprel": {
+      "registrationNumber": "2640652",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 41,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 54,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 65,
+     "model": "IN2ITC14B1N6S_869993315590",
+     "placedOnMarketBy": "INDESIT",
+     "brandName": "Indesit",
+     "score": 9.4,
+     "calculated": "2026-07-03",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842878879"
+     ],
+     "eprel": {
+      "registrationNumber": "2570471",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 41,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 75,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 0,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 66,
+     "model": "IN4FB14B1N6W_869993359140",
+     "placedOnMarketBy": "INDESIT",
+     "brandName": "Indesit",
+     "score": 9.4,
+     "calculated": "2026-07-15",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842906329"
+     ],
+     "eprel": {
+      "registrationNumber": "2660777",
+      "energyClass": "B",
+      "capacity": 14,
+      "noiseDb": 41,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 59,
+      "energyPer100Cycles": 64,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 67,
+     "model": "12852160 - G5811 SCi F BW230 1.9 Active Plus",
+     "salesName": "Miele G 5811 SCi Active Plus",
+     "salesNameSource": "https://www.miele.fr/product/12852160/lave-vaisselle-integre-g-5811-sci-active-plus-blanc-brillant",
+     "placedOnMarketBy": "Miele & Cie. KG",
+     "brandName": "Miele",
+     "score": 9.4,
+     "calculated": "2025-05-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      15,
+      20,
+      20,
+      19,
+      20
+     ],
+     "gtins": [
+      "04002516908432"
+     ],
+     "eprel": {
+      "registrationNumber": "2244456",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 43,
+      "widthCm": 60,
+      "heightCm": 81,
+      "depthCm": 57,
+      "energyPer100Cycles": 54,
+      "waterLitres": 8.2,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 68,
+     "model": "12852200 - G5812 SCi F OS230 1.9 Active Plus",
+     "salesName": "Miele G 5812 SCi Active Plus",
+     "salesNameSource": "https://www.miele.fr/product/12852200/lave-vaisselle-integre-g-5812-sci-active-plus-noir-obsidien",
+     "placedOnMarketBy": "Miele & Cie. KG",
+     "brandName": "Miele",
+     "score": 9.4,
+     "calculated": "2025-05-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      15,
+      20,
+      20,
+      19,
+      20
+     ],
+     "gtins": [
+      "04002516908470"
+     ],
+     "image": null
+    },
+    {
+     "rank": 69,
+     "model": "12852220 - G5851 SCVi F ED230 1.9 Active Plus",
+     "salesName": "Miele G 5851 SCVi Active Plus",
+     "salesNameSource": "https://www.miele.fr/product/12852220/lave-vaisselle-totalement-integrable-g-5851-scvi-active-plus-acier-inoxydable",
+     "placedOnMarketBy": "Miele & Cie. KG",
+     "brandName": "Miele",
+     "score": 9.4,
+     "calculated": "2025-05-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      15,
+      20,
+      20,
+      19,
+      20
+     ],
+     "gtins": [
+      "04002516908494"
+     ],
+     "eprel": {
+      "registrationNumber": "2238287",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 43,
+      "widthCm": 60,
+      "heightCm": 81,
+      "depthCm": 55,
+      "energyPer100Cycles": 54,
+      "waterLitres": 8.2,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 70,
+     "model": "12852250 - G5856 SCVi XXL F ED230 1.9 Active Plus",
+     "salesName": "Miele G 5856 SCVi XXL Active Plus",
+     "salesNameSource": "https://www.miele.fr/product/12852250/lave-vaisselle-totalement-integrable-xxl-g-5856-scvi-xxl-active-plus-acier-inoxydable",
+     "placedOnMarketBy": "Miele & Cie. KG",
+     "brandName": "Miele",
+     "score": 9.4,
+     "calculated": "2025-05-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      15,
+      20,
+      20,
+      19,
+      20
+     ],
+     "gtins": [
+      "04002516908500"
+     ],
+     "eprel": {
+      "registrationNumber": "2238286",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 43,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 55,
+      "energyPer100Cycles": 54,
+      "waterLitres": 8.2,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 71,
+     "model": "12852260 - G5863 SCVi F ED230 1.9 EXCELLENCE",
+     "salesName": "Miele G 5863 SCVi Active Plus E",
+     "salesNameSource": "https://www.miele.fr/product/12852260/lave-vaisselle-totalement-integrable-g-5863-scvi-active-plus-e-acier-inoxydable",
+     "placedOnMarketBy": "Miele & Cie. KG",
+     "brandName": "Miele",
+     "score": 9.4,
+     "calculated": "2025-05-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      15,
+      20,
+      20,
+      19,
+      20
+     ],
+     "gtins": [
+      "04002516908517"
+     ],
+     "image": null
+    },
+    {
+     "rank": 72,
+     "model": "12852270 - G5868 SCVi XXL F ED230 1.9 EXCELLENCE",
+     "salesName": "Miele G 5868 SCVi XXL Active Plus E",
+     "salesNameSource": "https://www.miele.fr/product/12852270/lave-vaisselle-totalement-integrable-xxl-g-5868-scvi-xxl-active-plus-e-acier-inoxydable",
+     "placedOnMarketBy": "Miele & Cie. KG",
+     "brandName": "Miele",
+     "score": 9.4,
+     "calculated": "2025-05-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      15,
+      20,
+      20,
+      19,
+      20
+     ],
+     "gtins": [
+      "04002516908524"
+     ],
+     "image": null
+    },
+    {
+     "rank": 73,
+     "model": "12852300 - G7040 SC F ED230 1.9 CLST Front AutoDos",
+     "salesName": "Miele G 7040 SC Front AutoDos",
+     "salesNameSource": "https://www.miele.fr/product/12852300/lave-vaisselle-posable-g-7040-sc-front-autodos-facade-cleansteel-inox-antitrace",
+     "placedOnMarketBy": "Miele & Cie. KG",
+     "brandName": "Miele",
+     "score": 9.4,
+     "calculated": "2025-05-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      15,
+      20,
+      20,
+      19,
+      20
+     ],
+     "gtins": [
+      "04002516908548"
+     ],
+     "eprel": {
+      "registrationNumber": "2241807",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 43,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 60,
+      "energyPer100Cycles": 54,
+      "waterLitres": 8.4,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 74,
+     "model": "S155ECX06E",
+     "salesName": "Neff N 50",
+     "salesNameSource": "https://www.neff-home.com/fr/supportdetail/product/S155ECX06E/01",
+     "placedOnMarketBy": "Neff",
+     "brandName": "Neff",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242004278528"
+     ],
+     "eprel": {
+      "registrationNumber": "1606922",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 40,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 75,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 75,
+     "model": "S255ECX06E",
+     "salesName": "Neff N 50",
+     "salesNameSource": "https://www.neff-home.com/fr/supportdetail/product/S255ECX06E/01",
+     "placedOnMarketBy": "Neff",
+     "brandName": "Neff",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242004278542"
+     ],
+     "image": null
+    },
+    {
+     "rank": 76,
+     "model": "S255ECX15E",
+     "salesName": "Neff N 50",
+     "salesNameSource": "https://www.neff-home.com/fr/liste-des-produits/S255ECX15E",
+     "placedOnMarketBy": "Neff",
+     "brandName": "Neff",
+     "score": 9.4,
+     "calculated": "2025-07-04",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242004285793"
+     ],
+     "eprel": {
+      "registrationNumber": "2051126",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 87,
+      "depthCm": 55,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 77,
+     "model": "SN43HI01MS",
+     "salesName": "Siemens iQ300",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/liste-des-produits/SN43HI01MS",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003953938"
+     ],
+     "eprel": {
+      "registrationNumber": "1806361",
+      "energyClass": "D",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 57,
+      "energyPer100Cycles": 85,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 78,
+     "model": "SN63EX01CF",
+     "salesName": "Siemens iQ300",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/supportdetail/product/SN63EX01CF/48",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003961308"
+     ],
+     "image": null
+    },
+    {
+     "rank": 79,
+     "model": "SN63EX02CF",
+     "salesName": "Siemens iQ300",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/supportdetail/product/SN63EX02CF/48",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003961315"
+     ],
+     "eprel": {
+      "registrationNumber": "1942206",
+      "energyClass": "B",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 65,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 80,
+     "model": "SN63EX04ME",
+     "salesName": "Siemens iQ300",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/liste-des-produits/SN63EX04ME",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2025-07-04",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003971604"
+     ],
+     "eprel": {
+      "registrationNumber": "2094280",
+      "energyClass": "B",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 65,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 81,
+     "model": "SN63EX05ME",
+     "salesName": "Siemens iQ300",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/liste-des-produits/SN63EX05ME",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2025-07-08",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003979594"
+     ],
+     "eprel": {
+      "registrationNumber": "2273842",
+      "energyClass": "B",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 65,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 82,
+     "model": "SN63EX06VF",
+     "salesName": "Siemens iQ300",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/supportdetail/product/SN63EX06VF/01",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003963265"
+     ],
+     "image": null
+    },
+    {
+     "rank": 83,
+     "model": "SN63EX27VF",
+     "salesName": "Siemens iQ300",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/liste-des-produits/SN63EX27VF",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003962299"
+     ],
+     "eprel": {
+      "registrationNumber": "1951366",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 44,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 75,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 84,
+     "model": "SN63H800MF",
+     "salesName": "Siemens iQ300",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/supportdetail/product/SN63H800MF/39",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003962312"
+     ],
+     "image": null
+    },
+    {
+     "rank": 85,
+     "model": "SN63HX16CE",
+     "salesName": "Siemens iQ300",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/liste-des-produits/SN63HX16CE",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2025-07-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003978122"
+     ],
+     "eprel": {
+      "registrationNumber": "2255851",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 75,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 86,
+     "model": "SR53HS52MF",
+     "salesName": "Siemens iQ300",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/liste-des-produits/SR53HS52MF",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2024-12-16",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003955529"
+     ],
+     "image": null
+    },
+    {
+     "rank": 87,
+     "model": "SX63EX01CF",
+     "salesName": "Siemens iQ300",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/supportdetail/product/SX63EX01CF/48",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2024-12-16",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003961667"
+     ],
+     "image": null
+    },
+    {
+     "rank": 88,
+     "model": "SX63H802CF",
+     "salesName": "Siemens iQ300",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/liste-des-produits/SX63H802CF",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2024-12-16",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003962336"
+     ],
+     "image": null
+    },
+    {
+     "rank": 89,
+     "model": "SX63H803CE",
+     "salesName": "Siemens iQ300",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/supportdetail/product/SX63H803CE/01",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2025-07-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003971741"
+     ],
+     "eprel": {
+      "registrationNumber": "2094285",
+      "energyClass": "D",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 87,
+      "depthCm": 55,
+      "energyPer100Cycles": 85,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 90,
+     "model": "SX63HX10VF",
+     "salesName": "Siemens iQ300",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/liste-des-produits/SX63HX10VF",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2024-12-16",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003961698"
+     ],
+     "image": null
+    },
+    {
+     "rank": 91,
+     "model": "SX63HX16CE",
+     "salesName": "Siemens iQ300",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/liste-des-produits/SX63HX16CE",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2025-07-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003978139"
+     ],
+     "eprel": {
+      "registrationNumber": "2255858",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 87,
+      "depthCm": 55,
+      "energyPer100Cycles": 75,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 92,
+     "model": "SN15EC06CS",
+     "salesName": "Siemens iQ500",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/liste-des-produits/SN15EC06CS",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2025-02-10",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003970744"
+     ],
+     "eprel": {
+      "registrationNumber": "2075219",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 57,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 93,
+     "model": "SN15ES06CS",
+     "salesName": "Siemens iQ500",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/supportdetail/product/SN15ES06CS/60",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2025-02-10",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003969687"
+     ],
+     "eprel": {
+      "registrationNumber": "2075217",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 57,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 94,
+     "model": "SN15EW06CS",
+     "salesName": "Siemens iQ500",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/liste-des-produits/SN15EW06CS",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2025-02-10",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003969694"
+     ],
+     "eprel": {
+      "registrationNumber": "2075220",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 57,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 95,
+     "model": "SN55ES11CE",
+     "salesName": "Siemens iQ500",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/supportdetail/product/SN55ES11CE/01",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003948095"
+     ],
+     "image": null
+    },
+    {
+     "rank": 96,
+     "model": "SN55ES12CE",
+     "salesName": "Siemens iQ500",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/liste-des-produits/SN55ES12CE",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2025-02-10",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003964088"
+     ],
+     "eprel": {
+      "registrationNumber": "1969574",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 57,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 97,
+     "model": "SN65EX08CE",
+     "salesName": "Siemens iQ500",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/supportdetail/product/SN65EX08CE/01",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2024-12-13",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003948071"
+     ],
+     "eprel": {
+      "registrationNumber": "1588322",
+      "energyClass": "B",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 65,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 98,
+     "model": "SN65EX23CE",
+     "salesName": "Siemens iQ500",
+     "salesNameSource": "https://www.siemens-home.bsh-group.com/fr/liste-des-produits/SN65EX23CE",
+     "placedOnMarketBy": "Siemens",
+     "brandName": "Siemens",
+     "score": 9.4,
+     "calculated": "2025-07-07",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      14.6,
+      19.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242003982099"
+     ],
+     "eprel": {
+      "registrationNumber": "2325052",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 55,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 99,
+     "model": "W0ITP33LS_869993349890",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-03",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842887482"
+     ],
+     "eprel": {
+      "registrationNumber": "2580211",
+      "energyClass": "D",
+      "capacity": 14,
+      "noiseDb": 43,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 85,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 100,
+     "model": "W0ITP43LW_869993349930",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-15",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842887529"
+     ],
+     "eprel": {
+      "registrationNumber": "2580221",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 43,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 75,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 101,
+     "model": "W0ITP44LWS_869993356480",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-03",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842899973"
+     ],
+     "eprel": {
+      "registrationNumber": "2622243",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 44,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 75,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 102,
+     "model": "W0ITP51W_869993317190",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-02",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842883149"
+     ],
+     "eprel": {
+      "registrationNumber": "2562994",
+      "energyClass": "B",
+      "capacity": 14,
+      "noiseDb": 41,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 64,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 103,
+     "model": "W0ITP61LSW_869993317420",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-03",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842883927"
+     ],
+     "eprel": {
+      "registrationNumber": "2580213",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 41,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9.5,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 104,
+     "model": "W3ITP34S_869993315640",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-03",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842878947"
+     ],
+     "eprel": {
+      "registrationNumber": "2573583",
+      "energyClass": "D",
+      "capacity": 14,
+      "noiseDb": 44,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 85,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 0,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 105,
+     "model": "W3ITP51SW_869993317010",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-15",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842882272"
+     ],
+     "eprel": {
+      "registrationNumber": "2562997",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 41,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 75,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 106,
+     "model": "W4ITP44LW_869993349920",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-15",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842887512"
+     ],
+     "eprel": {
+      "registrationNumber": "2580222",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 44,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 75,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 107,
+     "model": "WH2FFA14B3N6W_869993370420",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-10-05",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842932489"
+     ],
+     "image": null
+    },
+    {
+     "rank": 108,
+     "model": "WH2FFB14B4N6W_869993370400",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-10-05",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842932458"
+     ],
+     "image": null
+    },
+    {
+     "rank": 109,
+     "model": "WH2ITD14B4N6L_869993356490",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-22",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842899980"
+     ],
+     "eprel": {
+      "registrationNumber": "2619290",
+      "energyClass": "D",
+      "capacity": 14,
+      "noiseDb": 44,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 85,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 110,
+     "model": "WH3FA14B1N6WW_869993368030",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-05-16",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842928321"
+     ],
+     "image": null
+    },
+    {
+     "rank": 111,
+     "model": "WH3FB14B1N6WW_869993364050",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-03",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842919039"
+     ],
+     "eprel": {
+      "registrationNumber": "2688347",
+      "energyClass": "B",
+      "capacity": 14,
+      "noiseDb": 41,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 59,
+      "energyPer100Cycles": 64,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 112,
+     "model": "WH3FB14B1N6X_869993364010",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-03",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842918964"
+     ],
+     "eprel": {
+      "registrationNumber": "2688350",
+      "energyClass": "B",
+      "capacity": 14,
+      "noiseDb": 41,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 59,
+      "energyPer100Cycles": 64,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 113,
+     "model": "WH3ITC14B4N6LW_869993319090",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-03",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842886423"
+     ],
+     "eprel": {
+      "registrationNumber": "2580191",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 44,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 75,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 114,
+     "model": "WH4FFA14B3N6X_869993370410",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-10-05",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842932472"
+     ],
+     "image": null
+    },
+    {
+     "rank": 115,
+     "model": "WH4FFB14B4NW_869993370390",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-10-05",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842932441"
+     ],
+     "eprel": {
+      "registrationNumber": "2753273",
+      "energyClass": "B",
+      "capacity": 14,
+      "noiseDb": 44,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 59,
+      "energyPer100Cycles": 64,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 116,
+     "model": "WH4ITD14B4N6_869993316690",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-03",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842881541"
+     ],
+     "eprel": {
+      "registrationNumber": "2580190",
+      "energyClass": "D",
+      "capacity": 14,
+      "noiseDb": 44,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 85,
+      "waterLitres": 9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 117,
+     "model": "WH6FTA14B1N6WX_869993359150",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-03",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842906336"
+     ],
+     "eprel": {
+      "registrationNumber": "2640632",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 41,
+      "widthCm": 60,
+      "heightCm": 85,
+      "depthCm": 59,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9.5,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "FREE_STANDING"
+     },
+     "image": null
+    },
+    {
+     "rank": 118,
+     "model": "WH6IATP61W_869993317480",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-15",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842883989"
+     ],
+     "eprel": {
+      "registrationNumber": "2576878",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 41,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9.5,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 119,
+     "model": "WH6IB16AM6T0_869991697740",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2024-11-29",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      20,
+      18,
+      18.3,
+      20,
+      18
+     ],
+     "gtins": [
+      "08003437059889"
+     ],
+     "eprel": {
+      "registrationNumber": "2087115",
+      "energyClass": "B",
+      "capacity": 16,
+      "noiseDb": 38,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 66,
+      "waterLitres": 9.9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 120,
+     "model": "WH6IC16B4M6T0_869991697810",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2024-11-29",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      20,
+      18,
+      18.3,
+      20,
+      18
+     ],
+     "gtins": [
+      "08003437059896"
+     ],
+     "eprel": {
+      "registrationNumber": "2087116",
+      "energyClass": "C",
+      "capacity": 16,
+      "noiseDb": 44,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 77,
+      "waterLitres": 9.9,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 121,
+     "model": "WH6ITA14B1N6LW_869993317400",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-02",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842883880"
+     ],
+     "eprel": {
+      "registrationNumber": "2573589",
+      "energyClass": "A",
+      "capacity": 14,
+      "noiseDb": 41,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 54,
+      "waterLitres": 9.5,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 122,
+     "model": "WH6ITB14B1N6SW_869993317330",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-03",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842883620"
+     ],
+     "eprel": {
+      "registrationNumber": "2562990",
+      "energyClass": "B",
+      "capacity": 14,
+      "noiseDb": 41,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 64,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 123,
+     "model": "WH6ITC14B3N6L_869993356500",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-22",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842899997"
+     ],
+     "eprel": {
+      "registrationNumber": "2619282",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 43,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 75,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 124,
+     "model": "WH6ITC14B4N6LWS_869993349900",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2026-07-03",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      16.9,
+      20,
+      18.3,
+      20,
+      18.3
+     ],
+     "gtins": [
+      "08690842887499"
+     ],
+     "eprel": {
+      "registrationNumber": "2580209",
+      "energyClass": "C",
+      "capacity": 14,
+      "noiseDb": 44,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 75,
+      "waterLitres": 8.9,
+      "guaranteeMonths": 240,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 125,
+     "model": "WH7IA15AM3TUS0_869991697650",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2024-11-29",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      20,
+      18,
+      18.3,
+      20,
+      18
+     ],
+     "gtins": [
+      "08003437059803"
+     ],
+     "eprel": {
+      "registrationNumber": "2087112",
+      "energyClass": "A",
+      "capacity": 15,
+      "noiseDb": 38,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 55,
+      "waterLitres": 9.9,
+      "guaranteeMonths": 24,
+      "noiseClass": "A",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 126,
+     "model": "WH7IA15AM6L0_869991697820",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2024-11-29",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      20,
+      18,
+      18.3,
+      20,
+      18
+     ],
+     "gtins": [
+      "08003437059902"
+     ],
+     "eprel": {
+      "registrationNumber": "2087117",
+      "energyClass": "A",
+      "capacity": 15,
+      "noiseDb": 38,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 55,
+      "waterLitres": 9.9,
+      "guaranteeMonths": 24,
+      "noiseClass": "A",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 127,
+     "model": "WH8IA15AM6LSC0_869991697660",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2024-11-29",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      20,
+      18,
+      18.3,
+      20,
+      18
+     ],
+     "gtins": [
+      "08003437059810"
+     ],
+     "eprel": {
+      "registrationNumber": "2087113",
+      "energyClass": "A",
+      "capacity": 15,
+      "noiseDb": 38,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 55,
+      "waterLitres": 9.9,
+      "guaranteeMonths": 24,
+      "noiseClass": "A",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 128,
+     "model": "WH8IB15AM6THC0_869991697680",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2024-11-29",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      20,
+      18,
+      18.3,
+      20,
+      18
+     ],
+     "gtins": [
+      "08003437059834"
+     ],
+     "eprel": {
+      "registrationNumber": "2090470",
+      "energyClass": "B",
+      "capacity": 15,
+      "noiseDb": 38,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 65,
+      "waterLitres": 9.9,
+      "guaranteeMonths": 24,
+      "noiseClass": "A",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 129,
+     "model": "WH8IB15AM6TS0_869991697670",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2024-11-29",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      20,
+      18,
+      18.3,
+      20,
+      18
+     ],
+     "gtins": [
+      "08003437059827"
+     ],
+     "eprel": {
+      "registrationNumber": "2087114",
+      "energyClass": "B",
+      "capacity": 15,
+      "noiseDb": 38,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 65,
+      "waterLitres": 9.9,
+      "guaranteeMonths": 24,
+      "noiseClass": "A",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 130,
+     "model": "WH7IA115B2M3TUS0_869991699060",
+     "salesName": "Whirlpool MaxiSpace",
+     "salesNameSource": "https://www.whirlpool.fr/whirlpool-lavevaisselle-encastrable-maxispace-wh7ia115b2m3tus0-869991699060/p",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2024-11-29",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      20,
+      18,
+      18.3,
+      20,
+      18
+     ],
+     "gtins": [
+      "08003437060359"
+     ],
+     "eprel": {
+      "registrationNumber": "2119460",
+      "energyClass": "A",
+      "capacity": 15,
+      "noiseDb": 42,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 50,
+      "waterLitres": 9.5,
+      "guaranteeMonths": 24,
+      "noiseClass": "B",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    },
+    {
+     "rank": 131,
+     "model": "WH8IA15AM3TU0_869991697590",
+     "salesName": "Whirlpool MaxiSpace",
+     "salesNameSource": "https://www.whirlpool.fr/whirlpool-lavevaisselle-encastrable-maxispace-wh8ia15am3tu0-869991697590/p",
+     "placedOnMarketBy": "WHIRLPOOL",
+     "brandName": "Whirlpool",
+     "score": 9.4,
+     "calculated": "2024-11-29",
+     "spareParts": {
+      "yearsFrom": ">14",
+      "yearsTo": ">14"
+     },
+     "criteria": [
+      20,
+      18,
+      18.3,
+      20,
+      18
+     ],
+     "gtins": [
+      "08003437059797"
+     ],
+     "eprel": {
+      "registrationNumber": "2087111",
+      "energyClass": "A",
+      "capacity": 15,
+      "noiseDb": 38,
+      "widthCm": 60,
+      "heightCm": 82,
+      "depthCm": 56,
+      "energyPer100Cycles": 55,
+      "waterLitres": 9.9,
+      "guaranteeMonths": 24,
+      "noiseClass": "A",
+      "installation": "BUILT_IN"
+     },
+     "image": null
+    }
+   ],
+   "placedOnMarketBy": [
+    {
+     "name": "VESTEL France",
+     "models": 13,
+     "averageScore": 9.9,
+     "highestScore": 9.9,
+     "modelsWithSparePartsYears": 13
+    },
+    {
+     "name": "SHARP",
+     "models": 1,
+     "averageScore": 9.9,
+     "highestScore": 9.9,
+     "modelsWithSparePartsYears": 1
+    },
+    {
+     "name": "INDESIT",
+     "models": 2,
+     "averageScore": 9.4,
+     "highestScore": 9.4,
+     "modelsWithSparePartsYears": 2
+    },
+    {
+     "name": "Gaggenau",
+     "models": 1,
+     "averageScore": 9.4,
+     "highestScore": 9.4,
+     "modelsWithSparePartsYears": 1
+    },
+    {
+     "name": "WHIRLPOOL",
+     "models": 39,
+     "averageScore": 9.39,
+     "highestScore": 9.6,
+     "modelsWithSparePartsYears": 39
+    },
+    {
+     "name": "HOTPOINT",
+     "models": 9,
+     "averageScore": 9.38,
+     "highestScore": 9.4,
+     "modelsWithSparePartsYears": 9
+    },
+    {
+     "name": "BEKO",
+     "models": 9,
+     "averageScore": 9.32,
+     "highestScore": 9.4,
+     "modelsWithSparePartsYears": 9
+    },
+    {
+     "name": "HAIER FRANCE",
+     "models": 20,
+     "averageScore": 9.3,
+     "highestScore": 9.3,
+     "modelsWithSparePartsYears": 20
+    },
+    {
+     "name": "Daan Technologies",
+     "models": 1,
+     "averageScore": 9.3,
+     "highestScore": 9.3,
+     "modelsWithSparePartsYears": 1
+    },
+    {
+     "name": "Miele & Cie. KG",
+     "models": 70,
+     "averageScore": 9.27,
+     "highestScore": 9.5,
+     "modelsWithSparePartsYears": 70
+    },
+    {
+     "name": "Brandt",
+     "models": 57,
+     "averageScore": 9.24,
+     "highestScore": 9.3,
+     "modelsWithSparePartsYears": 57
+    },
+    {
+     "name": "Siemens",
+     "models": 78,
+     "averageScore": 9.23,
+     "highestScore": 9.4,
+     "modelsWithSparePartsYears": 78
+    },
+    {
+     "name": "Neff",
+     "models": 12,
+     "averageScore": 9.21,
+     "highestScore": 9.4,
+     "modelsWithSparePartsYears": 12
+    },
+    {
+     "name": "Bosch",
+     "models": 97,
+     "averageScore": 9.19,
+     "highestScore": 9.4,
+     "modelsWithSparePartsYears": 97
+    },
+    {
+     "name": "ELECTROLUX",
+     "models": 172,
+     "averageScore": 8.47,
+     "highestScore": 9.2,
+     "modelsWithSparePartsYears": 0
+    }
+   ],
+   "distribution": [
+    {
+     "from": 9.5,
+     "to": 10,
+     "models": 20
+    },
+    {
+     "from": 9,
+     "to": 9.4,
+     "models": 393
+    },
+    {
+     "from": 8.5,
+     "to": 8.9,
+     "models": 118
+    },
+    {
+     "from": 8,
+     "to": 8.4,
+     "models": 15
+    },
+    {
+     "from": 7.5,
+     "to": 7.9,
+     "models": 16
+    },
+    {
+     "from": 7,
+     "to": 7.4,
+     "models": 12
+    },
+    {
+     "from": 6.5,
+     "to": 6.9,
+     "models": 3
+    },
+    {
+     "from": 6,
+     "to": 6.4,
+     "models": 3
+    }
+   ],
+   "averageCriteria": {
+    "models": 580,
+    "documentation": 15.59,
+    "disassembly": 18.95,
+    "sparePartsAvailability": 19.64,
+    "sparePartsPrice": 18.22,
+    "productSpecific": 18.02
+   }
+  },
+  "vacuumCleaners": {
+   "name": "Vacuum cleaners: corded, cordless and robot (aspirateurs)",
+   "models": 178,
+   "barcodes": 178,
+   "datasetEntries": 178,
+   "highestScore": 9.9,
+   "modelsWithHighestScore": 7,
+   "modelsWithSparePartsYears": 124,
+   "modelsByType": {
+    "corded": 77,
+    "cordless": 95,
+    "robot": 6
+   },
+   "top": [
+    {
+     "rank": 1,
+     "model": "BGB8PET1",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "corded",
+     "score": 9.9,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      20,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005202812"
+     ],
+     "image": null
+    },
+    {
+     "rank": 2,
+     "model": "BGL6HYG1",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "corded",
+     "score": 9.9,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      20,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005227846"
+     ],
+     "image": null
+    },
+    {
+     "rank": 3,
+     "model": "BGL6PET1",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "corded",
+     "score": 9.9,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      20,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005232338"
+     ],
+     "image": null
+    },
+    {
+     "rank": 4,
+     "model": "BGL6POW1",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "corded",
+     "score": 9.9,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      20,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005227853"
+     ],
+     "image": null
+    },
+    {
+     "rank": 5,
+     "model": "BGL8PET2",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "corded",
+     "score": 9.9,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      20,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005202645"
+     ],
+     "image": null
+    },
+    {
+     "rank": 6,
+     "model": "BGLS4PET2",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "corded",
+     "score": 9.9,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      20,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005202935"
+     ],
+     "image": null
+    },
+    {
+     "rank": 7,
+     "model": "RH6878WO",
+     "salesName": "Rowenta X-Pert 6.60",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-pert-660-kit-animal/csp/7211004542",
+     "placedOnMarketBy": "Groupe SEB France",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.9,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616018891"
+     ],
+     "image": null
+    },
+    {
+     "rank": 8,
+     "model": "BBS71BHYG",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2025-03-03",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005503803"
+     ],
+     "image": null
+    },
+    {
+     "rank": 9,
+     "model": "BBS82BBLCK",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005309795"
+     ],
+     "image": null
+    },
+    {
+     "rank": 10,
+     "model": "BBS82BGREY",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005309801"
+     ],
+     "image": null
+    },
+    {
+     "rank": 11,
+     "model": "BBS82BTRED",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005309818"
+     ],
+     "image": null
+    },
+    {
+     "rank": 12,
+     "model": "BBS82BWALU",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005309825"
+     ],
+     "image": null
+    },
+    {
+     "rank": 13,
+     "model": "BBS611LAG",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005238798"
+     ],
+     "image": null
+    },
+    {
+     "rank": 14,
+     "model": "BBS931PET",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-17",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005468362"
+     ],
+     "image": null
+    },
+    {
+     "rank": 15,
+     "model": "BCS71HYG1",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005349319"
+     ],
+     "image": null
+    },
+    {
+     "rank": 16,
+     "model": "BCS71HYG2",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005349326"
+     ],
+     "image": null
+    },
+    {
+     "rank": 17,
+     "model": "BCS71HYG4",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005436989"
+     ],
+     "image": null
+    },
+    {
+     "rank": 18,
+     "model": "BCS931GAC",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-17",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005469246"
+     ],
+     "image": null
+    },
+    {
+     "rank": 19,
+     "model": "BCS1041PET",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005469543"
+     ],
+     "image": null
+    },
+    {
+     "rank": 20,
+     "model": "BCS1041WAC",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005469550"
+     ],
+     "image": null
+    },
+    {
+     "rank": 21,
+     "model": "BCS8214PRQ",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005269037"
+     ],
+     "image": null
+    },
+    {
+     "rank": 22,
+     "model": "BCS8215HYG",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005436002"
+     ],
+     "image": null
+    },
+    {
+     "rank": 23,
+     "model": "BCS8225POW",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005269068"
+     ],
+     "image": null
+    },
+    {
+     "rank": 24,
+     "model": "BGB6X300",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      20,
+      19.9,
+      19,
+      20
+     ],
+     "gtins": [
+      "04242005231881"
+     ],
+     "image": null
+    },
+    {
+     "rank": 25,
+     "model": "BKS1041RHF",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005469604"
+     ],
+     "image": null
+    },
+    {
+     "rank": 26,
+     "model": "BSS82SIL1",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005269174"
+     ],
+     "image": null
+    },
+    {
+     "rank": 27,
+     "model": "BSS931BHF",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-17",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005468355"
+     ],
+     "image": null
+    },
+    {
+     "rank": 28,
+     "model": "BSS1041GHF",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005468331"
+     ],
+     "image": null
+    },
+    {
+     "rank": 29,
+     "model": "BXS931WQC",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-17",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005469239"
+     ],
+     "image": null
+    },
+    {
+     "rank": 30,
+     "model": "BXS1041BQC",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2024-12-18",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      19.2,
+      18.9,
+      19.9,
+      20,
+      20
+     ],
+     "gtins": [
+      "04242005469536"
+     ],
+     "image": null
+    },
+    {
+     "rank": 31,
+     "model": "RH1128WO",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2022-09-20",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      18.4,
+      20,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616037670"
+     ],
+     "image": null
+    },
+    {
+     "rank": 32,
+     "model": "RO4B11EA",
+     "salesName": "Rowenta Compact Power Cyclonic XXL",
+     "salesNameSource": "https://www.rowenta.fr/p/compact-power-xxl/7211005056",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616093027"
+     ],
+     "image": null
+    },
+    {
+     "rank": 33,
+     "model": "RO4B13EA",
+     "salesName": "Rowenta Compact Power Cyclonic XXL",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-xxl/csp/7211005057",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616093065"
+     ],
+     "image": null
+    },
+    {
+     "rank": 34,
+     "model": "RO4B20EA",
+     "salesName": "Rowenta Compact Power Cyclonic XXL",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-cyclonic-xxl-aspirateur-traineau-sans-sac-puissant-900w-75-dba/csp/7211005226",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616125513"
+     ],
+     "image": null
+    },
+    {
+     "rank": 35,
+     "model": "RO4B21EA",
+     "salesName": "Rowenta Compact Power Cyclonic XXL",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-xxl/csp/7211005059",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616093089"
+     ],
+     "image": null
+    },
+    {
+     "rank": 36,
+     "model": "RO4B23EA",
+     "salesName": "Rowenta Compact Power Cyclonic XXL",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-xxl/csp/7211005058",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616093072"
+     ],
+     "image": null
+    },
+    {
+     "rank": 37,
+     "model": "RO4B25EA",
+     "salesName": "Rowenta Compact Power Cyclonic XXL",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-xxl/csp/7211005060",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616093096"
+     ],
+     "image": null
+    },
+    {
+     "rank": 38,
+     "model": "RO4B30EA",
+     "salesName": "Rowenta Compact Power Cyclonic XXL",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-xxl-modele-parquet/csp/7211005061",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616093102"
+     ],
+     "image": null
+    },
+    {
+     "rank": 39,
+     "model": "RO4B31EA",
+     "salesName": "Rowenta Compact Power Cyclonic XXL",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-cyclonic-xxl-modele-parquet/csp/7211005187",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616116191"
+     ],
+     "image": null
+    },
+    {
+     "rank": 40,
+     "model": "RO4B36EA",
+     "salesName": "Rowenta Compact Power Cyclonic XXL",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-xxl-modele-parquet/csp/7211005062",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616093119"
+     ],
+     "image": null
+    },
+    {
+     "rank": 41,
+     "model": "RO4B50EA",
+     "salesName": "Rowenta Compact Power Cyclonic XXL",
+     "salesNameSource": "https://www.rowenta.fr/p/compact-power-xxl-modele-animal/7211005063",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616093126"
+     ],
+     "image": null
+    },
+    {
+     "rank": 42,
+     "model": "RO4B63EA",
+     "salesName": "Rowenta Compact Power Cyclonic XXL",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-xxl-modele-animal/csp/7211005064",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616093133"
+     ],
+     "image": null
+    },
+    {
+     "rank": 43,
+     "model": "RO4B75EA",
+     "salesName": "Rowenta Compact Power Cyclonic XXL",
+     "salesNameSource": "https://www.rowenta.fr/p/compact-power-xxl-modele-total-clean/7211005065",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616093140"
+     ],
+     "image": null
+    },
+    {
+     "rank": 44,
+     "model": "RO7C19EA",
+     "salesName": "Rowenta G-Force Cyclonic Silence",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/g-force-cyclonic-silence-aspirateur-sans-sac-silencieux/csp/2211401283",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616112490"
+     ],
+     "image": null
+    },
+    {
+     "rank": 45,
+     "model": "RO7C30EA",
+     "salesName": "Rowenta G-Force Cyclonic Silence",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/green-force-cyclonic-effitech-aspirateur-sans-sac-500w-eco-concu-68-dba/csp/2211401252",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616107281"
+     ],
+     "image": null
+    },
+    {
+     "rank": 46,
+     "model": "RO7C32EA",
+     "salesName": "Rowenta G-Force Cyclonic Silence",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/green-force-cyclonic-effitech-aspirateur-sans-sac-500w-eco-concu-68-dba/csp/2211401254",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616107304"
+     ],
+     "image": null
+    },
+    {
+     "rank": 47,
+     "model": "RO7C36EA",
+     "salesName": "Rowenta G-Force Cyclonic Silence",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/green-force-cyclonic-effitech-aspirateur-sans-sac-500w-eco-concu-68-dba/csp/2211401253",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616107298"
+     ],
+     "image": null
+    },
+    {
+     "rank": 48,
+     "model": "RO7C66EA",
+     "salesName": "Rowenta G-Force Cyclonic Silence",
+     "salesNameSource": "https://www.rowenta.fr/p/green-force-cyclonic-effitech-aspirateur-sans-sac-500w-eco-concu-66-dba/2211401255",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616107311"
+     ],
+     "image": null
+    },
+    {
+     "rank": 49,
+     "model": "RO7C89EA",
+     "salesName": "Rowenta G-Force Cyclonic Silence",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/green-force-cyclonic-effitech-aspirateur-sans-sac-500w-eco-concu-66-dba/csp/2211401257",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616107335"
+     ],
+     "image": null
+    },
+    {
+     "rank": 50,
+     "model": "RO7933EA",
+     "salesName": "Rowenta Silence Force Cyclonic Effitech",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/silence-force-cyclonic-effitech-modele-car-pro/csp/2211401220",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616094178"
+     ],
+     "image": null
+    },
+    {
+     "rank": 51,
+     "model": "RO7935EA",
+     "salesName": "Rowenta Silence Force Cyclonic Effitech",
+     "salesNameSource": "https://www.rowenta.fr/p/silence-force-cyclonic-effitech-modele-parquet/2211401222",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616094192"
+     ],
+     "image": null
+    },
+    {
+     "rank": 52,
+     "model": "RO7936EA",
+     "salesName": "Rowenta Silence Force Cyclonic Effitech",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/silence-force-cyclonic-effitech-modele-parquet/csp/2211401221",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616094185"
+     ],
+     "image": null
+    },
+    {
+     "rank": 53,
+     "model": "RO7941EA",
+     "salesName": "Rowenta Silence Force Cyclonic Effitech",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/silence-force-cyclonic-effitech-modele-animal/csp/2211401266",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616109834"
+     ],
+     "image": null
+    },
+    {
+     "rank": 54,
+     "model": "RO7943EA",
+     "salesName": "Rowenta Silence Force Cyclonic Effitech",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/silence-force-cyclonic-effitech-aspirateur-sans-sac-500w-59-dba-fabrique-en-france/csp/2211401321",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616122185"
+     ],
+     "image": null
+    },
+    {
+     "rank": 55,
+     "model": "RO7954EA",
+     "salesName": "Rowenta Silence Force Cyclonic Effitech",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/silence-force-cyclonic-effitech-modele-home-car/csp/2211401223",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616094208"
+     ],
+     "image": null
+    },
+    {
+     "rank": 56,
+     "model": "RO7961EA",
+     "salesName": "Rowenta Silence Force Cyclonic Effitech",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/silence-force-cyclonic-effitech-modele-total-clean/csp/2211401224",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "corded",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      19.6,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616094215"
+     ],
+     "image": null
+    },
+    {
+     "rank": 57,
+     "model": "RH2038WO",
+     "salesName": "Rowenta X-Force Flex 9.60",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-960-kit-allergie/csp/7211004877",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2025-08-29",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      17.8,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616048027"
+     ],
+     "image": null
+    },
+    {
+     "rank": 58,
+     "model": "RH2078WO",
+     "salesName": "Rowenta X-Force Flex 9.60",
+     "salesNameSource": "https://www.rowenta.fr/p/x-force-flex-960-aspirateur-balai-sans-fil-100aw-45min-animal/7211005163",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2025-08-29",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      17.8,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616046238"
+     ],
+     "image": null
+    },
+    {
+     "rank": 59,
+     "model": "RH2079WO",
+     "salesName": "Rowenta X-Force Flex 9.60",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-960-kit-animal/csp/7211005162",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2025-08-29",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      17.8,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616046221"
+     ],
+     "image": null
+    },
+    {
+     "rank": 60,
+     "model": "RH2099WO",
+     "salesName": "Rowenta X-Force Flex 9.60",
+     "salesNameSource": "https://www.rowenta.de/p/x-force-flex-960-complete-akku-stab-staubsauger-tiefenreinigende-kraft/7211005275",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2025-08-29",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      17.8,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616135277"
+     ],
+     "image": null
+    },
+    {
+     "rank": 61,
+     "model": "RH20C0WO",
+     "salesName": "Rowenta X-Force Flex 9.60",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-960-aspirateur-balai-laveur-sans-fil-multifonction-modele-aqua/csp/2211401217",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2026-02-17",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      17.8,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616093973"
+     ],
+     "image": null
+    },
+    {
+     "rank": 62,
+     "model": "RH20C2WO",
+     "salesName": "Rowenta X-Force Flex 9.60",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-960-aqua/csp/2211401216",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2026-06-17",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      17.8,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616093966"
+     ],
+     "image": null
+    },
+    {
+     "rank": 63,
+     "model": "RH20C4WO",
+     "salesName": "Rowenta X-Force Flex 9.60",
+     "salesNameSource": "https://www.rowenta.be/fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-960-aqua/csp/2211401214",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2026-06-17",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      17.8,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616093850"
+     ],
+     "image": null
+    },
+    {
+     "rank": 64,
+     "model": "RH20C7WO",
+     "salesName": "Rowenta X-Force Flex 9.60",
+     "salesNameSource": "https://www.rowenta.be/fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-960-aqua/csp/2211401215",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2026-06-17",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      17.8,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616093959"
+     ],
+     "image": null
+    },
+    {
+     "rank": 65,
+     "model": "RH7A75E0",
+     "salesName": "Rowenta X-Force Flex 10.80",
+     "salesNameSource": "https://www.rowenta.fr/p/x-force-flex-1080-aspirateur-balai-sans-fil-120-aw-60-min-modele-animal/7211005471",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2026-02-23",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      18.9,
+      19.1,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616182042"
+     ],
+     "image": null
+    },
+    {
+     "rank": 66,
+     "model": "RH9898WO",
+     "salesName": "Rowenta X-Force Flex 11.60",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-1160-aqua/csp/2211401042",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2025-08-29",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      17.8,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616023291"
+     ],
+     "image": null
+    },
+    {
+     "rank": 67,
+     "model": "RH98A0WO",
+     "salesName": "Rowenta X-Force Flex 12.60",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-1260-modele-allergie/csp/2211401228",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2025-08-29",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      17.8,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616095397"
+     ],
+     "image": null
+    },
+    {
+     "rank": 68,
+     "model": "RH98A8WO",
+     "salesName": "Rowenta X-Force Flex 12.60",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-1260-kit-animal/csp/2211401121",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2025-08-29",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      17.8,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616048591"
+     ],
+     "image": null
+    },
+    {
+     "rank": 69,
+     "model": "RH98A9WO",
+     "salesName": "Rowenta X-Force Flex 12.60",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-1260-kit-animal/csp/2211401131",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2025-08-29",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      17.8,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616055094"
+     ],
+     "image": null
+    },
+    {
+     "rank": 70,
+     "model": "RH98C0WO",
+     "salesName": "Rowenta X-Force Flex 12.60",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-1260-aqua/csp/2211401123",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2025-08-29",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      17.8,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03700342479911"
+     ],
+     "image": null
+    },
+    {
+     "rank": 71,
+     "model": "RH98C8WO",
+     "salesName": "Rowenta X-Force Flex 12.60",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-1260-aqua/csp/2211401122",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2025-08-29",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      17.8,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616048607"
+     ],
+     "image": null
+    },
+    {
+     "rank": 72,
+     "model": "RH98A7WO",
+     "salesName": "Rowenta X-Force Flex Auto 12.60",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-auto-1260-aspirateur-balai-sans-fil-puissant-150aw-45min-animaux/csp/2211401120",
+     "placedOnMarketBy": "Groupe SEB Retailing",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2025-08-29",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      17.8,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616048584"
+     ],
+     "image": null
+    },
+    {
+     "rank": 73,
+     "model": "RH1126WO",
+     "salesName": "Rowenta X-NANO",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-nano/csp/7211004854",
+     "placedOnMarketBy": "Groupe SEB France",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      20,
+      20,
+      18,
+      20
+     ],
+     "gtins": [
+      "03221616055445"
+     ],
+     "image": null
+    },
+    {
+     "rank": 74,
+     "model": "RH1127WO",
+     "salesName": "Rowenta X-NANO",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-nano/csp/7211004795",
+     "placedOnMarketBy": "Groupe SEB France",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      20,
+      20,
+      18,
+      20
+     ],
+     "gtins": [
+      "03221616037656"
+     ],
+     "image": null
+    },
+    {
+     "rank": 75,
+     "model": "RH6876WO",
+     "salesName": "Rowenta X-Pert Flex 6.60",
+     "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/rowenta-x-pert-660-essential-cordless-stick-vacuum-animal-model/csp/7211005151",
+     "placedOnMarketBy": "Groupe SEB France",
+     "brandName": "Rowenta",
+     "type": "cordless",
+     "score": 9.8,
+     "calculated": "2025-03-28",
+     "spareParts": {
+      "yearsFrom": ">13",
+      "yearsTo": ">13"
+     },
+     "criteria": [
+      20,
+      19,
+      18.8,
+      20,
+      20
+     ],
+     "gtins": [
+      "03221616109568"
+     ],
+     "image": null
+    }
+   ],
+   "placedOnMarketBy": [
+    {
+     "name": "Groupe SEB France",
+     "models": 4,
+     "averageScore": 9.83,
+     "highestScore": 9.9,
+     "modelsWithSparePartsYears": 4
+    },
+    {
+     "name": "Bosch",
+     "models": 29,
+     "averageScore": 9.82,
+     "highestScore": 9.9,
+     "modelsWithSparePartsYears": 29
+    },
+    {
+     "name": "Groupe SEB Retailing",
+     "models": 77,
+     "averageScore": 9.74,
+     "highestScore": 9.8,
+     "modelsWithSparePartsYears": 77
+    },
+    {
+     "name": "Seb International Services",
+     "models": 6,
+     "averageScore": 9.6,
+     "highestScore": 9.6,
+     "modelsWithSparePartsYears": 6
+    },
+    {
+     "name": "ELECTROLUX",
+     "models": 44,
+     "averageScore": 8.44,
+     "highestScore": 9.6,
+     "modelsWithSparePartsYears": 0
+    },
+    {
+     "name": "POLTI",
+     "models": 10,
+     "averageScore": 7.67,
+     "highestScore": 8.1,
+     "modelsWithSparePartsYears": 0
+    },
+    {
+     "name": "ESSENTIELB",
+     "models": 3,
+     "averageScore": 7.3,
+     "highestScore": 7.5,
+     "modelsWithSparePartsYears": 3
+    },
+    {
+     "name": "LISTO",
+     "models": 4,
+     "averageScore": 7.13,
+     "highestScore": 7.7,
+     "modelsWithSparePartsYears": 4
+    },
+    {
+     "name": "ESSENTIUELB",
+     "models": 1,
+     "averageScore": 6.3,
+     "highestScore": 6.3,
+     "modelsWithSparePartsYears": 1
+    }
+   ],
+   "distribution": [
+    {
+     "from": 9.5,
+     "to": 10,
+     "models": 118
+    },
+    {
+     "from": 9,
+     "to": 9.4,
+     "models": 6
+    },
+    {
+     "from": 8.5,
+     "to": 8.9,
+     "models": 15
+    },
+    {
+     "from": 8,
+     "to": 8.4,
+     "models": 13
+    },
+    {
+     "from": 7.5,
+     "to": 7.9,
+     "models": 17
+    },
+    {
+     "from": 7,
+     "to": 7.4,
+     "models": 6
+    },
+    {
+     "from": 6.5,
+     "to": 6.9,
+     "models": 1
+    },
+    {
+     "from": 6,
+     "to": 6.4,
+     "models": 2
+    }
+   ],
+   "averageCriteria": {
+    "models": 177,
+    "documentation": 19.58,
+    "disassembly": 18.14,
+    "sparePartsAvailability": 19.02,
+    "sparePartsPrice": 15.89,
+    "productSpecific": 19.37
+   }
+  },
+  "laptops": {
+   "name": "Laptops (ordinateurs portables)",
+   "models": 1881,
+   "barcodes": 1946,
+   "datasetEntries": 1951,
+   "highestScore": 10,
+   "modelsWithHighestScore": 38,
+   "modelsWithSparePartsYears": 6,
+   "top": [
+    {
+     "rank": 1,
+     "model": "G614FR-S5082W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2026-09-15",
+     "spareParts": null,
+     "criteria": null,
+     "gtins": [
+      "04711636242271"
+     ],
+     "image": null
+    },
+    {
+     "rank": 2,
+     "model": "G614PM-DICRV106W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2026-06-30",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636322621"
+     ],
+     "image": null
+    },
+    {
+     "rank": 3,
+     "model": "G614PM-RV012W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636120159"
+     ],
+     "image": null
+    },
+    {
+     "rank": 4,
+     "model": "G614PM-S5084W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636120166"
+     ],
+     "image": null
+    },
+    {
+     "rank": 5,
+     "model": "G614PP-S5013W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2026-08-13",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636120180"
+     ],
+     "image": null
+    },
+    {
+     "rank": 6,
+     "model": "STRIX-G16-G614FM-DRF5035W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "TD SYNNEX",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-02-21",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636198431"
+     ],
+     "image": null
+    },
+    {
+     "rank": 7,
+     "model": "STRIX-G16-G614FM-DRS5038W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "TD SYNNEX",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-02-21",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636018302"
+     ],
+     "image": null
+    },
+    {
+     "rank": 8,
+     "model": "STRIX-G16-G614FM-S5008W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "TD SYNNEX",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-02-21",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711387911785"
+     ],
+     "image": null
+    },
+    {
+     "rank": 9,
+     "model": "STRIX-G16-G614FM-S5100W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "TD SYNNEX",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-02-21",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636432962"
+     ],
+     "image": null
+    },
+    {
+     "rank": 10,
+     "model": "STRIX-G16-G614FP-DRF5049W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636018326"
+     ],
+     "image": null
+    },
+    {
+     "rank": 11,
+     "model": "STRIX-G16-G614FP-DRS5045W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636018319"
+     ],
+     "image": null
+    },
+    {
+     "rank": 12,
+     "model": "STRIX-G16-G614FP-S5008W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636173681"
+     ],
+     "image": null
+    },
+    {
+     "rank": 13,
+     "model": "STRIX-G16-G614FP-S5050W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636215589"
+     ],
+     "image": null
+    },
+    {
+     "rank": 14,
+     "model": "STRIX-G16-G614FP-S5117W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636432979"
+     ],
+     "image": null
+    },
+    {
+     "rank": 15,
+     "model": "STRIX-G16-G614FP-S5170W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2026-11-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636532501"
+     ],
+     "image": null
+    },
+    {
+     "rank": 16,
+     "model": "STRIX-G16-G614FR-DRFS261W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2026-09-15",
+     "spareParts": null,
+     "criteria": null,
+     "gtins": [
+      "04711636445283"
+     ],
+     "image": null
+    },
+    {
+     "rank": 17,
+     "model": "STRIX-G16-G614FR-S5002W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-10-02",
+     "spareParts": null,
+     "criteria": null,
+     "gtins": [
+      "04711636173742"
+     ],
+     "image": null
+    },
+    {
+     "rank": 18,
+     "model": "STRIX-G16-G614FR-S5211W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-10-02",
+     "spareParts": null,
+     "criteria": null,
+     "gtins": [
+      "04711636215602"
+     ],
+     "image": null
+    },
+    {
+     "rank": 19,
+     "model": "STRIX-G16-G614FR-TS292W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2026-09-15",
+     "spareParts": null,
+     "criteria": null,
+     "gtins": [
+      "04711636674058"
+     ],
+     "image": null
+    },
+    {
+     "rank": 20,
+     "model": "STRIX-G16-G614FR-TS396W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2026-09-15",
+     "spareParts": null,
+     "criteria": null,
+     "gtins": [
+      "04711636532624"
+     ],
+     "image": null
+    },
+    {
+     "rank": 21,
+     "model": "STRIX-G16-G614PM-DRF5048W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636018685"
+     ],
+     "image": null
+    },
+    {
+     "rank": 22,
+     "model": "STRIX-G16-G614PM-DRS5045W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636018678"
+     ],
+     "image": null
+    },
+    {
+     "rank": 23,
+     "model": "STRIX-G16-G614PM-RV066W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636109963"
+     ],
+     "image": null
+    },
+    {
+     "rank": 24,
+     "model": "STRIX-G16-G614PM-RV092W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636124942"
+     ],
+     "image": null
+    },
+    {
+     "rank": 25,
+     "model": "STRIX-G16-G614PM-RV177W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2026-06-30",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636420457"
+     ],
+     "image": null
+    },
+    {
+     "rank": 26,
+     "model": "STRIX-G16-G614PM-RV230W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636478038"
+     ],
+     "image": null
+    },
+    {
+     "rank": 27,
+     "model": "STRIX-G16-G614PM-RV247W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2026-08-14",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636532815"
+     ],
+     "image": null
+    },
+    {
+     "rank": 28,
+     "model": "STRIX-G16-G614PM-RV272W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2026-08-14",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636649216"
+     ],
+     "image": null
+    },
+    {
+     "rank": 29,
+     "model": "STRIX-G16-G614PP-RV021W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2026-08-13",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636190091"
+     ],
+     "image": null
+    },
+    {
+     "rank": 30,
+     "model": "STRIX-G16-G614PP-RV202W",
+     "salesName": "ASUS ROG Strix G16",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g16-2025-g614/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2026-08-13",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636532891"
+     ],
+     "image": null
+    },
+    {
+     "rank": 31,
+     "model": "STRIX-G18-G814FP-DR9033W",
+     "salesName": "ASUS ROG Strix G18",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g18-2025-g814/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636019033"
+     ],
+     "image": null
+    },
+    {
+     "rank": 32,
+     "model": "STRIX-G18-G814FP-DRF095W",
+     "salesName": "ASUS ROG Strix G18",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g18-2025-g814/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2026-06-30",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636480109"
+     ],
+     "image": null
+    },
+    {
+     "rank": 33,
+     "model": "STRIX-G18-G814FP-DRF9034W",
+     "salesName": "ASUS ROG Strix G18",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g18-2025-g814/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636019040"
+     ],
+     "image": null
+    },
+    {
+     "rank": 34,
+     "model": "STRIX-G18-G814FP-DRF9057W",
+     "salesName": "ASUS ROG Strix G18",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g18-2025-g814/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636198455"
+     ],
+     "image": null
+    },
+    {
+     "rank": 35,
+     "model": "STRIX-G18-G814FP-S9035W",
+     "salesName": "ASUS ROG Strix G18",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g18-2025-g814/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636019057"
+     ],
+     "image": null
+    },
+    {
+     "rank": 36,
+     "model": "STRIX-G18-G814FP-S9036W",
+     "salesName": "ASUS ROG Strix G18",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g18-2025-g814/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636019064"
+     ],
+     "image": null
+    },
+    {
+     "rank": 37,
+     "model": "STRIX-G18-G814FP-S9078W",
+     "salesName": "ASUS ROG Strix G18",
+     "salesNameSource": "https://rog.asus.com/laptops/rog-strix/rog-strix-g18-2025-g814/spec/",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2025-05-02",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636432993"
+     ],
+     "image": null
+    },
+    {
+     "rank": 38,
+     "model": "STRIX-G18- G814FP-DR030W",
+     "placedOnMarketBy": "ASUS",
+     "brandName": "ASUS",
+     "score": 10,
+     "calculated": "2026-06-30",
+     "spareParts": null,
+     "criteria": [
+      20,
+      19.5,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "04711636480116"
+     ],
+     "image": null
+    }
+   ],
+   "placedOnMarketBy": [
+    {
+     "name": "ASUS",
+     "models": 767,
+     "averageScore": 9.67,
+     "highestScore": 10,
+     "modelsWithSparePartsYears": 0
+    },
+    {
+     "name": "FNAC DARTY PARTICIPATIONS ET SERVICES",
+     "models": 5,
+     "averageScore": 9.5,
+     "highestScore": 9.7,
+     "modelsWithSparePartsYears": 0
+    },
+    {
+     "name": "BOULANGER",
+     "models": 17,
+     "averageScore": 9.26,
+     "highestScore": 9.8,
+     "modelsWithSparePartsYears": 0
+    },
+    {
+     "name": "TD SYNNEX",
+     "models": 1086,
+     "averageScore": 9.24,
+     "highestScore": 10,
+     "modelsWithSparePartsYears": 0
+    },
+    {
+     "name": "BTLEC EST",
+     "models": 6,
+     "averageScore": 9.2,
+     "highestScore": 9.9,
+     "modelsWithSparePartsYears": 0
+    },
+    {
+     "name": "HP",
+     "models": 6,
+     "averageScore": 8.8,
+     "highestScore": 8.8,
+     "modelsWithSparePartsYears": 6
+    }
+   ],
+   "distribution": [
+    {
+     "from": 9.5,
+     "to": 10,
+     "models": 980
+    },
+    {
+     "from": 9,
+     "to": 9.4,
+     "models": 600
+    },
+    {
+     "from": 8.5,
+     "to": 8.9,
+     "models": 301
+    }
+   ],
+   "averageCriteria": {
+    "models": 1875,
+    "documentation": 19.94,
+    "disassembly": 17.85,
+    "sparePartsAvailability": 18.3,
+    "sparePartsPrice": 18.05,
+    "productSpecific": 19.99
+   }
+  },
+  "lawnMowersAndPressureWashers": {
+   "name": "Electric lawn mowers and pressure washers",
+   "models": 20,
+   "all": [
+    {
+     "model": "Sterwins High pressure cleaner ST7",
+     "placedOnMarketBy": "ADEO SERVICES",
+     "type": "pressure washer",
+     "score": 9.6,
+     "calculated": "2023-10-13",
+     "spareParts": null,
+     "criteria": [
+      16.9,
+      18.7,
+      20,
+      20,
+      20
+     ],
+     "gtins": [
+      "03276007641943"
+     ],
+     "image": null
+    },
+    {
+     "model": "Sterwins High pressure cleaner ST1.",
+     "placedOnMarketBy": "ADEO SERVICES",
+     "type": "pressure washer",
+     "score": 9.5,
+     "calculated": "2023-10-13",
+     "spareParts": null,
+     "criteria": [
+      16.9,
+      18.7,
+      20,
+      19,
+      20
+     ],
+     "gtins": [
+      "03276007641936"
+     ],
+     "image": null
+    },
+    {
+     "model": "Sterwins High pressure cleaner ST3",
+     "placedOnMarketBy": "ADEO SERVICES",
+     "type": "pressure washer",
+     "score": 9.5,
+     "calculated": "2023-10-13",
+     "spareParts": null,
+     "criteria": [
+      16.9,
+      18.7,
+      20,
+      19,
+      20
+     ],
+     "gtins": [
+      "03276007641912"
+     ],
+     "image": null
+    },
+    {
+     "model": "Sterwins High pressure cleaner ST5",
+     "placedOnMarketBy": "ADEO SERVICES",
+     "type": "pressure washer",
+     "score": 9.5,
+     "calculated": "2023-10-13",
+     "spareParts": null,
+     "criteria": [
+      16.9,
+      18.7,
+      20,
+      19,
+      20
+     ],
+     "gtins": [
+      "03276007641929"
+     ],
+     "image": null
+    },
+    {
+     "model": "4053423691177",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "robotic lawn mower",
+     "score": 9.4,
+     "calculated": "2026-01-08",
+     "spareParts": {
+      "yearsFrom": ">9",
+      "yearsTo": ">9"
+     },
+     "criteria": [
+      16.9,
+      19.8,
+      20,
+      20,
+      17.6
+     ],
+     "gtins": [
+      "04053423691177"
+     ],
+     "image": null
+    },
+    {
+     "model": "4053423706543",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "robotic lawn mower",
+     "score": 9.4,
+     "calculated": "2026-01-08",
+     "spareParts": {
+      "yearsFrom": ">9",
+      "yearsTo": ">9"
+     },
+     "criteria": [
+      16.9,
+      19.8,
+      20,
+      20,
+      17.6
+     ],
+     "gtins": [
+      "04053423706543"
+     ],
+     "image": null
+    },
+    {
+     "model": "4053423706567",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "robotic lawn mower",
+     "score": 9.4,
+     "calculated": "2026-01-08",
+     "spareParts": {
+      "yearsFrom": ">9",
+      "yearsTo": ">9"
+     },
+     "criteria": [
+      16.9,
+      19.8,
+      20,
+      20,
+      17.6
+     ],
+     "gtins": [
+      "04053423706567"
+     ],
+     "image": null
+    },
+    {
+     "model": "4053423864427",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "robotic lawn mower",
+     "score": 9.4,
+     "calculated": "2026-01-08",
+     "spareParts": {
+      "yearsFrom": ">9",
+      "yearsTo": ">9"
+     },
+     "criteria": [
+      16.9,
+      19.8,
+      20,
+      20,
+      17.6
+     ],
+     "gtins": [
+      "04053423864427"
+     ],
+     "image": null
+    },
+    {
+     "model": "4053423864434",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "robotic lawn mower",
+     "score": 9.4,
+     "calculated": "2026-01-08",
+     "spareParts": {
+      "yearsFrom": ">9",
+      "yearsTo": ">9"
+     },
+     "criteria": [
+      16.9,
+      19.8,
+      20,
+      20,
+      17.6
+     ],
+     "gtins": [
+      "04053423864434"
+     ],
+     "image": null
+    },
+    {
+     "model": "4053423864458",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "robotic lawn mower",
+     "score": 9.4,
+     "calculated": "2026-01-08",
+     "spareParts": {
+      "yearsFrom": ">9",
+      "yearsTo": ">9"
+     },
+     "criteria": [
+      16.9,
+      19.8,
+      20,
+      20,
+      17.6
+     ],
+     "gtins": [
+      "04053423864458"
+     ],
+     "image": null
+    },
+    {
+     "model": "4053423362183",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "battery lawn mower",
+     "score": 9.3,
+     "calculated": "2026-01-12",
+     "spareParts": {
+      "yearsFrom": ">9",
+      "yearsTo": ">9"
+     },
+     "criteria": [
+      17.8,
+      19.4,
+      20,
+      20,
+      16
+     ],
+     "gtins": [
+      "04053423362183"
+     ],
+     "image": null
+    },
+    {
+     "model": "4053423705775",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "battery lawn mower",
+     "score": 9.3,
+     "calculated": "2026-01-12",
+     "spareParts": {
+      "yearsFrom": ">9",
+      "yearsTo": ">9"
+     },
+     "criteria": [
+      17.8,
+      19.4,
+      20,
+      20,
+      16
+     ],
+     "gtins": [
+      "04053423705775"
+     ],
+     "image": null
+    },
+    {
+     "model": "4053423706321",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "battery lawn mower",
+     "score": 9.3,
+     "calculated": "2026-01-12",
+     "spareParts": {
+      "yearsFrom": ">9",
+      "yearsTo": ">9"
+     },
+     "criteria": [
+      17.8,
+      19.4,
+      20,
+      20,
+      16
+     ],
+     "gtins": [
+      "04053423706321"
+     ],
+     "image": null
+    },
+    {
+     "model": "4059952654812",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "battery lawn mower",
+     "score": 9.3,
+     "calculated": "2026-01-12",
+     "spareParts": {
+      "yearsFrom": ">7",
+      "yearsTo": ">9"
+     },
+     "criteria": [
+      17.8,
+      20,
+      19.3,
+      20,
+      16
+     ],
+     "gtins": [
+      "04059952654812"
+     ],
+     "image": null
+    },
+    {
+     "model": "4059952658018",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "battery lawn mower",
+     "score": 9.3,
+     "calculated": "2024-04-24",
+     "spareParts": {
+      "yearsFrom": ">7",
+      "yearsTo": ">9"
+     },
+     "criteria": [
+      17.8,
+      19.7,
+      19.3,
+      20,
+      16
+     ],
+     "gtins": [
+      "04059952658018"
+     ],
+     "image": null
+    },
+    {
+     "model": "4059952658032",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "battery lawn mower",
+     "score": 9.3,
+     "calculated": "2024-04-24",
+     "spareParts": {
+      "yearsFrom": ">7",
+      "yearsTo": ">9"
+     },
+     "criteria": [
+      17.8,
+      19.7,
+      19.3,
+      20,
+      16
+     ],
+     "gtins": [
+      "04059952658032"
+     ],
+     "image": null
+    },
+    {
+     "model": "4059952658056",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "battery lawn mower",
+     "score": 9.3,
+     "calculated": "2024-04-24",
+     "spareParts": {
+      "yearsFrom": ">7",
+      "yearsTo": ">9"
+     },
+     "criteria": [
+      17.8,
+      19.7,
+      19.3,
+      20,
+      16
+     ],
+     "gtins": [
+      "04059952658056"
+     ],
+     "image": null
+    },
+    {
+     "model": "4059952658063",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "battery lawn mower",
+     "score": 9.3,
+     "calculated": "2024-04-24",
+     "spareParts": {
+      "yearsFrom": ">7",
+      "yearsTo": ">9"
+     },
+     "criteria": [
+      17.8,
+      19.7,
+      19.3,
+      20,
+      16
+     ],
+     "gtins": [
+      "04059952658063"
+     ],
+     "image": null
+    },
+    {
+     "model": "4059952658070",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "battery lawn mower",
+     "score": 9.3,
+     "calculated": "2024-04-24",
+     "spareParts": {
+      "yearsFrom": ">7",
+      "yearsTo": ">9"
+     },
+     "criteria": [
+      17.8,
+      19.7,
+      19.3,
+      20,
+      16
+     ],
+     "gtins": [
+      "04059952658070"
+     ],
+     "image": null
+    },
+    {
+     "model": "4059952658094",
+     "placedOnMarketBy": "Bosch",
+     "brandName": "Bosch",
+     "type": "battery lawn mower",
+     "score": 9.3,
+     "calculated": "2024-04-24",
+     "spareParts": {
+      "yearsFrom": ">7",
+      "yearsTo": ">9"
+     },
+     "criteria": [
+      17.8,
+      19.7,
+      19.3,
+      20,
+      16
+     ],
+     "gtins": [
+      "04059952658094"
+     ],
+     "image": null
+    }
+   ]
+  }
+ }
+}

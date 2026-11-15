@@ -1,0 +1,1246 @@
+{
+ "license": "CC BY 4.0",
+ "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+ "publisher": "MMR Labs GmbH",
+ "source": "https://www.repairinfo.app",
+ "updated": "2026-10-13",
+ "note": "Not legal advice.",
+ "sources": [
+  {
+   "id": "rl-2024-825",
+   "titel": {
+    "de": "Richtlinie (EU) 2024/825 (Stärkung der Verbraucher für den ökologischen Wandel)",
+    "en": "Directive (EU) 2024/825 (empowering consumers for the green transition)",
+    "fr": "Directive (UE) 2024/825 (donner aux consommateurs les moyens d’agir en faveur de la transition verte)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L0825",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L0825",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024L0825"
+   },
+   "datum": "2024-03-06",
+   "art": "richtlinie"
+  },
+  {
+   "id": "rl-2011-83",
+   "titel": {
+    "de": "Richtlinie 2011/83/EU über die Rechte der Verbraucher",
+    "en": "Directive 2011/83/EU on consumer rights",
+    "fr": "Directive 2011/83/UE relative aux droits des consommateurs"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02011L0083-20240326",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011L0083-20240326",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02011L0083-20240326"
+   },
+   "datum": "2024-03-26",
+   "art": "richtlinie"
+  },
+  {
+   "id": "egbgb-246a",
+   "titel": {
+    "de": "Art. 246a § 1 EGBGB (Informationspflichten bei Fernabsatzverträgen)",
+    "en": "Article 246a § 1 EGBGB (German pre-contractual information duties, distance contracts)",
+    "fr": "Article 246a § 1 EGBGB (obligations d’information allemandes, contrats à distance)"
+   },
+   "von": "Bundesministerium der Justiz",
+   "url": "https://www.gesetze-im-internet.de/bgbeg/art_246a__1.html",
+   "datum": "2026-09-27",
+   "art": "gesetz"
+  },
+  {
+   "id": "vo-2023-1669",
+   "titel": {
+    "de": "Delegierte Verordnung (EU) 2023/1669 (Energieverbrauchskennzeichnung von Smartphones und Slate-Tablets)",
+    "en": "Delegated Regulation (EU) 2023/1669 (energy labelling of smartphones and slate tablets)",
+    "fr": "Règlement délégué (UE) 2023/1669 (étiquetage énergétique des smartphones et tablettes)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R1669",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1669",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R1669"
+   },
+   "datum": "2023-06-16",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2023-1670",
+   "titel": {
+    "de": "Verordnung (EU) 2023/1670 (Ökodesign-Anforderungen an Smartphones und Slate-Tablets)",
+    "en": "Regulation (EU) 2023/1670 (ecodesign requirements for smartphones and slate tablets)",
+    "fr": "Règlement (UE) 2023/1670 (exigences d’écoconception des smartphones et tablettes)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R1670",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1670",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R1670"
+   },
+   "datum": "2023-06-16",
+   "art": "verordnung"
+  },
+  {
+   "id": "rl-2024-1799",
+   "titel": {
+    "de": "Richtlinie (EU) 2024/1799 (Förderung der Reparatur von Waren)",
+    "en": "Directive (EU) 2024/1799 (promoting the repair of goods)",
+    "fr": "Directive (UE) 2024/1799 (promotion de la réparation des biens)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L1799",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1799",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024L1799"
+   },
+   "datum": "2024-06-13",
+   "art": "richtlinie"
+  },
+  {
+   "id": "rl-2019-771",
+   "titel": {
+    "de": "Richtlinie (EU) 2019/771 (Warenkauf-Richtlinie)",
+    "en": "Directive (EU) 2019/771 (sale of goods)",
+    "fr": "Directive (UE) 2019/771 (vente de biens)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0771",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0771",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L0771"
+   },
+   "datum": "2019-05-20",
+   "art": "richtlinie"
+  },
+  {
+   "id": "vo-2017-1369",
+   "titel": {
+    "de": "Verordnung (EU) 2017/1369 (Rahmen für die Energieverbrauchskennzeichnung)",
+    "en": "Regulation (EU) 2017/1369 (energy labelling framework)",
+    "fr": "Règlement (UE) 2017/1369 (cadre pour l’étiquetage énergétique)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1369",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R1369",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R1369"
+   },
+   "datum": "2017-07-04",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2026-879",
+   "titel": {
+    "de": "Delegierte Verordnung (EU) 2026/879 (Berichtigung der Verordnung 2023/1669)",
+    "en": "Delegated Regulation (EU) 2026/879 (correcting Regulation 2023/1669)",
+    "fr": "Règlement délégué (UE) 2026/879 (rectification du règlement 2023/1669)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026R0879",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0879",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0879"
+   },
+   "datum": "2025-12-05",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2025-2006",
+   "titel": {
+    "de": "Verordnung (EU) 2025/2006 (Berichtigung und Änderung der Verordnung 2023/1670)",
+    "en": "Regulation (EU) 2025/2006 (correcting and amending Regulation 2023/1670)",
+    "fr": "Règlement (UE) 2025/2006 (correction et modification du règlement 2023/1670)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R2006",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2006",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R2006"
+   },
+   "datum": "2025-12-18",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2019-2023",
+   "titel": {
+    "de": "Verordnung (EU) 2019/2023 (Ökodesign für Waschmaschinen und Waschtrockner)",
+    "en": "Regulation (EU) 2019/2023 (ecodesign for washing machines and washer-dryers)",
+    "fr": "Règlement (UE) 2019/2023 (écoconception des lave-linge et lave-linge séchants)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R2023",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R2023",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R2023"
+   },
+   "datum": "2019-10-01",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2019-2022",
+   "titel": {
+    "de": "Verordnung (EU) 2019/2022 (Ökodesign für Geschirrspüler)",
+    "en": "Regulation (EU) 2019/2022 (ecodesign for dishwashers)",
+    "fr": "Règlement (UE) 2019/2022 (écoconception des lave-vaisselle)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R2022",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R2022",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R2022"
+   },
+   "datum": "2019-10-01",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2019-2019",
+   "titel": {
+    "de": "Verordnung (EU) 2019/2019 (Ökodesign für Kühlgeräte)",
+    "en": "Regulation (EU) 2019/2019 (ecodesign for refrigerating appliances)",
+    "fr": "Règlement (UE) 2019/2019 (écoconception des appareils de réfrigération)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R2019",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R2019",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R2019"
+   },
+   "datum": "2019-10-01",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2019-2021",
+   "titel": {
+    "de": "Verordnung (EU) 2019/2021 (Ökodesign für elektronische Displays)",
+    "en": "Regulation (EU) 2019/2021 (ecodesign for electronic displays)",
+    "fr": "Règlement (UE) 2019/2021 (écoconception des écrans électroniques)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R2021",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R2021",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R2021"
+   },
+   "datum": "2019-10-01",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2021-341",
+   "titel": {
+    "de": "Verordnung (EU) 2021/341 (Änderung mehrerer Ökodesign-Verordnungen)",
+    "en": "Regulation (EU) 2021/341 (amending several ecodesign regulations)",
+    "fr": "Règlement (UE) 2021/341 (modification de plusieurs règlements d’écoconception)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021R0341",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0341",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R0341"
+   },
+   "datum": "2021-02-23",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2019-1784",
+   "titel": {
+    "de": "Verordnung (EU) 2019/1784 (Ökodesign für Schweißgeräte)",
+    "en": "Regulation (EU) 2019/1784 (ecodesign for welding equipment)",
+    "fr": "Règlement (UE) 2019/1784 (écoconception du matériel de soudage)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R1784",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1784",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R1784"
+   },
+   "datum": "2019-10-01",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2019-424",
+   "titel": {
+    "de": "Verordnung (EU) 2019/424 (Ökodesign für Server und Datenspeicher)",
+    "en": "Regulation (EU) 2019/424 (ecodesign for servers and data storage products)",
+    "fr": "Règlement (UE) 2019/424 (écoconception des serveurs et produits de stockage de données)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0424",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0424",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R0424"
+   },
+   "datum": "2019-03-15",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2023-2533",
+   "titel": {
+    "de": "Verordnung (EU) 2023/2533 (Ökodesign für Haushaltswäschetrockner)",
+    "en": "Regulation (EU) 2023/2533 (ecodesign for household tumble dryers)",
+    "fr": "Règlement (UE) 2023/2533 (écoconception des sèche-linge ménagers)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R2533",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2533",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R2533"
+   },
+   "datum": "2023-11-17",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2025-2262",
+   "titel": {
+    "de": "Verordnung (EU) 2025/2262 (Änderung der Verordnung 2023/2533)",
+    "en": "Regulation (EU) 2025/2262 (amending Regulation 2023/2533)",
+    "fr": "Règlement (UE) 2025/2262 (modification du règlement 2023/2533)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R2262",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2262",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R2262"
+   },
+   "datum": "2025-11-11",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2023-2534",
+   "titel": {
+    "de": "Delegierte Verordnung (EU) 2023/2534 (Energielabel für Wäschetrockner)",
+    "en": "Delegated Regulation (EU) 2023/2534 (energy labelling of tumble dryers)",
+    "fr": "Règlement délégué (UE) 2023/2534 (étiquetage énergétique des sèche-linge)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R2534",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2534",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R2534"
+   },
+   "datum": "2023-07-13",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2025-1353",
+   "titel": {
+    "de": "Delegierte Verordnung (EU) 2025/1353 (Reparierbarkeitsklasse für Wäschetrockner)",
+    "en": "Delegated Regulation (EU) 2025/1353 (repairability class for tumble dryers)",
+    "fr": "Règlement délégué (UE) 2025/1353 (classe de réparabilité des sèche-linge)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32025R1353",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1353",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1353"
+   },
+   "datum": "2025-07-01",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2013-666",
+   "titel": {
+    "de": "Verordnung (EU) Nr. 666/2013 (Ökodesign für Staubsauger)",
+    "en": "Regulation (EU) No 666/2013 (ecodesign for vacuum cleaners)",
+    "fr": "Règlement (UE) n° 666/2013 (écoconception des aspirateurs)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32013R0666",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0666",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013R0666"
+   },
+   "datum": "2013-07-08",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2024-1103",
+   "titel": {
+    "de": "Verordnung (EU) 2024/1103 (Ökodesign für Einzelraumheizgeräte)",
+    "en": "Regulation (EU) 2024/1103 (ecodesign for local space heaters)",
+    "fr": "Règlement (UE) 2024/1103 (écoconception des dispositifs de chauffage décentralisés)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R1103",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1103",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R1103"
+   },
+   "datum": "2024-04-18",
+   "art": "verordnung"
+  },
+  {
+   "id": "rl-2026-74",
+   "titel": {
+    "de": "Delegierte Richtlinie (EU) 2026/74 (Einzelraumheizgeräte im Anhang II der Richtlinie 2024/1799)",
+    "en": "Delegated Directive (EU) 2026/74 (local space heaters added to Annex II of Directive 2024/1799)",
+    "fr": "Directive déléguée (UE) 2026/74 (chauffage décentralisé ajouté à l’annexe II de la directive 2024/1799)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32026L0074",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026L0074",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026L0074"
+   },
+   "datum": "2026-01-12",
+   "art": "richtlinie"
+  },
+  {
+   "id": "vo-2023-1542",
+   "titel": {
+    "de": "Verordnung (EU) 2023/1542 (Batterien und Altbatterien)",
+    "en": "Regulation (EU) 2023/1542 (batteries and waste batteries)",
+    "fr": "Règlement (UE) 2023/1542 (batteries et déchets de batteries)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R1542",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1542",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R1542"
+   },
+   "datum": "2023-07-12",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2017-2394",
+   "titel": {
+    "de": "Verordnung (EU) 2017/2394 (Zusammenarbeit der Verbraucherschutzbehörden)",
+    "en": "Regulation (EU) 2017/2394 (consumer protection cooperation)",
+    "fr": "Règlement (UE) 2017/2394 (coopération en matière de protection des consommateurs)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R2394",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2394",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R2394"
+   },
+   "datum": "2017-12-12",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2022-2065",
+   "titel": {
+    "de": "Verordnung (EU) 2022/2065 (Gesetz über digitale Dienste)",
+    "en": "Regulation (EU) 2022/2065 (Digital Services Act)",
+    "fr": "Règlement (UE) 2022/2065 (règlement sur les services numériques)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2065",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2065"
+   },
+   "datum": "2022-10-19",
+   "art": "verordnung"
+  },
+  {
+   "id": "vo-2008-593",
+   "titel": {
+    "de": "Verordnung (EG) Nr. 593/2008 (Rom I)",
+    "en": "Regulation (EC) No 593/2008 (Rome I)",
+    "fr": "Règlement (CE) n° 593/2008 (Rome I)"
+   },
+   "von": "EUR-Lex",
+   "url": {
+    "de": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32008R0593",
+    "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0593",
+    "fr": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008R0593"
+   },
+   "datum": "2008-06-17",
+   "art": "verordnung"
+  },
+  {
+   "id": "bgbl-2026-28",
+   "titel": {
+    "de": "Gesetz zur Änderung des Verbrauchervertrags- und des Versicherungsvertragsrechts, BGBl. 2026 I Nr. 28",
+    "en": "German act transposing Directive (EU) 2024/825, Federal Law Gazette 2026 I No. 28",
+    "fr": "Loi allemande transposant la directive (UE) 2024/825, BGBl. 2026 I n° 28"
+   },
+   "von": "Bundesgesetzblatt",
+   "url": "https://www.recht.bund.de/eli/bund/bgbl-1/2026/28",
+   "datum": "2026-02-05",
+   "art": "gesetz"
+  },
+  {
+   "id": "bt-drs-21-1856",
+   "titel": {
+    "de": "Gesetzentwurf der Bundesregierung, BT-Drs. 21/1856",
+    "en": "German government bill, Bundestag printed paper 21/1856",
+    "fr": "Projet de loi du gouvernement allemand, BT-Drs. 21/1856"
+   },
+   "von": "Deutscher Bundestag",
+   "url": "https://dserver.bundestag.de/btd/21/018/2101856.pdf",
+   "datum": "2025-09-29",
+   "art": "parlament"
+  },
+  {
+   "id": "bt-drs-21-3345",
+   "titel": {
+    "de": "Beschlussempfehlung und Bericht, BT-Drs. 21/3345",
+    "en": "Committee report, Bundestag printed paper 21/3345",
+    "fr": "Rapport de commission, BT-Drs. 21/3345"
+   },
+   "von": "Deutscher Bundestag",
+   "url": "https://dserver.bundestag.de/btd/21/033/2103345.pdf",
+   "datum": "2025-12-17",
+   "art": "parlament"
+  },
+  {
+   "id": "brd-7-26",
+   "titel": {
+    "de": "Gesetzesbeschluss, BR-Drs. 7/26",
+    "en": "Bundesrat printed paper 7/26",
+    "fr": "Bundesrat, BR-Drs. 7/26"
+   },
+   "von": "Bundesrat",
+   "url": "https://dserver.bundestag.de/brd/2026/0007-26.pdf",
+   "datum": "2026-01-09",
+   "art": "parlament"
+  },
+  {
+   "id": "egbgb-246",
+   "titel": {
+    "de": "Art. 246 EGBGB (Informationspflichten im Ladengeschäft)",
+    "en": "Article 246 EGBGB (German information duties, in-store contracts)",
+    "fr": "Article 246 EGBGB (obligations d’information allemandes, contrats en magasin)"
+   },
+   "von": "Bundesministerium der Justiz",
+   "url": "https://www.gesetze-im-internet.de/bgbeg/BJNR006049896.html",
+   "datum": "2026-09-27",
+   "art": "gesetz"
+  },
+  {
+   "id": "egbgb-246e",
+   "titel": {
+    "de": "Art. 246e EGBGB (Bußgeld bei weitverbreiteten Verstößen)",
+    "en": "Article 246e EGBGB (fines for widespread infringements)",
+    "fr": "Article 246e EGBGB (amendes en cas d’infractions de grande ampleur)"
+   },
+   "von": "Bundesministerium der Justiz",
+   "url": "https://www.gesetze-im-internet.de/bgbeg/art_246e__1.html",
+   "datum": "2026-06-19",
+   "art": "gesetz"
+  },
+  {
+   "id": "egbgb-245",
+   "titel": {
+    "de": "Art. 245 und Art. 229 § 72 EGBGB (Formular für Reparaturinformationen, Übergang)",
+    "en": "Articles 245 and 229 § 72 EGBGB (European Repair Information Form, transition)",
+    "fr": "Articles 245 et 229 § 72 EGBGB (formulaire européen d’information sur la réparation, transition)"
+   },
+   "von": "Bundesgesetzblatt",
+   "url": "https://www.recht.bund.de/eli/bund/bgbl-1/2026/212",
+   "datum": "2026-07-23",
+   "art": "gesetz"
+  },
+  {
+   "id": "bgb-312",
+   "titel": {
+    "de": "§§ 312 bis 312m BGB (Verbraucherverträge und Fernabsatz)",
+    "en": "Sections 312 to 312m BGB (consumer and distance contracts)",
+    "fr": "§§ 312 à 312m BGB (contrats de consommation et à distance)"
+   },
+   "von": "Bundesministerium der Justiz",
+   "url": "https://www.gesetze-im-internet.de/bgb/__312.html",
+   "datum": "2026-09-27",
+   "art": "gesetz"
+  },
+  {
+   "id": "bgb-434",
+   "titel": {
+    "de": "§ 434 BGB (Sachmangel)",
+    "en": "Section 434 BGB (defects as to quality)",
+    "fr": "§ 434 BGB (défaut de conformité)"
+   },
+   "von": "Bundesministerium der Justiz",
+   "url": "https://www.gesetze-im-internet.de/bgb/__434.html",
+   "datum": "2026-07-23",
+   "art": "gesetz"
+  },
+  {
+   "id": "bgb-475",
+   "titel": {
+    "de": "§ 475 und § 475e BGB (Verbrauchsgüterkauf, Verjährung)",
+    "en": "Sections 475 and 475e BGB (consumer sales, limitation)",
+    "fr": "§ 475 et § 475e BGB (vente au consommateur, prescription)"
+   },
+   "von": "Bundesministerium der Justiz",
+   "url": "https://www.gesetze-im-internet.de/bgb/__475e.html",
+   "datum": "2026-07-23",
+   "art": "gesetz"
+  },
+  {
+   "id": "bgb-438",
+   "titel": {
+    "de": "§ 438 BGB (Verjährung der Mängelansprüche)",
+    "en": "Section 438 BGB (limitation of claims for defects)",
+    "fr": "§ 438 BGB (prescription des droits liés aux défauts)"
+   },
+   "von": "Bundesministerium der Justiz",
+   "url": "https://www.gesetze-im-internet.de/bgb/__438.html",
+   "datum": "2026-10-13",
+   "art": "gesetz"
+  },
+  {
+   "id": "bgb-476",
+   "titel": {
+    "de": "§ 476 BGB (Abweichende Vereinbarungen, gebrauchte Waren)",
+    "en": "Section 476 BGB (derogating agreements, used goods)",
+    "fr": "§ 476 BGB (conventions dérogatoires, biens d’occasion)"
+   },
+   "von": "Bundesministerium der Justiz",
+   "url": "https://www.gesetze-im-internet.de/bgb/__476.html",
+   "datum": "2026-10-13",
+   "art": "gesetz"
+  },
+  {
+   "id": "bgb-474",
+   "titel": {
+    "de": "§ 474 BGB (Verbrauchsgüterkauf)",
+    "en": "Section 474 BGB (consumer sales contracts)",
+    "fr": "§ 474 BGB (vente au consommateur)"
+   },
+   "von": "Bundesministerium der Justiz",
+   "url": "https://www.gesetze-im-internet.de/bgb/__474.html",
+   "datum": "2026-10-31",
+   "art": "gesetz"
+  },
+  {
+   "id": "bgb-477",
+   "titel": {
+    "de": "§ 477 BGB (Beweislastumkehr)",
+    "en": "Section 477 BGB (reversal of the burden of proof)",
+    "fr": "§ 477 BGB (renversement de la charge de la preuve)"
+   },
+   "von": "Bundesministerium der Justiz",
+   "url": "https://www.gesetze-im-internet.de/bgb/__477.html",
+   "datum": "2026-10-31",
+   "art": "gesetz"
+  },
+  {
+   "id": "bgb-355",
+   "titel": {
+    "de": "§§ 355, 356 BGB (Widerrufsrecht bei Verbraucherverträgen, Widerrufsfrist)",
+    "en": "Sections 355 and 356 BGB (right of withdrawal in consumer contracts, withdrawal period)",
+    "fr": "§§ 355 et 356 BGB (droit de rétractation, délai)"
+   },
+   "von": "Bundesministerium der Justiz",
+   "url": "https://www.gesetze-im-internet.de/bgb/__355.html",
+   "datum": "2026-10-31",
+   "art": "gesetz"
+  },
+  {
+   "id": "bgb-187",
+   "titel": {
+    "de": "§§ 187, 188, 190 BGB (Fristbeginn, Fristende, Fristverlängerung)",
+    "en": "Sections 187, 188, 190 BGB (start, end and extension of periods)",
+    "fr": "§§ 187, 188, 190 BGB (début, fin et prolongation des délais)"
+   },
+   "von": "Bundesministerium der Justiz",
+   "url": "https://www.gesetze-im-internet.de/bgb/__188.html",
+   "datum": "2026-10-13",
+   "art": "gesetz"
+  },
+  {
+   "id": "bgb-479a",
+   "titel": {
+    "de": "§§ 479a bis 479g BGB (Reparaturpflicht des Herstellers)",
+    "en": "Sections 479a to 479g BGB (manufacturer’s obligation to repair)",
+    "fr": "§§ 479a à 479g BGB (obligation de réparation du fabricant)"
+   },
+   "von": "Bundesministerium der Justiz",
+   "url": "https://www.gesetze-im-internet.de/bgb/__479a.html",
+   "datum": "2026-07-23",
+   "art": "gesetz"
+  },
+  {
+   "id": "bgbl-2026-212",
+   "titel": {
+    "de": "Gesetz zur Umsetzung der Richtlinie (EU) 2024/1799, BGBl. 2026 I Nr. 212",
+    "en": "German act transposing Directive (EU) 2024/1799, Federal Law Gazette 2026 I No. 212",
+    "fr": "Loi allemande transposant la directive (UE) 2024/1799, BGBl. 2026 I n° 212"
+   },
+   "von": "Bundesgesetzblatt",
+   "url": "https://www.recht.bund.de/eli/bund/bgbl-1/2026/212",
+   "datum": "2026-07-22",
+   "art": "gesetz"
+  },
+  {
+   "id": "bt-drs-21-5923",
+   "titel": {
+    "de": "Gesetzentwurf zum Recht auf Reparatur, BT-Drs. 21/5923",
+    "en": "German bill on the right to repair, Bundestag printed paper 21/5923",
+    "fr": "Projet de loi allemand sur le droit à la réparation, BT-Drs. 21/5923"
+   },
+   "von": "Deutscher Bundestag",
+   "url": "https://dserver.bundestag.de/btd/21/059/2105923.pdf",
+   "datum": "2026-05-13",
+   "art": "parlament"
+  },
+  {
+   "id": "bt-drs-21-6693",
+   "titel": {
+    "de": "Beschlussempfehlung und Bericht, BT-Drs. 21/6693",
+    "en": "Committee report, Bundestag printed paper 21/6693",
+    "fr": "Rapport de commission, BT-Drs. 21/6693"
+   },
+   "von": "Deutscher Bundestag",
+   "url": "https://dserver.bundestag.de/btd/21/066/2106693.pdf",
+   "datum": "2026-06-24",
+   "art": "parlament"
+  },
+  {
+   "id": "uwg",
+   "titel": {
+    "de": "Gesetz gegen den unlauteren Wettbewerb (UWG)",
+    "en": "German Act against Unfair Competition (UWG)",
+    "fr": "Loi allemande contre la concurrence déloyale (UWG)"
+   },
+   "von": "Bundesministerium der Justiz",
+   "url": "https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html",
+   "datum": "2026-09-27",
+   "art": "gesetz"
+  },
+  {
+   "id": "bgbl-2026-43",
+   "titel": {
+    "de": "Drittes Gesetz zur Änderung des UWG, BGBl. 2026 I Nr. 43",
+    "en": "Third act amending the UWG, Federal Law Gazette 2026 I No. 43",
+    "fr": "Troisième loi modifiant l’UWG, BGBl. 2026 I n° 43"
+   },
+   "von": "Bundesgesetzblatt",
+   "url": "https://www.recht.bund.de/eli/bund/bgbl-1/2026/43",
+   "datum": "2026-02-19",
+   "art": "gesetz"
+  },
+  {
+   "id": "uklag",
+   "titel": {
+    "de": "§ 2 Unterlassungsklagengesetz (UKlaG)",
+    "en": "Section 2 German Injunctions Act (UKlaG)",
+    "fr": "§ 2 UKlaG (actions en cessation, Allemagne)"
+   },
+   "von": "Bundesministerium der Justiz",
+   "url": "https://www.gesetze-im-internet.de/uklag/__2.html",
+   "datum": "2026-10-13",
+   "art": "gesetz"
+  },
+  {
+   "id": "envkg",
+   "titel": {
+    "de": "Energieverbrauchskennzeichnungsgesetz (EnVKG)",
+    "en": "German Energy Consumption Labelling Act (EnVKG)",
+    "fr": "Loi allemande sur l’étiquetage énergétique (EnVKG)"
+   },
+   "von": "Bundesministerium der Justiz",
+   "url": "https://www.gesetze-im-internet.de/envkg_2012/BJNR107010012.html",
+   "datum": "2026-07-23",
+   "art": "gesetz"
+  },
+  {
+   "id": "envkv",
+   "titel": {
+    "de": "Energieverbrauchskennzeichnungsverordnung (EnVKV)",
+    "en": "German Energy Consumption Labelling Ordinance (EnVKV)",
+    "fr": "Ordonnance allemande sur l’étiquetage énergétique (EnVKV)"
+   },
+   "von": "Bundesministerium der Justiz",
+   "url": "https://www.gesetze-im-internet.de/envkv/BJNR261600997.html",
+   "datum": "2021-02-19",
+   "art": "gesetz"
+  },
+  {
+   "id": "code-env-l541-9-2",
+   "titel": {
+    "de": "Art. L. 541-9-2 Code de l’environnement (Reparierbarkeits- und Haltbarkeitsindex)",
+    "en": "Article L. 541-9-2 French Environmental Code (repairability and durability index)",
+    "fr": "Article L. 541-9-2 du Code de l’environnement (indices de réparabilité et de durabilité)"
+   },
+   "von": "Légifrance",
+   "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041555848",
+   "datum": "2021-01-01",
+   "art": "frrecht"
+  },
+  {
+   "id": "code-env-l541-9-4",
+   "titel": {
+    "de": "Art. L. 541-9-4 Code de l’environnement (Geldbußen)",
+    "en": "Article L. 541-9-4 French Environmental Code (fines)",
+    "fr": "Article L. 541-9-4 du Code de l’environnement (amendes)"
+   },
+   "von": "Légifrance",
+   "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044244398",
+   "datum": "2022-01-01",
+   "art": "frrecht"
+  },
+  {
+   "id": "code-env-l541-9-4-1",
+   "titel": {
+    "de": "Art. L. 541-9-4-1 Code de l’environnement",
+    "en": "Article L. 541-9-4-1 French Environmental Code",
+    "fr": "Article L. 541-9-4-1 du Code de l’environnement"
+   },
+   "von": "Légifrance",
+   "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043959912",
+   "datum": "2022-01-01",
+   "art": "frrecht"
+  },
+  {
+   "id": "code-conso-l111-4",
+   "titel": {
+    "de": "Art. L. 111-4 Code de la consommation (Information über die Verfügbarkeit von Ersatzteilen)",
+    "en": "Article L111-4 French Consumer Code (information on spare parts availability)",
+    "fr": "Article L111-4 du Code de la consommation (disponibilité des pièces détachées)"
+   },
+   "von": "Légifrance",
+   "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044330854",
+   "datum": "2022-01-01",
+   "art": "frrecht"
+  },
+  {
+   "id": "code-conso-l217-3",
+   "titel": {
+    "de": "Art. L. 217-3 bis L. 217-7 Code de la consommation (garantie légale de conformité, gebrauchte Waren)",
+    "en": "Articles L217-3 to L217-7 French Consumer Code (legal guarantee of conformity, second-hand goods)",
+    "fr": "Articles L217-3 à L217-7 du Code de la consommation (garantie légale de conformité, biens d’occasion)"
+   },
+   "von": "Légifrance",
+   "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032221271/",
+   "datum": "2021-10-01",
+   "art": "frrecht"
+  },
+  {
+   "id": "code-conso-l221-18",
+   "titel": {
+    "de": "Art. L. 221-18 Code de la consommation (Widerrufsfrist von 14 Tagen im Fernabsatz)",
+    "en": "Article L221-18 French Consumer Code (14-day withdrawal period for distance contracts)",
+    "fr": "Article L221-18 du Code de la consommation (délai de rétractation de quatorze jours)"
+   },
+   "von": "Légifrance",
+   "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226842/",
+   "datum": "2016-07-01",
+   "art": "frrecht"
+  },
+  {
+   "id": "code-conso-r122-4",
+   "titel": {
+    "de": "Art. R. 122-4 bis R. 122-6 Code de la consommation (Begriff „reconditionné“)",
+    "en": "Articles R122-4 to R122-6 French Consumer Code (use of the term “reconditionné”)",
+    "fr": "Articles R122-4 à R122-6 du Code de la consommation (termes « reconditionné » et « produit reconditionné »)"
+   },
+   "von": "Légifrance",
+   "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000045186097/",
+   "datum": "2022-02-17",
+   "art": "frrecht"
+  },
+  {
+   "id": "dgccrf-pieces-detachees",
+   "titel": {
+    "de": "DGCCRF-Merkblatt: Information über die Verfügbarkeit von Ersatzteilen",
+    "en": "DGCCRF fact sheet: information on spare parts availability",
+    "fr": "Les pièces détachées : l’information sur leur disponibilité (DGCCRF)"
+   },
+   "von": "DGCCRF",
+   "url": "https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/les-pieces-detachees-linformation-sur-leur-disponibilite",
+   "datum": "2021-01-13",
+   "art": "behoerde"
+  },
+  {
+   "id": "decret-2020-1757",
+   "titel": {
+    "de": "Décret n° 2020-1757 (französischer Reparierbarkeitsindex)",
+    "en": "Décret n° 2020-1757 (French repairability index)",
+    "fr": "Décret n° 2020-1757 relatif à l’indice de réparabilité"
+   },
+   "von": "Journal officiel, via AIDA (INERIS)",
+   "url": "https://aida.ineris.fr/reglementation/decret-ndeg-2020-1757-291220-relatif-a-lindice-reparabilite-equipements-electriques",
+   "datum": "2020-12-29",
+   "art": "frrecht"
+  },
+  {
+   "id": "arrete-2025-06-26",
+   "titel": {
+    "de": "Arrêté vom 26.06.2025 (Aufhebung des französischen Index für Smartphones)",
+    "en": "Arrêté of 26 June 2025 (repealing the French smartphone index)",
+    "fr": "Arrêté du 26 juin 2025 abrogeant l’indice de réparabilité des smartphones"
+   },
+   "von": "Journal officiel, via AIDA (INERIS)",
+   "url": "https://aida.ineris.fr/reglementation/arrete-260625-abrogeant-larrete-29-decembre-2020-relatif-criteres-sous-criteres",
+   "datum": "2025-06-26",
+   "art": "frrecht"
+  },
+  {
+   "id": "decret-2024-316",
+   "titel": {
+    "de": "Décret n° 2024-316 (französischer Haltbarkeitsindex)",
+    "en": "Décret n° 2024-316 (French durability index)",
+    "fr": "Décret n° 2024-316 relatif à l’indice de durabilité"
+   },
+   "von": "Journal officiel, via AIDA (INERIS)",
+   "url": "https://aida.ineris.fr/reglementation/decret-ndeg-2024-316-050424-relatif-a-lindice-durabilite-equipements-electriques",
+   "datum": "2024-04-05",
+   "art": "frrecht"
+  },
+  {
+   "id": "arrete-2020-12-29-affichage",
+   "titel": {
+    "de": "Arrêté vom 29.12.2020: Anzeige, Signalétique und Berechnung des Reparierbarkeitsindex",
+    "en": "Arrêté of 29 December 2020 on display, signage and calculation of the repairability index",
+    "fr": "Arrêté du 29 décembre 2020 relatif aux modalités d’affichage, à la signalétique et aux paramètres généraux de calcul de l’indice de réparabilité"
+   },
+   "von": "Journal officiel, via AIDA (INERIS)",
+   "url": "https://aida.ineris.fr/reglementation/arrete-291220-relatif-modalites-daffichage-a-signaletique-parametres-generaux-calcul",
+   "datum": "2020-12-29",
+   "art": "frrecht"
+  },
+  {
+   "id": "mte-indice-reparabilite",
+   "titel": {
+    "de": "Indice de réparabilité (französisches Umweltministerium)",
+    "en": "Indice de réparabilité (French Ministry of Ecological Transition)",
+    "fr": "Indice de réparabilité (ministère de la Transition écologique)"
+   },
+   "von": "Ministère de la Transition écologique",
+   "url": "https://www.ecologie.gouv.fr/politiques-publiques/indice-reparabilite",
+   "datum": "2025-07-08",
+   "art": "behoerde"
+  },
+  {
+   "id": "mte-indice-durabilite",
+   "titel": {
+    "de": "Indice de durabilité (französisches Umweltministerium)",
+    "en": "Indice de durabilité (French Ministry of Ecological Transition)",
+    "fr": "Indice de durabilité (ministère de la Transition écologique)"
+   },
+   "von": "Ministère de la Transition écologique",
+   "url": "https://www.ecologie.gouv.fr/politiques-publiques/indice-durabilite",
+   "datum": "2025-06-30",
+   "art": "behoerde"
+  },
+  {
+   "id": "tris-2023-0477-fr",
+   "titel": {
+    "de": "TRIS-Notifizierung 2023/0477/FR (Haltbarkeitsindex für Smartphones)",
+    "en": "TRIS notification 2023/0477/FR (smartphone durability index)",
+    "fr": "Notification TRIS 2023/0477/FR (indice de durabilité des smartphones)"
+   },
+   "von": "Europäische Kommission",
+   "url": "https://technical-regulation-information-system.ec.europa.eu/en/notification/24323/message/106989/FR",
+   "datum": "2024-02-05",
+   "art": "behoerde"
+  },
+  {
+   "id": "datagouv-durabilite-tv",
+   "titel": {
+    "de": "Konsolidierte Daten zum französischen Haltbarkeitsindex, Fernseher (data.gouv.fr)",
+    "en": "Consolidated French durability index data, televisions (data.gouv.fr)",
+    "fr": "Fichiers consolidés de l’indice de durabilité, téléviseurs (data.gouv.fr)"
+   },
+   "von": "data.gouv.fr",
+   "url": "https://www.data.gouv.fr/datasets/fichiers-consolides-des-donnees-respectant-le-schema-indice-de-durabilite-televiseur",
+   "datum": "2026-10-13",
+   "art": "datensatz"
+  },
+  {
+   "id": "datagouv-durabilite-lave-linge",
+   "titel": {
+    "de": "Konsolidierte Daten zum französischen Haltbarkeitsindex, Waschmaschinen (data.gouv.fr)",
+    "en": "Consolidated French durability index data, washing machines (data.gouv.fr)",
+    "fr": "Fichiers consolidés de l’indice de durabilité, lave-linge (data.gouv.fr)"
+   },
+   "von": "data.gouv.fr",
+   "url": "https://www.data.gouv.fr/datasets/fichiers-consolides-des-donnees-respectant-le-schema-indice-de-durabilite-lave-linge",
+   "datum": "2026-10-13",
+   "art": "datensatz"
+  },
+  {
+   "id": "licence-ouverte-2",
+   "titel": {
+    "de": "Licence Ouverte 2.0 (Etalab)",
+    "en": "Licence Ouverte / Open Licence 2.0 (Etalab)",
+    "fr": "Licence Ouverte 2.0 (Etalab)"
+   },
+   "von": "Etalab (DINUM)",
+   "url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence",
+   "datum": "2026-10-13",
+   "art": "lizenz"
+  },
+  {
+   "id": "eprel",
+   "titel": {
+    "de": "EPREL, Europäische Produktdatenbank für die Energieverbrauchskennzeichnung",
+    "en": "EPREL, European Product Registry for Energy Labelling",
+    "fr": "EPREL, base de données européenne des produits pour l’étiquetage énergétique"
+   },
+   "von": "Europäische Kommission",
+   "url": "https://eprel.ec.europa.eu/",
+   "datum": "2026-10-13",
+   "art": "datenbank"
+  },
+  {
+   "id": "eprel-disclaimer",
+   "titel": {
+    "de": "EPREL: Hinweis zu den öffentlichen Daten",
+    "en": "EPREL public data disclaimer",
+    "fr": "EPREL : avertissement sur les données publiques"
+   },
+   "von": "Europäische Kommission",
+   "url": "https://eprel.ec.europa.eu/screen/legaldisclaimers",
+   "datum": "2026-10-13",
+   "art": "datenbank"
+  },
+  {
+   "id": "eprel-api",
+   "titel": {
+    "de": "EPREL Public API (API-Schlüssel beantragen)",
+    "en": "EPREL Public API (requesting an API key)",
+    "fr": "API publique EPREL (demande de clé)"
+   },
+   "von": "Europäische Kommission",
+   "url": "https://eprel.ec.europa.eu/screen/requestpublicapikey",
+   "datum": "2026-10-13",
+   "art": "datenbank"
+  },
+  {
+   "id": "eprel-api-terms",
+   "titel": {
+    "de": "Nutzungsbedingungen der EPREL Public API",
+    "en": "EPREL Public API terms and conditions",
+    "fr": "Conditions d’utilisation de l’API publique EPREL"
+   },
+   "von": "Europäische Kommission",
+   "url": "https://ec.europa.eu/assets/move-ener/eprel/EPREL%20Public/Public%20API%20Term%20and%20Conditions/API_TERMS_AND_CONDITIONS_EN.pdf",
+   "datum": "2024-06-03",
+   "art": "leitfaden"
+  },
+  {
+   "id": "sab-reparaturbonus",
+   "titel": {
+    "de": "Sächsische Aufbaubank: Reparaturbonus",
+    "en": "Sächsische Aufbaubank: repair bonus",
+    "fr": "Sächsische Aufbaubank : bonus réparation"
+   },
+   "von": "Sächsische Aufbaubank (SAB)",
+   "url": "https://www.sab.sachsen.de/reparaturbonus",
+   "datum": "2026-11-13",
+   "art": "behoerde"
+  },
+  {
+   "id": "frl-reparaturbonus-sachsen",
+   "titel": {
+    "de": "Förderrichtlinie Reparaturbonus Sachsen (FRL Reparaturbonus/2025)",
+    "en": "Saxony repair bonus funding guideline (FRL Reparaturbonus/2025)",
+    "fr": "Directive de financement bonus réparation de Saxe (FRL Reparaturbonus/2025)"
+   },
+   "von": "Freistaat Sachsen, REVOSax",
+   "url": "https://www.revosax.sachsen.de/vorschrift/21483",
+   "datum": "2026-11-13",
+   "art": "gesetz"
+  },
+  {
+   "id": "ibb-reparaturbonus",
+   "titel": {
+    "de": "IBB Business Team: ReparaturBONUS Berlin",
+    "en": "IBB Business Team: Berlin repair bonus",
+    "fr": "IBB Business Team : bonus réparation Berlin"
+   },
+   "von": "Investitionsbank Berlin",
+   "url": "https://www.ibb-business-team.de/reparaturbonus/",
+   "datum": "2026-11-13",
+   "art": "behoerde"
+  },
+  {
+   "id": "vzth-reparaturbonus",
+   "titel": {
+    "de": "Verbraucherzentrale Thüringen: Reparaturbonus",
+    "en": "Thuringia consumer centre: repair bonus",
+    "fr": "Centrale des consommateurs de Thuringe : bonus réparation"
+   },
+   "von": "Verbraucherzentrale Thüringen",
+   "url": "https://www.vzth.de/reparaturbonus",
+   "datum": "2026-11-13",
+   "art": "behoerde"
+  },
+  {
+   "id": "bt-reparatur-2026",
+   "titel": {
+    "de": "Deutscher Bundestag: Recht auf Reparatur beschlossen (25.06.2026)",
+    "en": "German Bundestag: right to repair adopted (25 June 2026)",
+    "fr": "Bundestag : droit à la réparation adopté (25/06/2026)"
+   },
+   "von": "Deutscher Bundestag",
+   "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw26-de-reparatur-1191040",
+   "datum": "2026-11-13",
+   "art": "parlament"
+  },
+  {
+   "id": "geraete-retter-praemie",
+   "titel": {
+    "de": "Österreich: Geräte-Retter-Prämie",
+    "en": "Austria: device rescue bonus",
+    "fr": "Autriche : prime de sauvetage des appareils"
+   },
+   "von": "Bundesministerium (Österreich)",
+   "url": "https://www.xn--gerte-retter-prmie-yqbg.at/",
+   "datum": "2026-11-13",
+   "art": "behoerde"
+  },
+  {
+   "id": "jrc-tecchio-2019",
+   "titel": {
+    "de": "Tecchio, Ardente, Mathieux (JRC): Understanding lifetimes and failure modes of defective washing machines and dishwashers (2019)",
+    "en": "Tecchio, Ardente, Mathieux (JRC): Understanding lifetimes and failure modes of defective washing machines and dishwashers (2019)",
+    "fr": "Tecchio, Ardente, Mathieux (JRC) : Understanding lifetimes and failure modes of defective washing machines and dishwashers (2019)"
+   },
+   "von": "Journal of Cleaner Production 215",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6472650/",
+   "datum": "2019-04-01",
+   "art": "studie"
+  },
+  {
+   "id": "uba-obsoleszenz-2015",
+   "titel": {
+    "de": "Umweltbundesamt: Faktencheck Obsoleszenz (Pressemitteilung 8/2015)",
+    "en": "German Environment Agency: obsolescence fact check (2015)",
+    "fr": "Agence fédérale de l’environnement : obsolescence (2015)"
+   },
+   "von": "Umweltbundesamt",
+   "url": "https://www.umweltbundesamt.de/presse/pressemitteilungen/faktencheck-obsoleszenz",
+   "datum": "2015-03-01",
+   "art": "behoerde"
+  },
+  {
+   "id": "test-reparatur-lohnt",
+   "titel": {
+    "de": "Stiftung Warentest: Defekte Haushaltsgeräte: Wann sich eine Reparatur lohnt",
+    "en": "Stiftung Warentest: when repairing a household appliance pays off",
+    "fr": "Stiftung Warentest : quand la réparation d’un appareil vaut le coup"
+   },
+   "von": "Stiftung Warentest",
+   "url": "https://www.test.de/Defekte-Haushaltsgeraete-Wann-sich-eine-Reparatur-lohnt-5157064-5157089/",
+   "datum": "2018-11-01",
+   "art": "leitfaden"
+  },
+  {
+   "id": "bdew-strompreis-2026",
+   "titel": {
+    "de": "BDEW-Strompreisanalyse Oktober 2026",
+    "en": "BDEW electricity price analysis, October 2026",
+    "fr": "Analyse des prix de l’électricité BDEW, octobre 2026"
+   },
+   "von": "BDEW",
+   "url": "https://www.bdew.de/service/daten-und-grafiken/bdew-strompreisanalyse/",
+   "datum": "2026-10-28",
+   "art": "studie"
+  },
+  {
+   "id": "destatis-wasser-2025",
+   "titel": {
+    "de": "Destatis: Wasser- und Abwasserentgelte (Stand 01.01.2025)",
+    "en": "Destatis: water and wastewater charges (1 Jan 2025)",
+    "fr": "Destatis : tarifs de l’eau et de l’assainissement (01/01/2025)"
+   },
+   "von": "Statistisches Bundesamt",
+   "url": "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Umwelt/Wasserwirtschaft/Tabellen/tw-09-entgelt-trinkwasserversorgung-tarifgeb-nach-tariftypen-2023-2025-land-bund.html",
+   "datum": "2026-03-27",
+   "art": "datensatz"
+  },
+  {
+   "id": "safety-gate",
+   "titel": {
+    "de": "Safety Gate: EU-Schnellwarnsystem für gefährliche Non-Food-Produkte",
+    "en": "Safety Gate: the EU rapid alert system for dangerous non-food products",
+    "fr": "Safety Gate : système d’alerte rapide de l’UE pour les produits dangereux non alimentaires"
+   },
+   "von": "Europäische Kommission",
+   "url": "https://ec.europa.eu/safety-gate-alerts/screen/webReport",
+   "datum": "2026-11-12",
+   "art": "datenbank"
+  },
+  {
+   "id": "rappelconso",
+   "titel": {
+    "de": "RappelConso: Rückrufe von Produkten in Frankreich (offene Daten)",
+    "en": "RappelConso: product recalls in France (open data)",
+    "fr": "RappelConso : rappels de produits (données ouvertes)"
+   },
+   "von": "République française, DGCCRF",
+   "url": "https://data.economie.gouv.fr/explore/dataset/rappelconso-v2-gtin-espaces/",
+   "datum": "2026-11-12",
+   "art": "datensatz"
+  },
+  {
+   "id": "apple-iphone-verkaufen",
+   "titel": {
+    "de": "Apple Support: Was zu tun ist, bevor du dein iPhone oder iPad verkaufst, weitergibst oder in Zahlung gibst",
+    "en": "Apple Support: What to do before you sell, give away or trade in your iPhone or iPad",
+    "fr": "Assistance Apple : que faire avant de vendre, de donner ou d’échanger votre iPhone ou iPad"
+   },
+   "von": "Apple",
+   "url": "https://support.apple.com/de-de/109511",
+   "datum": "2026-11-15",
+   "art": "leitfaden"
+  },
+  {
+   "id": "apple-mac-verkaufen",
+   "titel": {
+    "de": "Apple Support: Durchzuführende Schritte, bevor du einen Mac verkaufst, weitergibst, in Zahlung gibst oder recycelst",
+    "en": "Apple Support: What to do before you sell, give away, trade in or recycle your Mac",
+    "fr": "Assistance Apple : que faire avant de vendre, de donner, d’échanger ou de recycler votre Mac"
+   },
+   "von": "Apple",
+   "url": "https://support.apple.com/de-de/102773",
+   "datum": "2026-11-15",
+   "art": "leitfaden"
+  },
+  {
+   "id": "google-android-zuruecksetzen",
+   "titel": {
+    "de": "Google-Hilfe: Android-Gerät auf Werkseinstellungen zurücksetzen",
+    "en": "Google Help: Reset your Android device to factory settings",
+    "fr": "Aide Google : rétablir la configuration d’usine d’un appareil Android"
+   },
+   "von": "Google",
+   "url": "https://support.google.com/android/answer/6088915?hl=de",
+   "datum": "2026-11-15",
+   "art": "leitfaden"
+  },
+  {
+   "id": "google-android-konto",
+   "titel": {
+    "de": "Google-Hilfe: Konten auf Android-Geräten hinzufügen oder entfernen",
+    "en": "Google Help: Add or remove an account on Android",
+    "fr": "Aide Google : ajouter ou supprimer un compte sur Android"
+   },
+   "von": "Google",
+   "url": "https://support.google.com/android/answer/7664951?hl=de",
+   "datum": "2026-11-15",
+   "art": "leitfaden"
+  },
+  {
+   "id": "microsoft-pc-zuruecksetzen",
+   "titel": {
+    "de": "Microsoft Support: Zurücksetzen des PCs",
+    "en": "Microsoft Support: Reset your PC",
+    "fr": "Support Microsoft : réinitialiser votre PC"
+   },
+   "von": "Microsoft",
+   "url": "https://support.microsoft.com/de-de/windows/zur%C3%BCcksetzen-des-pcs-0ef73740-b927-549b-b7c9-e6f2b48d275e",
+   "datum": "2026-11-15",
+   "art": "leitfaden"
+  },
+  {
+   "id": "datagouv-indice",
+   "titel": {
+    "de": "Konsolidierte Daten zum französischen Reparierbarkeitsindex (data.gouv.fr)",
+    "en": "Consolidated French repairability index data (data.gouv.fr)",
+    "fr": "Fichiers consolidés des données respectant le schéma indice de réparabilité (data.gouv.fr)"
+   },
+   "von": "data.gouv.fr",
+   "url": "https://www.data.gouv.fr/datasets/fichiers-consolides-des-donnees-respectant-le-schema-indice-de-reparabilite",
+   "datum": "2026-10-13",
+   "art": "datensatz"
+  }
+ ]
+}

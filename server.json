@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Flozilla97/repairinfo",
+  "title": "repairinfo: repairability of devices",
+  "description": "Repairability, update years and durability of phones, laptops, TVs and appliances (EU EPREL data)",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.repairinfo.app/fuer-entwickler/",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.repairinfo.app/mcp"
+    }
+  ]
+}

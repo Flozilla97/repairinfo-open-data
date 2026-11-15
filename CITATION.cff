@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Bitte so zitieren / Please cite as below."
+type: dataset
+title: "repairinfo open data: repairability and durability of electrical devices (EPREL, data.gouv.fr)"
+abstract: >-
+  Open data on the repairability and durability of electrical devices, prepared by repairinfo.app
+  from the EU product database EPREL and the French repairability and durability indices published
+  on data.gouv.fr: spare-part periods under EU ecodesign rules, product groups, rankings by the
+  French indices, a smartphone register from EPREL and a cleaned GTIN extract of the French
+  repairability index. Manufacturer declarations; no prices, no affiliate links, no personal data.
+authors:
+  - name: "repairinfo.app, MMR Labs GmbH"
+    website: "https://www.repairinfo.app/"
+license: CC-BY-4.0
+url: "https://www.repairinfo.app/daten-und-api/"
+repository-code: "https://github.com/Flozilla97/repairinfo-open-data"
+keywords:
+  - repairability
+  - right to repair
+  - EPREL
+  - ecodesign
+  - energy label
+  - indice de réparabilité
+  - indice de durabilité
+  - open data
+date-released: "2026-11-15"
+version: "2026.11.15"

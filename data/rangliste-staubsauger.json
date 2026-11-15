@@ -1,0 +1,4235 @@
+{
+ "license": "Licence Ouverte 2.0",
+ "licenseUrl": "https://www.etalab.gouv.fr/licence-ouverte-open-licence",
+ "publisher": "MMR Labs GmbH",
+ "source": "data.gouv.fr",
+ "updated": "2026-11-10",
+ "note": "Extract of the French repairability index (indice de réparabilité). National French score, not an EU repairability score.",
+ "sourceUrl": "https://www.data.gouv.fr/datasets/fichiers-consolides-des-donnees-respectant-le-schema-indice-de-reparabilite",
+ "title": "Vacuum cleaners ranked by the French repairability index",
+ "datasetDate": "2026-11-10",
+ "sourceDataset": "https://www.data.gouv.fr/datasets/fichiers-consolides-des-donnees-respectant-le-schema-indice-de-reparabilite",
+ "scale": "0 to 10 (indice de réparabilité, Code de l'environnement, Art. L. 541-9-2)",
+ "method": "Sorted by the score as published by the company that placed the model on the French market. No own rating. Ranks are consecutive (1, 2, 3); with equal scores, the longer spare parts supply (upper bound of years) comes first, then the name. One row per model (entries with the same model name or the same barcode merged, newest entry kept).",
+ "models": 178,
+ "highestScore": 9.9,
+ "averageScore": 9.19,
+ "criteriaOrder": [
+  "documentation",
+  "disassembly",
+  "sparePartsAvailability",
+  "sparePartsPrice",
+  "productSpecific"
+ ],
+ "criteriaScale": "0 to 20 points each; score = sum / 10 (Code de l'environnement, Art. R. 541-210)",
+ "averageCriteria": {
+  "documentation": 19.58,
+  "disassembly": 18.14,
+  "sparePartsAvailability": 19.02,
+  "sparePartsPrice": 15.89,
+  "productSpecific": 19.37
+ },
+ "rows": [
+  {
+   "rank": 1,
+   "model": "BGB8PET1",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "corded",
+   "score": 9.9,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    20,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005202812"
+   ],
+   "image": null
+  },
+  {
+   "rank": 2,
+   "model": "BGL6HYG1",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "corded",
+   "score": 9.9,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    20,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005227846"
+   ],
+   "image": null
+  },
+  {
+   "rank": 3,
+   "model": "BGL6PET1",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "corded",
+   "score": 9.9,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    20,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005232338"
+   ],
+   "image": null
+  },
+  {
+   "rank": 4,
+   "model": "BGL6POW1",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "corded",
+   "score": 9.9,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    20,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005227853"
+   ],
+   "image": null
+  },
+  {
+   "rank": 5,
+   "model": "BGL8PET2",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "corded",
+   "score": 9.9,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    20,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005202645"
+   ],
+   "image": null
+  },
+  {
+   "rank": 6,
+   "model": "BGLS4PET2",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "corded",
+   "score": 9.9,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    20,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005202935"
+   ],
+   "image": null
+  },
+  {
+   "rank": 7,
+   "model": "RH6878WO",
+   "salesName": "Rowenta X-Pert 6.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-pert-660-kit-animal/csp/7211004542",
+   "placedOnMarketBy": "Groupe SEB France",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.9,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616018891"
+   ],
+   "deviceSlug": "rowenta-x-pert-6-60"
+  },
+  {
+   "rank": 8,
+   "model": "BBS71BHYG",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2025-03-03",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005503803"
+   ],
+   "image": null
+  },
+  {
+   "rank": 9,
+   "model": "BBS82BBLCK",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005309795"
+   ],
+   "image": null
+  },
+  {
+   "rank": 10,
+   "model": "BBS82BGREY",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005309801"
+   ],
+   "image": null
+  },
+  {
+   "rank": 11,
+   "model": "BBS82BTRED",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005309818"
+   ],
+   "image": null
+  },
+  {
+   "rank": 12,
+   "model": "BBS82BWALU",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005309825"
+   ],
+   "image": null
+  },
+  {
+   "rank": 13,
+   "model": "BBS611LAG",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005238798"
+   ],
+   "image": null,
+   "deviceSlug": "bosch-bbs611lag"
+  },
+  {
+   "rank": 14,
+   "model": "BBS931PET",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005468362"
+   ],
+   "image": null
+  },
+  {
+   "rank": 15,
+   "model": "BCS71HYG1",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005349319"
+   ],
+   "image": null
+  },
+  {
+   "rank": 16,
+   "model": "BCS71HYG2",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005349326"
+   ],
+   "image": null
+  },
+  {
+   "rank": 17,
+   "model": "BCS71HYG4",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005436989"
+   ],
+   "image": null
+  },
+  {
+   "rank": 18,
+   "model": "BCS931GAC",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005469246"
+   ],
+   "image": null
+  },
+  {
+   "rank": 19,
+   "model": "BCS1041PET",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005469543"
+   ],
+   "image": null
+  },
+  {
+   "rank": 20,
+   "model": "BCS1041WAC",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005469550"
+   ],
+   "image": null
+  },
+  {
+   "rank": 21,
+   "model": "BCS8214PRQ",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005269037"
+   ],
+   "image": null
+  },
+  {
+   "rank": 22,
+   "model": "BCS8215HYG",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005436002"
+   ],
+   "image": null
+  },
+  {
+   "rank": 23,
+   "model": "BCS8225POW",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005269068"
+   ],
+   "image": null
+  },
+  {
+   "rank": 24,
+   "model": "BGB6X300",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    20,
+    19.9,
+    19,
+    20
+   ],
+   "gtins": [
+    "04242005231881"
+   ],
+   "image": null
+  },
+  {
+   "rank": 25,
+   "model": "BKS1041RHF",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005469604"
+   ],
+   "image": null
+  },
+  {
+   "rank": 26,
+   "model": "BSS82SIL1",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005269174"
+   ],
+   "image": null
+  },
+  {
+   "rank": 27,
+   "model": "BSS931BHF",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005468355"
+   ],
+   "image": null
+  },
+  {
+   "rank": 28,
+   "model": "BSS1041GHF",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005468331"
+   ],
+   "image": null
+  },
+  {
+   "rank": 29,
+   "model": "BXS931WQC",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005469239"
+   ],
+   "image": null
+  },
+  {
+   "rank": 30,
+   "model": "BXS1041BQC",
+   "placedOnMarketBy": "Bosch",
+   "brandName": "Bosch",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2024-12-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    19.2,
+    18.9,
+    19.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "04242005469536"
+   ],
+   "image": null
+  },
+  {
+   "rank": 31,
+   "model": "RH1128WO",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2022-09-20",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    18.4,
+    20,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616037670"
+   ],
+   "deviceSlug": "groupe-seb-retailing-rh1128wo"
+  },
+  {
+   "rank": 32,
+   "model": "RO4B11EA",
+   "salesName": "Rowenta Compact Power Cyclonic XXL",
+   "salesNameSource": "https://www.rowenta.fr/p/compact-power-xxl/7211005056",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616093027"
+   ],
+   "deviceSlug": "rowenta-compact-power-cyclonic-xxl"
+  },
+  {
+   "rank": 33,
+   "model": "RO4B13EA",
+   "salesName": "Rowenta Compact Power Cyclonic XXL",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-xxl/csp/7211005057",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616093065"
+   ],
+   "deviceSlug": "rowenta-compact-power-cyclonic-xxl"
+  },
+  {
+   "rank": 34,
+   "model": "RO4B20EA",
+   "salesName": "Rowenta Compact Power Cyclonic XXL",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-cyclonic-xxl-aspirateur-traineau-sans-sac-puissant-900w-75-dba/csp/7211005226",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616125513"
+   ],
+   "deviceSlug": "rowenta-compact-power-cyclonic-xxl"
+  },
+  {
+   "rank": 35,
+   "model": "RO4B21EA",
+   "salesName": "Rowenta Compact Power Cyclonic XXL",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-xxl/csp/7211005059",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616093089"
+   ],
+   "deviceSlug": "rowenta-compact-power-cyclonic-xxl"
+  },
+  {
+   "rank": 36,
+   "model": "RO4B23EA",
+   "salesName": "Rowenta Compact Power Cyclonic XXL",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-xxl/csp/7211005058",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616093072"
+   ],
+   "deviceSlug": "rowenta-compact-power-cyclonic-xxl"
+  },
+  {
+   "rank": 37,
+   "model": "RO4B25EA",
+   "salesName": "Rowenta Compact Power Cyclonic XXL",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-xxl/csp/7211005060",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616093096"
+   ],
+   "deviceSlug": "rowenta-compact-power-cyclonic-xxl"
+  },
+  {
+   "rank": 38,
+   "model": "RO4B30EA",
+   "salesName": "Rowenta Compact Power Cyclonic XXL",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-xxl-modele-parquet/csp/7211005061",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616093102"
+   ],
+   "deviceSlug": "rowenta-compact-power-cyclonic-xxl"
+  },
+  {
+   "rank": 39,
+   "model": "RO4B31EA",
+   "salesName": "Rowenta Compact Power Cyclonic XXL",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-cyclonic-xxl-modele-parquet/csp/7211005187",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616116191"
+   ],
+   "deviceSlug": "rowenta-compact-power-cyclonic-xxl"
+  },
+  {
+   "rank": 40,
+   "model": "RO4B36EA",
+   "salesName": "Rowenta Compact Power Cyclonic XXL",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-xxl-modele-parquet/csp/7211005062",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616093119"
+   ],
+   "deviceSlug": "rowenta-compact-power-cyclonic-xxl"
+  },
+  {
+   "rank": 41,
+   "model": "RO4B50EA",
+   "salesName": "Rowenta Compact Power Cyclonic XXL",
+   "salesNameSource": "https://www.rowenta.fr/p/compact-power-xxl-modele-animal/7211005063",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616093126"
+   ],
+   "deviceSlug": "rowenta-compact-power-cyclonic-xxl"
+  },
+  {
+   "rank": 42,
+   "model": "RO4B63EA",
+   "salesName": "Rowenta Compact Power Cyclonic XXL",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/compact-power-xxl-modele-animal/csp/7211005064",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616093133"
+   ],
+   "deviceSlug": "rowenta-compact-power-cyclonic-xxl"
+  },
+  {
+   "rank": 43,
+   "model": "RO4B75EA",
+   "salesName": "Rowenta Compact Power Cyclonic XXL",
+   "salesNameSource": "https://www.rowenta.fr/p/compact-power-xxl-modele-total-clean/7211005065",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616093140"
+   ],
+   "deviceSlug": "rowenta-compact-power-cyclonic-xxl"
+  },
+  {
+   "rank": 44,
+   "model": "RO7C19EA",
+   "salesName": "Rowenta G-Force Cyclonic Silence",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/g-force-cyclonic-silence-aspirateur-sans-sac-silencieux/csp/2211401283",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616112490"
+   ],
+   "deviceSlug": "rowenta-g-force-cyclonic-silence"
+  },
+  {
+   "rank": 45,
+   "model": "RO7C30EA",
+   "salesName": "Rowenta G-Force Cyclonic Silence",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/green-force-cyclonic-effitech-aspirateur-sans-sac-500w-eco-concu-68-dba/csp/2211401252",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616107281"
+   ],
+   "deviceSlug": "rowenta-g-force-cyclonic-silence"
+  },
+  {
+   "rank": 46,
+   "model": "RO7C32EA",
+   "salesName": "Rowenta G-Force Cyclonic Silence",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/green-force-cyclonic-effitech-aspirateur-sans-sac-500w-eco-concu-68-dba/csp/2211401254",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616107304"
+   ],
+   "deviceSlug": "rowenta-g-force-cyclonic-silence"
+  },
+  {
+   "rank": 47,
+   "model": "RO7C36EA",
+   "salesName": "Rowenta G-Force Cyclonic Silence",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/green-force-cyclonic-effitech-aspirateur-sans-sac-500w-eco-concu-68-dba/csp/2211401253",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616107298"
+   ],
+   "deviceSlug": "rowenta-g-force-cyclonic-silence"
+  },
+  {
+   "rank": 48,
+   "model": "RO7C66EA",
+   "salesName": "Rowenta G-Force Cyclonic Silence",
+   "salesNameSource": "https://www.rowenta.fr/p/green-force-cyclonic-effitech-aspirateur-sans-sac-500w-eco-concu-66-dba/2211401255",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616107311"
+   ],
+   "deviceSlug": "rowenta-g-force-cyclonic-silence"
+  },
+  {
+   "rank": 49,
+   "model": "RO7C89EA",
+   "salesName": "Rowenta G-Force Cyclonic Silence",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/green-force-cyclonic-effitech-aspirateur-sans-sac-500w-eco-concu-66-dba/csp/2211401257",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616107335"
+   ],
+   "deviceSlug": "rowenta-g-force-cyclonic-silence"
+  },
+  {
+   "rank": 50,
+   "model": "RO7933EA",
+   "salesName": "Rowenta Silence Force Cyclonic Effitech",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/silence-force-cyclonic-effitech-modele-car-pro/csp/2211401220",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616094178"
+   ],
+   "deviceSlug": "rowenta-silence-force-cyclonic-effitech"
+  },
+  {
+   "rank": 51,
+   "model": "RO7935EA",
+   "salesName": "Rowenta Silence Force Cyclonic Effitech",
+   "salesNameSource": "https://www.rowenta.fr/p/silence-force-cyclonic-effitech-modele-parquet/2211401222",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616094192"
+   ],
+   "deviceSlug": "rowenta-silence-force-cyclonic-effitech"
+  },
+  {
+   "rank": 52,
+   "model": "RO7936EA",
+   "salesName": "Rowenta Silence Force Cyclonic Effitech",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/silence-force-cyclonic-effitech-modele-parquet/csp/2211401221",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616094185"
+   ],
+   "deviceSlug": "rowenta-silence-force-cyclonic-effitech"
+  },
+  {
+   "rank": 53,
+   "model": "RO7941EA",
+   "salesName": "Rowenta Silence Force Cyclonic Effitech",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/silence-force-cyclonic-effitech-modele-animal/csp/2211401266",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616109834"
+   ],
+   "deviceSlug": "rowenta-silence-force-cyclonic-effitech"
+  },
+  {
+   "rank": 54,
+   "model": "RO7943EA",
+   "salesName": "Rowenta Silence Force Cyclonic Effitech",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/silence-force-cyclonic-effitech-aspirateur-sans-sac-500w-59-dba-fabrique-en-france/csp/2211401321",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616122185"
+   ],
+   "deviceSlug": "rowenta-silence-force-cyclonic-effitech"
+  },
+  {
+   "rank": 55,
+   "model": "RO7954EA",
+   "salesName": "Rowenta Silence Force Cyclonic Effitech",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/silence-force-cyclonic-effitech-modele-home-car/csp/2211401223",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616094208"
+   ],
+   "deviceSlug": "rowenta-silence-force-cyclonic-effitech"
+  },
+  {
+   "rank": 56,
+   "model": "RO7961EA",
+   "salesName": "Rowenta Silence Force Cyclonic Effitech",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/silence-force-cyclonic-effitech-modele-total-clean/csp/2211401224",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616094215"
+   ],
+   "deviceSlug": "rowenta-silence-force-cyclonic-effitech"
+  },
+  {
+   "rank": 57,
+   "model": "RH2038WO",
+   "salesName": "Rowenta X-Force Flex 9.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-960-kit-allergie/csp/7211004877",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2025-08-29",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616048027"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-9-60"
+  },
+  {
+   "rank": 58,
+   "model": "RH2078WO",
+   "salesName": "Rowenta X-Force Flex 9.60",
+   "salesNameSource": "https://www.rowenta.fr/p/x-force-flex-960-aspirateur-balai-sans-fil-100aw-45min-animal/7211005163",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2025-08-29",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616046238"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-9-60"
+  },
+  {
+   "rank": 59,
+   "model": "RH2079WO",
+   "salesName": "Rowenta X-Force Flex 9.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-960-kit-animal/csp/7211005162",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2025-08-29",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616046221"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-9-60"
+  },
+  {
+   "rank": 60,
+   "model": "RH2099WO",
+   "salesName": "Rowenta X-Force Flex 9.60",
+   "salesNameSource": "https://www.rowenta.de/p/x-force-flex-960-complete-akku-stab-staubsauger-tiefenreinigende-kraft/7211005275",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2025-08-29",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616135277"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-9-60"
+  },
+  {
+   "rank": 61,
+   "model": "RH20C0WO",
+   "salesName": "Rowenta X-Force Flex 9.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-960-aspirateur-balai-laveur-sans-fil-multifonction-modele-aqua/csp/2211401217",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2026-02-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616093973"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-9-60"
+  },
+  {
+   "rank": 62,
+   "model": "RH20C2WO",
+   "salesName": "Rowenta X-Force Flex 9.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-960-aqua/csp/2211401216",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616093966"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-9-60"
+  },
+  {
+   "rank": 63,
+   "model": "RH20C4WO",
+   "salesName": "Rowenta X-Force Flex 9.60",
+   "salesNameSource": "https://www.rowenta.be/fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-960-aqua/csp/2211401214",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616093850"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-9-60"
+  },
+  {
+   "rank": 64,
+   "model": "RH20C7WO",
+   "salesName": "Rowenta X-Force Flex 9.60",
+   "salesNameSource": "https://www.rowenta.be/fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-960-aqua/csp/2211401215",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616093959"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-9-60"
+  },
+  {
+   "rank": 65,
+   "model": "RH7A75E0",
+   "salesName": "Rowenta X-Force Flex 10.80",
+   "salesNameSource": "https://www.rowenta.fr/p/x-force-flex-1080-aspirateur-balai-sans-fil-120-aw-60-min-modele-animal/7211005471",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2026-02-23",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    18.9,
+    19.1,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616182042"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-10-80"
+  },
+  {
+   "rank": 66,
+   "model": "RH9898WO",
+   "salesName": "Rowenta X-Force Flex 11.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-1160-aqua/csp/2211401042",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2025-08-29",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616023291"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-11-60"
+  },
+  {
+   "rank": 67,
+   "model": "RH98A0WO",
+   "salesName": "Rowenta X-Force Flex 12.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-1260-modele-allergie/csp/2211401228",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2025-08-29",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616095397"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-12-60"
+  },
+  {
+   "rank": 68,
+   "model": "RH98A8WO",
+   "salesName": "Rowenta X-Force Flex 12.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-1260-kit-animal/csp/2211401121",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2025-08-29",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616048591"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-12-60"
+  },
+  {
+   "rank": 69,
+   "model": "RH98A9WO",
+   "salesName": "Rowenta X-Force Flex 12.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-1260-kit-animal/csp/2211401131",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2025-08-29",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616055094"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-12-60"
+  },
+  {
+   "rank": 70,
+   "model": "RH98C0WO",
+   "salesName": "Rowenta X-Force Flex 12.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-1260-aqua/csp/2211401123",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2025-08-29",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03700342479911"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-12-60"
+  },
+  {
+   "rank": 71,
+   "model": "RH98C8WO",
+   "salesName": "Rowenta X-Force Flex 12.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-1260-aqua/csp/2211401122",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2025-08-29",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616048607"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-12-60"
+  },
+  {
+   "rank": 72,
+   "model": "RH98A7WO",
+   "salesName": "Rowenta X-Force Flex Auto 12.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-auto-1260-aspirateur-balai-sans-fil-puissant-150aw-45min-animaux/csp/2211401120",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2025-08-29",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616048584"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-auto-12-60"
+  },
+  {
+   "rank": 73,
+   "model": "RH1126WO",
+   "salesName": "Rowenta X-NANO",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-nano/csp/7211004854",
+   "placedOnMarketBy": "Groupe SEB France",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    20,
+    20,
+    18,
+    20
+   ],
+   "gtins": [
+    "03221616055445"
+   ],
+   "deviceSlug": "rowenta-x-nano"
+  },
+  {
+   "rank": 74,
+   "model": "RH1127WO",
+   "salesName": "Rowenta X-NANO",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-nano/csp/7211004795",
+   "placedOnMarketBy": "Groupe SEB France",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    20,
+    20,
+    18,
+    20
+   ],
+   "gtins": [
+    "03221616037656"
+   ],
+   "deviceSlug": "rowenta-x-nano"
+  },
+  {
+   "rank": 75,
+   "model": "RH6876WO",
+   "salesName": "Rowenta X-Pert Flex 6.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/rowenta-x-pert-660-essential-cordless-stick-vacuum-animal-model/csp/7211005151",
+   "placedOnMarketBy": "Groupe SEB France",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.8,
+   "calculated": "2025-03-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    19,
+    18.8,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616109568"
+   ],
+   "deviceSlug": "rowenta-x-pert-flex-6-60"
+  },
+  {
+   "rank": 76,
+   "model": "RH9CD9E0",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "type": "cordless",
+   "score": 9.7,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    18.7,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616163492"
+   ],
+   "image": null
+  },
+  {
+   "rank": 77,
+   "model": "RH9LC0WO",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "type": "cordless",
+   "score": 9.7,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616111653"
+   ],
+   "image": null
+  },
+  {
+   "rank": 78,
+   "model": "RO7B31E0",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "type": "corded",
+   "score": 9.7,
+   "calculated": "2026-06-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    19.2,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616196179"
+   ],
+   "image": null
+  },
+  {
+   "rank": 79,
+   "model": "RO6176E0",
+   "salesName": "Rowenta Silence Force 8",
+   "salesNameSource": "https://www.rowenta.be/fr/p/silence-force-8-ro6176e0-aspirateur-avec-sac-900w-silencieux-65db-modele-parquet/2211401523",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.7,
+   "calculated": "2026-06-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    18.8,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616198081"
+   ],
+   "deviceSlug": "rowenta-silence-force-8"
+  },
+  {
+   "rank": 80,
+   "model": "RO7C44E0",
+   "salesName": "Rowenta Silence Force Cyclonic 8",
+   "salesNameSource": "https://www.rowenta.fr/p/silence-force-cyclonic-8-aspirateur-sans-sac-puissant-tres-silencieux/2211401497",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.7,
+   "calculated": "2026-06-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    19.2,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616196186"
+   ],
+   "deviceSlug": "rowenta-silence-force-cyclonic-8"
+  },
+  {
+   "rank": 81,
+   "model": "RO7C89E0",
+   "salesName": "Rowenta Silence Force Cyclonic 8",
+   "salesNameSource": "https://www.rowenta.fr/p/silence-force-cyclonic-8-aspirateur-sans-sac-puissant-tres-silencieux/2211401500",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.7,
+   "calculated": "2026-06-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    19.2,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616196216"
+   ],
+   "deviceSlug": "rowenta-silence-force-cyclonic-8"
+  },
+  {
+   "rank": 82,
+   "model": "RO2985EA",
+   "salesName": "Rowenta Swift Power Cyclonic",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/swift-power-cyclonic-aspirateur-sans-sac-900w-compact-haute-filtration/csp/7211005229",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.7,
+   "calculated": "2025-08-29",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    18.9,
+    18.5,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616126862"
+   ],
+   "deviceSlug": "rowenta-swift-power-cyclonic"
+  },
+  {
+   "rank": 83,
+   "model": "RH1871E0",
+   "salesName": "Rowenta X-Force 8.80",
+   "salesNameSource": "https://www.rowenta.be/fr/p/x-force-880-rh1871e0-aspirateur-balai-100-airwatts-45-min-dautonomie/7211005441",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.7,
+   "calculated": "2026-02-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    20,
+    19.3,
+    18,
+    20
+   ],
+   "gtins": [
+    "03221616176522"
+   ],
+   "deviceSlug": "rowenta-x-force-8-80"
+  },
+  {
+   "rank": 84,
+   "model": "RH1872E0",
+   "salesName": "Rowenta X-Force 8.80",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-880-aspirateur-balai-sans-fil-nettoyage-puissant-100-aw-45-min/csp/7211005442",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.7,
+   "calculated": "2026-01-29",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    20,
+    19.5,
+    17,
+    20
+   ],
+   "gtins": [
+    "03221616176546"
+   ],
+   "deviceSlug": "rowenta-x-force-8-80"
+  },
+  {
+   "rank": 85,
+   "model": "RH2037WO",
+   "salesName": "Rowenta X-Force Flex 9.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-960-kit-allergie/csp/7211004876",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.7,
+   "calculated": "2025-08-28",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    19,
+    20
+   ],
+   "gtins": [
+    "03221616048010"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-9-60"
+  },
+  {
+   "rank": 86,
+   "model": "RH9A36WV",
+   "salesName": "Rowenta X-Force Flex 13.60",
+   "salesNameSource": "https://www.rowenta.fr/p/x-force-flex-1360-aspirateur-balai-sans-fil-150-aw-60-min-modele-allergie/2211401276",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.7,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616111615"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-13-60"
+  },
+  {
+   "rank": 87,
+   "model": "RH9A46WO",
+   "salesName": "Rowenta X-Force Flex 13.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-1360-aspirateur-balai-sans-fil-150-aw-60-min-kit-voiture/csp/2211401278",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.7,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616111639"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-13-60"
+  },
+  {
+   "rank": 88,
+   "model": "RH9958WA",
+   "salesName": "Rowenta X-Force Flex 14.60",
+   "salesNameSource": "https://www.rowenta.fr/p/x-force-flex-1460-animal-care/2211401147",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.7,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    19,
+    20
+   ],
+   "gtins": [
+    "03700342480863"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-14-60"
+  },
+  {
+   "rank": 89,
+   "model": "RH9990WO",
+   "salesName": "Rowenta X-Force Flex 14.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-1460-aqua/csp/2211400951",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.7,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    16.7,
+    20,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616004597"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-14-60"
+  },
+  {
+   "rank": 90,
+   "model": "RH99C0WO",
+   "salesName": "Rowenta X-Force Flex 14.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-1460-modele-aqua/csp/2211401141",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.7,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    19,
+    20
+   ],
+   "gtins": [
+    "03700342479508"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-14-60"
+  },
+  {
+   "rank": 91,
+   "model": "RH99C3WO",
+   "salesName": "Rowenta X-Force Flex 14.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-1460-aspirateur-balai-sans-fil-puissant-200aw-70min-laveur-station/csp/2211401242",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.7,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    19,
+    20
+   ],
+   "gtins": [
+    "03221616104952"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-14-60"
+  },
+  {
+   "rank": 92,
+   "model": "RH99F1WO",
+   "salesName": "Rowenta X-Force Flex 15.60",
+   "salesNameSource": "https://www.rowenta.fr/p/x-force-flex-1560/2211401071",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.7,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    19,
+    20
+   ],
+   "gtins": [
+    "03700342479638"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-15-60"
+  },
+  {
+   "rank": 93,
+   "model": "RH99G1WO",
+   "salesName": "Rowenta X-Force Flex 15.60",
+   "salesNameSource": "https://www.rowenta.be/fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/aspirateur-balai-x-force-flex-1560/csp/2211401227",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.7,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    19,
+    20
+   ],
+   "gtins": [
+    "03221616095212"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-15-60"
+  },
+  {
+   "rank": 94,
+   "model": "RH6471WO",
+   "salesName": "Rowenta X-Pert 6.60 Smart",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-pert-660-smart-modele-animal/csp/7211004656",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.7,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    18.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616026117"
+   ],
+   "deviceSlug": "rowenta-x-pert-6-60-smart"
+  },
+  {
+   "rank": 95,
+   "model": "RH6472WO",
+   "salesName": "Rowenta X-Pert 6.60 Smart",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-pert-660-smart-modele-animal/csp/7211005149",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.7,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    18.9,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616109575"
+   ],
+   "deviceSlug": "rowenta-x-pert-6-60-smart"
+  },
+  {
+   "rank": 96,
+   "model": "YY5823FE",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "type": "corded",
+   "score": 9.7,
+   "calculated": "2025-09-10",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    18.9,
+    18.5,
+    20,
+    20
+   ],
+   "gtins": [
+    "03700342452174"
+   ],
+   "image": null
+  },
+  {
+   "rank": 97,
+   "model": "RH9AD1WO",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "type": "cordless",
+   "score": 9.6,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    19.4,
+    19,
+    20
+   ],
+   "gtins": [
+    "03221616111592"
+   ],
+   "image": null
+  },
+  {
+   "rank": 98,
+   "model": "RO7B33E0",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "type": "corded",
+   "score": 9.6,
+   "calculated": "2026-06-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    19.2,
+    19,
+    20
+   ],
+   "gtins": [
+    "03221616196193"
+   ],
+   "image": null
+  },
+  {
+   "rank": 99,
+   "model": "RO7C56E0",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "type": "corded",
+   "score": 9.6,
+   "calculated": "2026-06-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    19.2,
+    19,
+    20
+   ],
+   "gtins": [
+    "03221616197343"
+   ],
+   "image": null
+  },
+  {
+   "rank": 100,
+   "model": "RO4951E0",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "type": "corded",
+   "score": 9.6,
+   "calculated": "2026-06-08",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    18.8,
+    19,
+    20
+   ],
+   "gtins": [
+    "03221616199255"
+   ],
+   "image": null
+  },
+  {
+   "rank": 101,
+   "model": "RO6171E0",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "type": "corded",
+   "score": 9.6,
+   "calculated": "2026-06-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    18.8,
+    19,
+    20
+   ],
+   "gtins": [
+    "03221616198180"
+   ],
+   "image": null
+  },
+  {
+   "rank": 102,
+   "model": "RO6180E0",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "type": "corded",
+   "score": 9.6,
+   "calculated": "2026-06-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    18.8,
+    19,
+    20
+   ],
+   "gtins": [
+    "03221616198074"
+   ],
+   "image": null
+  },
+  {
+   "rank": 103,
+   "model": "RO4933EA",
+   "salesName": "Rowenta G-Force",
+   "salesNameSource": "https://www.rowenta.fr/p/green-force-max/2211401097",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.6,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    16.7,
+    18.8,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616043534"
+   ],
+   "deviceSlug": "rowenta-g-force"
+  },
+  {
+   "rank": 104,
+   "model": "RO7B11EA",
+   "salesName": "Rowenta G-Force Cyclonic",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/g-force-cyclonic-aspirateur-sans-sac-900-w-max/csp/2211401260",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.6,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    16.7,
+    19,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616107397"
+   ],
+   "deviceSlug": "rowenta-g-force-cyclonic"
+  },
+  {
+   "rank": 105,
+   "model": "RO7B13EA",
+   "salesName": "Rowenta G-Force Cyclonic",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/g-force-cyclonic-aspirateur-sans-sac-900-w-max/csp/2211401251",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.6,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    16.7,
+    19,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616107106"
+   ],
+   "deviceSlug": "rowenta-g-force-cyclonic"
+  },
+  {
+   "rank": 106,
+   "model": "RO7B32EA",
+   "salesName": "Rowenta G-Force Cyclonic",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-sans-sac/g-force-cyclonic-aspirateur-sans-sac-900-w-max/csp/2211401387",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.6,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    16.7,
+    19,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616147072"
+   ],
+   "deviceSlug": "rowenta-g-force-cyclonic"
+  },
+  {
+   "rank": 107,
+   "model": "RO4933E0",
+   "salesName": "Rowenta Silence Force 7",
+   "salesNameSource": "https://www.rowenta.fr/p/silence-force-7-aspirateur-avec-sac-puissant-silencieux/2211401528",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "corded",
+   "score": 9.6,
+   "calculated": "2026-06-18",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    18.8,
+    19,
+    20
+   ],
+   "gtins": [
+    "03221616199231"
+   ],
+   "deviceSlug": "rowenta-silence-force-7"
+  },
+  {
+   "rank": 108,
+   "model": "RH2098WO",
+   "salesName": "Rowenta X-Force Flex 9.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-960-aspirateur-balai-sans-fil-100-aw-45-min-kit-complet/csp/7211005274",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.6,
+   "calculated": "2025-08-29",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    18,
+    20
+   ],
+   "gtins": [
+    "03221616135260"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-9-60"
+  },
+  {
+   "rank": 109,
+   "model": "RH9958WO",
+   "salesName": "Rowenta X-Force Flex 14.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-1460/csp/2211400949",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.6,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    18,
+    20
+   ],
+   "gtins": [
+    "03221616004573"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-14-60"
+  },
+  {
+   "rank": 110,
+   "model": "RH99F3WO",
+   "salesName": "Rowenta X-Force Flex 15.60",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-balai-sans-fil/x-force-flex-1560-aspirateur-balai-sans-fil-245-aw-2h40-2-batteries-rh99f3wo/csp/2211401357",
+   "placedOnMarketBy": "Groupe SEB Retailing",
+   "brandName": "Rowenta",
+   "type": "cordless",
+   "score": 9.6,
+   "calculated": "2026-06-17",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    20,
+    18,
+    20
+   ],
+   "gtins": [
+    "03221616133044"
+   ],
+   "deviceSlug": "rowenta-x-force-flex-15-60"
+  },
+  {
+   "rank": 111,
+   "model": "RR8L85WH",
+   "salesName": "Rowenta X-PLORER Serie 65+",
+   "salesNameSource": "https://www.rowenta.fr/p/x-plorer-serie-65-aspirateur-robot-navigation-methodique/2211401307",
+   "placedOnMarketBy": "Seb International Services",
+   "brandName": "Rowenta",
+   "type": "robot",
+   "score": 9.6,
+   "calculated": "2025-01-09",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    18.5,
+    19.2,
+    18.3,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616119628"
+   ],
+   "deviceSlug": "rowenta-x-plorer-serie-65-plus"
+  },
+  {
+   "rank": 112,
+   "model": "RR91C5WH",
+   "salesName": "Rowenta X-PLORER Serie 135",
+   "salesNameSource": "https://www.rowenta.fr/p/x-plorer-serie-135-aspirateur-robot-laveur-navigation-laser-6000-pa/2211401359",
+   "placedOnMarketBy": "Seb International Services",
+   "brandName": "Rowenta",
+   "type": "robot",
+   "score": 9.6,
+   "calculated": "2025-01-09",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    18.5,
+    19.2,
+    18.5,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616135291"
+   ],
+   "deviceSlug": "rowenta-x-plorer-serie-135"
+  },
+  {
+   "rank": 113,
+   "model": "RR91D5WH",
+   "salesName": "Rowenta X-PLORER Serie 135+",
+   "salesNameSource": "https://www.rowenta.fr/p/x-plorer-serie-135-aspirateur-robot-laveur-navigation-laser-6000-pa/2211401360",
+   "placedOnMarketBy": "Seb International Services",
+   "brandName": "Rowenta",
+   "type": "robot",
+   "score": 9.6,
+   "calculated": "2025-01-09",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    18.5,
+    19.2,
+    18.3,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616135307"
+   ],
+   "deviceSlug": "rowenta-x-plorer-serie-135-plus"
+  },
+  {
+   "rank": 114,
+   "model": "RR9177WH",
+   "salesName": "Rowenta X-PLORER Serie 140",
+   "salesNameSource": "https://www.rowenta.be/fr/boutique-accessoires/entretien-des-sols/aspirateur-robot/aspirateur-robot-x-plorer-serie-140-modele-animal-allergy-rr9177wh/csp/2211401341",
+   "placedOnMarketBy": "Seb International Services",
+   "brandName": "Rowenta",
+   "type": "robot",
+   "score": 9.6,
+   "calculated": "2025-09-11",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    18.5,
+    19.2,
+    18.5,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616129795"
+   ],
+   "deviceSlug": "rowenta-x-plorer-serie-140"
+  },
+  {
+   "rank": 115,
+   "model": "RR9197WH",
+   "salesName": "Rowenta X-PLORER Serie 140+",
+   "salesNameSource": "https://www.rowenta.be/fr/boutique-accessoires/entretien-des-sols/aspirateur-robot/aspirateur-robot-x-plorer-serie-140-modele-animal-allergy-rr9197wh/csp/2211401342",
+   "placedOnMarketBy": "Seb International Services",
+   "brandName": "Rowenta",
+   "type": "robot",
+   "score": 9.6,
+   "calculated": "2025-09-01",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    18.5,
+    19.2,
+    18.3,
+    20,
+    20
+   ],
+   "gtins": [
+    "03221616129801"
+   ],
+   "deviceSlug": "rowenta-x-plorer-serie-140-plus"
+  },
+  {
+   "rank": 116,
+   "model": "RR9695WH",
+   "salesName": "Rowenta X-PLORER Serie 240 AI+",
+   "salesNameSource": "https://www.rowenta.fr/boutique-accessoires/entretien-des-sols/aspirateur-robot/x-plorer-serie-240-ai-aspirateur-robot-modele-animal-allergy-8000-pa/csp/2211401207",
+   "placedOnMarketBy": "Seb International Services",
+   "brandName": "Rowenta",
+   "type": "robot",
+   "score": 9.6,
+   "calculated": "2026-02-13",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": null,
+   "gtins": [
+    "03221616091719"
+   ],
+   "deviceSlug": "rowenta-x-plorer-serie-240-ai-plus"
+  },
+  {
+   "rank": 117,
+   "model": "EP91UB21ES",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 9.6,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    17.6,
+    19.6,
+    20,
+    20
+   ],
+   "gtins": [
+    "07333394093482"
+   ],
+   "image": null
+  },
+  {
+   "rank": 118,
+   "model": "EP91B21WET",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 9.5,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    17.6,
+    19.6,
+    19,
+    20
+   ],
+   "gtins": [
+    "07333394093383"
+   ],
+   "image": null
+  },
+  {
+   "rank": 119,
+   "model": "EP91AB21UG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 9.4,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    17.6,
+    19.6,
+    18,
+    20
+   ],
+   "gtins": [
+    "07333394093376"
+   ],
+   "image": null
+  },
+  {
+   "rank": 120,
+   "model": "EP91UB21SW",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 9.3,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    17.6,
+    19.6,
+    17,
+    20
+   ],
+   "gtins": [
+    "07333394093352"
+   ],
+   "image": null
+  },
+  {
+   "rank": 121,
+   "model": "EP91UB21WB",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 9.3,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    17.6,
+    19.6,
+    17,
+    20
+   ],
+   "gtins": [
+    "07333394093369"
+   ],
+   "image": null
+  },
+  {
+   "rank": 122,
+   "model": "PC91-ALRG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 9.1,
+   "calculated": "2025-08-27",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    15.6,
+    19.6,
+    17,
+    20
+   ],
+   "gtins": [
+    "07332543646821"
+   ],
+   "image": null
+  },
+  {
+   "rank": 123,
+   "model": "EB71A3UG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 9,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    16.7,
+    19.6,
+    15,
+    20
+   ],
+   "gtins": [
+    "07333394095905"
+   ],
+   "image": null
+  },
+  {
+   "rank": 124,
+   "model": "EP72H21WET",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 9,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    17.8,
+    17,
+    16,
+    20
+   ],
+   "gtins": [
+    "07333394087832"
+   ],
+   "image": null
+  },
+  {
+   "rank": 125,
+   "model": "EB71U2LDB",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 8.9,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    16.7,
+    19.6,
+    14,
+    20
+   ],
+   "gtins": [
+    "07333394095882"
+   ],
+   "image": null
+  },
+  {
+   "rank": 126,
+   "model": "EB71U1GG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 8.8,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    16.7,
+    19.6,
+    13,
+    20
+   ],
+   "gtins": [
+    "07333394095844"
+   ],
+   "image": null
+  },
+  {
+   "rank": 127,
+   "model": "EB71U1LDB",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 8.8,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    16.7,
+    19.6,
+    13,
+    20
+   ],
+   "gtins": [
+    "07333394095813"
+   ],
+   "image": null
+  },
+  {
+   "rank": 128,
+   "model": "EB71U1UG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 8.8,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    16.7,
+    19.6,
+    13,
+    20
+   ],
+   "gtins": [
+    "07333394095837"
+   ],
+   "image": null
+  },
+  {
+   "rank": 129,
+   "model": "EB71U1WB",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 8.8,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    16.7,
+    19.6,
+    13,
+    20
+   ],
+   "gtins": [
+    "07333394095820"
+   ],
+   "image": null
+  },
+  {
+   "rank": 130,
+   "model": "EP72AB21UG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 8.8,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    17.8,
+    17,
+    14,
+    20
+   ],
+   "gtins": [
+    "07333394087788"
+   ],
+   "image": null
+  },
+  {
+   "rank": 131,
+   "model": "EP72UB21DB",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 8.8,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    17.8,
+    17,
+    14,
+    20
+   ],
+   "gtins": [
+    "07333394087771"
+   ],
+   "image": null
+  },
+  {
+   "rank": 132,
+   "model": "EP72UB21OG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 8.8,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    17.8,
+    17,
+    14,
+    20
+   ],
+   "gtins": [
+    "07333394087764"
+   ],
+   "image": null
+  },
+  {
+   "rank": 133,
+   "model": "EP72UB21UG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 8.8,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    17.8,
+    17,
+    14,
+    20
+   ],
+   "gtins": [
+    "07333394087757"
+   ],
+   "image": null
+  },
+  {
+   "rank": 134,
+   "model": "EUSP-2CR",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 8.7,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    16.7,
+    19.6,
+    12,
+    20
+   ],
+   "gtins": [
+    "07333394096070"
+   ],
+   "image": null
+  },
+  {
+   "rank": 135,
+   "model": "EUSP-2DB",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 8.7,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    16.7,
+    19.6,
+    12,
+    20
+   ],
+   "gtins": [
+    "07333394096049"
+   ],
+   "image": null
+  },
+  {
+   "rank": 136,
+   "model": "EUSP-2EBR",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 8.7,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    16.7,
+    19.6,
+    12,
+    20
+   ],
+   "gtins": [
+    "07333394096025"
+   ],
+   "image": null
+  },
+  {
+   "rank": 137,
+   "model": "EUSP-2MB",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 8.7,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    16.7,
+    19.6,
+    12,
+    20
+   ],
+   "gtins": [
+    "07333394096056"
+   ],
+   "image": null
+  },
+  {
+   "rank": 138,
+   "model": "EUSP-2MB4B",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 8.7,
+   "calculated": "2025-12-03",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    16.7,
+    19.6,
+    12,
+    20
+   ],
+   "gtins": [
+    "07333394096636"
+   ],
+   "image": null
+  },
+  {
+   "rank": 139,
+   "model": "PC91-6MG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 8.6,
+   "calculated": "2025-08-27",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    15.6,
+    19.6,
+    12,
+    20
+   ],
+   "gtins": [
+    "07332543709625"
+   ],
+   "image": null
+  },
+  {
+   "rank": 140,
+   "model": "PD82-4BM",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 8.3,
+   "calculated": "2025-08-27",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    15.2,
+    19.6,
+    9,
+    20
+   ],
+   "gtins": [
+    "07332543793037"
+   ],
+   "image": null
+  },
+  {
+   "rank": 141,
+   "model": "PD82-4MG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 8.3,
+   "calculated": "2025-08-27",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    15.2,
+    19.6,
+    9,
+    20
+   ],
+   "gtins": [
+    "07332543693863"
+   ],
+   "image": null
+  },
+  {
+   "rank": 142,
+   "model": "PD82-4ST",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 8.3,
+   "calculated": "2025-08-27",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    15.2,
+    19.6,
+    9,
+    20
+   ],
+   "gtins": [
+    "07332543693887"
+   ],
+   "image": null
+  },
+  {
+   "rank": 143,
+   "model": "EP61CB21D2",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 8.2,
+   "calculated": "2025-08-27",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    17.6,
+    19.6,
+    6,
+    20
+   ],
+   "gtins": [
+    "07333394046945"
+   ],
+   "image": null
+  },
+  {
+   "rank": 144,
+   "model": "EP51AH18DG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 8.1,
+   "calculated": "2026-02-26",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    16.3,
+    19.6,
+    6,
+    20
+   ],
+   "gtins": [
+    "07333394097121"
+   ],
+   "image": null
+  },
+  {
+   "rank": 145,
+   "model": "EP61CB21OG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 8.1,
+   "calculated": "2025-08-27",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    17.6,
+    19.6,
+    5,
+    20
+   ],
+   "gtins": [
+    "07333394049274"
+   ],
+   "image": null
+  },
+  {
+   "rank": 146,
+   "model": "EP61CB21UG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 8.1,
+   "calculated": "2025-08-27",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    17.6,
+    19.6,
+    5,
+    20
+   ],
+   "gtins": [
+    "07333394046914"
+   ],
+   "image": null
+  },
+  {
+   "rank": 147,
+   "model": "EP61CB21WG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 8.1,
+   "calculated": "2025-08-27",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    17.6,
+    19.6,
+    5,
+    20
+   ],
+   "gtins": [
+    "07333394038179"
+   ],
+   "image": null
+  },
+  {
+   "rank": 148,
+   "model": "Polti Forzaspira D-Power SR550",
+   "placedOnMarketBy": "POLTI",
+   "brandName": "Polti",
+   "type": "cordless",
+   "score": 8.1,
+   "calculated": "2022-07-12",
+   "spareParts": null,
+   "criteria": [
+    20,
+    19.6,
+    15.4,
+    14,
+    12
+   ],
+   "gtins": [
+    "08007411013522"
+   ],
+   "image": null
+  },
+  {
+   "rank": 149,
+   "model": "Polti Forzaspira Slim SR90B_Plus",
+   "placedOnMarketBy": "POLTI",
+   "brandName": "Polti",
+   "type": "cordless",
+   "score": 8.1,
+   "calculated": "2022-07-12",
+   "spareParts": null,
+   "criteria": [
+    20,
+    19.6,
+    15.4,
+    14,
+    12
+   ],
+   "gtins": [
+    "08007411012709"
+   ],
+   "image": null
+  },
+  {
+   "rank": 150,
+   "model": "EP51AH18SW",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 8,
+   "calculated": "2026-02-26",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    16.3,
+    19.6,
+    5,
+    20
+   ],
+   "gtins": [
+    "07333394097114"
+   ],
+   "image": null
+  },
+  {
+   "rank": 151,
+   "model": "Polti Forzaspira Slim SR100",
+   "placedOnMarketBy": "POLTI",
+   "brandName": "Polti",
+   "type": "cordless",
+   "score": 8,
+   "calculated": "2022-07-12",
+   "spareParts": null,
+   "criteria": [
+    20,
+    20,
+    15.4,
+    13,
+    12
+   ],
+   "gtins": [
+    "08007411012242"
+   ],
+   "image": null
+  },
+  {
+   "rank": 152,
+   "model": "Polti Forzaspira Slim SR110",
+   "placedOnMarketBy": "POLTI",
+   "brandName": "Polti",
+   "type": "cordless",
+   "score": 8,
+   "calculated": "2022-07-12",
+   "spareParts": null,
+   "criteria": [
+    20,
+    20,
+    15.4,
+    13,
+    12
+   ],
+   "gtins": [
+    "08007411012259"
+   ],
+   "image": null
+  },
+  {
+   "rank": 153,
+   "model": "EL51A2UG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 7.9,
+   "calculated": "2025-08-27",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    18.9,
+    19.6,
+    1,
+    20
+   ],
+   "gtins": [
+    "07333394082509"
+   ],
+   "image": null
+  },
+  {
+   "rank": 154,
+   "model": "Polti Forzaspira D-Power SR500",
+   "placedOnMarketBy": "POLTI",
+   "brandName": "Polti",
+   "type": "cordless",
+   "score": 7.9,
+   "calculated": "2022-07-12",
+   "spareParts": null,
+   "criteria": [
+    20,
+    19.6,
+    15.4,
+    12,
+    12
+   ],
+   "gtins": [
+    "08007411013447"
+   ],
+   "image": null
+  },
+  {
+   "rank": 155,
+   "model": "EL31C1LDB",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 7.8,
+   "calculated": "2025-08-27",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    18.9,
+    19.6,
+    0,
+    20
+   ],
+   "gtins": [
+    "07333394082448"
+   ],
+   "image": null
+  },
+  {
+   "rank": 156,
+   "model": "EL51C1LDB",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 7.8,
+   "calculated": "2025-08-27",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    18.9,
+    19.6,
+    0,
+    20
+   ],
+   "gtins": [
+    "07333394082479"
+   ],
+   "image": null
+  },
+  {
+   "rank": 157,
+   "model": "LSVCCD-1 _ 8011427",
+   "placedOnMarketBy": "LISTO",
+   "brandName": "Listo",
+   "type": "corded",
+   "score": 7.7,
+   "calculated": "2026-03-24",
+   "spareParts": {
+    "yearsFrom": "11",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.6,
+    19.1,
+    0,
+    20
+   ],
+   "gtins": [
+    "03497674188245"
+   ],
+   "image": null
+  },
+  {
+   "rank": 158,
+   "model": "EB51A4OG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 7.7,
+   "calculated": "2025-08-27",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    18.6,
+    19.6,
+    0,
+    20
+   ],
+   "gtins": [
+    "07333394021713"
+   ],
+   "image": null
+  },
+  {
+   "rank": 159,
+   "model": "EB51A4UG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 7.7,
+   "calculated": "2025-08-27",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    18.6,
+    19.6,
+    0,
+    20
+   ],
+   "gtins": [
+    "07333394021720"
+   ],
+   "image": null
+  },
+  {
+   "rank": 160,
+   "model": "EB51C1SW",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 7.7,
+   "calculated": "2025-08-27",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    18.6,
+    19.6,
+    0,
+    20
+   ],
+   "gtins": [
+    "07333394021614"
+   ],
+   "image": null
+  },
+  {
+   "rank": 161,
+   "model": "EH1EM10DG",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 7.7,
+   "calculated": "2026-06-25",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    17.8,
+    19.6,
+    0,
+    20
+   ],
+   "gtins": [
+    "07333394168050"
+   ],
+   "image": null
+  },
+  {
+   "rank": 162,
+   "model": "EH1EM10SW",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 7.7,
+   "calculated": "2026-06-25",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    17.8,
+    19.6,
+    0,
+    20
+   ],
+   "gtins": [
+    "07333394168524"
+   ],
+   "image": null
+  },
+  {
+   "rank": 163,
+   "model": "EH1EM10WB",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 7.7,
+   "calculated": "2026-06-25",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    17.8,
+    19.6,
+    0,
+    20
+   ],
+   "gtins": [
+    "07333394167053"
+   ],
+   "image": null
+  },
+  {
+   "rank": 164,
+   "model": "EP51UH18DB",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "corded",
+   "score": 7.7,
+   "calculated": "2026-02-26",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    16.3,
+    19.6,
+    2,
+    20
+   ],
+   "gtins": [
+    "07333394097107"
+   ],
+   "image": null
+  },
+  {
+   "rank": 165,
+   "model": "Polti Forzaspira Slim SR90B",
+   "placedOnMarketBy": "POLTI",
+   "brandName": "Polti",
+   "type": "cordless",
+   "score": 7.7,
+   "calculated": "2022-07-12",
+   "spareParts": null,
+   "criteria": [
+    20,
+    19.6,
+    15.4,
+    10,
+    12
+   ],
+   "gtins": [
+    "08007411012495"
+   ],
+   "image": null
+  },
+  {
+   "rank": 166,
+   "model": "Polti Forzaspira Slim SR90G",
+   "placedOnMarketBy": "POLTI",
+   "brandName": "Polti",
+   "type": "cordless",
+   "score": 7.7,
+   "calculated": "2022-07-12",
+   "spareParts": null,
+   "criteria": [
+    20,
+    19.6,
+    15.4,
+    10,
+    12
+   ],
+   "gtins": [
+    "08007411012693"
+   ],
+   "image": null
+  },
+  {
+   "rank": 167,
+   "model": "EL61H4SW",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 7.6,
+   "calculated": "2025-08-27",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    11.9,
+    18.9,
+    6,
+    20
+   ],
+   "gtins": [
+    "07332543774920"
+   ],
+   "image": null
+  },
+  {
+   "rank": 168,
+   "model": "Forzaspira C115_PLUS",
+   "placedOnMarketBy": "POLTI",
+   "brandName": "Polti",
+   "type": "corded",
+   "score": 7.6,
+   "calculated": "2022-07-12",
+   "spareParts": null,
+   "criteria": [
+    20,
+    16.7,
+    15.4,
+    12,
+    12
+   ],
+   "gtins": [
+    "08007411011597"
+   ],
+   "image": null
+  },
+  {
+   "rank": 169,
+   "model": "EAS73HARDFLOOR _ 8009227",
+   "placedOnMarketBy": "ESSENTIELB",
+   "brandName": "Essentiel b",
+   "type": "corded",
+   "score": 7.5,
+   "calculated": "2026-01-14",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    17.8,
+    19.5,
+    6,
+    12
+   ],
+   "gtins": [
+    "03497674166977"
+   ],
+   "image": null
+  },
+  {
+   "rank": 170,
+   "model": "AT75L1_8003161",
+   "placedOnMarketBy": "LISTO",
+   "brandName": "Listo",
+   "type": "corded",
+   "score": 7.4,
+   "calculated": "2026-02-26",
+   "spareParts": {
+    "yearsFrom": "9",
+    "yearsTo": "9"
+   },
+   "criteria": [
+    18.5,
+    17.8,
+    14.6,
+    11,
+    12
+   ],
+   "gtins": [
+    "03497674111236"
+   ],
+   "image": null
+  },
+  {
+   "rank": 171,
+   "model": "EL61C2GRN",
+   "placedOnMarketBy": "ELECTROLUX",
+   "type": "cordless",
+   "score": 7.3,
+   "calculated": "2025-08-27",
+   "spareParts": null,
+   "criteria": [
+    19.2,
+    11.9,
+    18.9,
+    3,
+    20
+   ],
+   "gtins": [
+    "07332543774852"
+   ],
+   "image": null
+  },
+  {
+   "rank": 172,
+   "model": "EAS Complete clean - 8012144",
+   "placedOnMarketBy": "ESSENTIELB",
+   "brandName": "Essentiel b",
+   "type": "corded",
+   "score": 7.2,
+   "calculated": "2026-04-27",
+   "spareParts": {
+    "yearsFrom": "<9",
+    "yearsTo": "9"
+   },
+   "criteria": [
+    18.5,
+    17.8,
+    9.5,
+    6,
+    20
+   ],
+   "gtins": [
+    "03497674195212"
+   ],
+   "image": null
+  },
+  {
+   "rank": 173,
+   "model": "EAT Complete clean - 8012143",
+   "placedOnMarketBy": "ESSENTIELB",
+   "brandName": "Essentiel b",
+   "type": "corded",
+   "score": 7.2,
+   "calculated": "2026-04-29",
+   "spareParts": {
+    "yearsFrom": "<9",
+    "yearsTo": "9"
+   },
+   "criteria": [
+    18.5,
+    16.7,
+    9.6,
+    7,
+    20
+   ],
+   "gtins": [
+    "03497674195205"
+   ],
+   "image": null
+  },
+  {
+   "rank": 174,
+   "model": "Aspirateur LAT80 - 8012022",
+   "placedOnMarketBy": "LISTO",
+   "brandName": "Listo",
+   "type": "corded",
+   "score": 7.1,
+   "calculated": "2026-02-25",
+   "spareParts": {
+    "yearsFrom": "<9",
+    "yearsTo": "9"
+   },
+   "criteria": [
+    18.5,
+    20,
+    9.2,
+    3,
+    20
+   ],
+   "gtins": [
+    "03497674193973"
+   ],
+   "image": null
+  },
+  {
+   "rank": 175,
+   "model": "Forzaspira C110_PLUS",
+   "placedOnMarketBy": "POLTI",
+   "brandName": "Polti",
+   "type": "corded",
+   "score": 7.1,
+   "calculated": "2022-07-12",
+   "spareParts": null,
+   "criteria": [
+    20,
+    16.7,
+    15.4,
+    7,
+    12
+   ],
+   "gtins": [
+    "08007411011580"
+   ],
+   "image": null
+  },
+  {
+   "rank": 176,
+   "model": "Polti Forzaspira Light&Clean",
+   "placedOnMarketBy": "POLTI",
+   "brandName": "Polti",
+   "type": "corded",
+   "score": 6.5,
+   "calculated": "2022-07-12",
+   "spareParts": null,
+   "criteria": [
+    20,
+    17.8,
+    15.4,
+    0,
+    12
+   ],
+   "gtins": [
+    "08007411012839"
+   ],
+   "image": null
+  },
+  {
+   "rank": 177,
+   "model": "AML4 code 8008460",
+   "placedOnMarketBy": "LISTO",
+   "brandName": "Listo",
+   "type": "cordless",
+   "score": 6.3,
+   "calculated": "2026-01-09",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    16.7,
+    14.8,
+    0,
+    12
+   ],
+   "gtins": [
+    "03497674159658"
+   ],
+   "image": null
+  },
+  {
+   "rank": 178,
+   "model": "EAM143 Code 8008669",
+   "placedOnMarketBy": "ESSENTIUELB",
+   "type": "cordless",
+   "score": 6.3,
+   "calculated": "2026-01-09",
+   "spareParts": {
+    "yearsFrom": ">13",
+    "yearsTo": ">13"
+   },
+   "criteria": [
+    20,
+    16.7,
+    14.8,
+    0,
+    12
+   ],
+   "gtins": [
+    "03497674161590"
+   ],
+   "image": null
+  }
+ ]
+}
