@@ -25,6 +25,23 @@ for i in $(seq -w 0 99); do
   holen "/daten/indice/$i.json" "$ZIEL/indice/$i.json"
 done
 
-holen "/presse/smartphone-register-2026.csv" "$ZIEL/smartphone-register-2026.csv"
+# Ohne EPREL-Werte (15.11.2026): EPREL verlangt aktuelle Kopien inkl. Korrekturen und Löschungen; dieses Repo wird
+# dauerhaft bei Zenodo archiviert. Felder "eprel" werden daher entfernt, das Smartphone-Register (reine EPREL-Werte)
+# liegt nur live unter https://www.repairinfo.app/presse/smartphone-register-2026.csv.
+# Without EPREL values: EPREL requires up-to-date copies; this repo is archived permanently on Zenodo.
+rm -f "$ZIEL/smartphone-register-2026.csv"
+python3 - "$ZIEL" <<'PY'
+import json, glob, sys
+def ohne(x):
+    if isinstance(x, dict): return {k: ohne(v) for k, v in x.items() if not (k == "eprel" and isinstance(v, (dict, list)))}
+    if isinstance(x, list): return [ohne(v) for v in x]
+    return x
+for f in glob.glob(sys.argv[1] + "/*.json"):
+    d = json.load(open(f, encoding="utf-8"))
+    d2 = ohne(d)
+    if d2 != d:
+        d2.pop("eprelFields", None); d2.pop("eprelTermsUrl", None)
+        json.dump(d2, open(f, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+PY
 
 echo "Fertig / done: $(date -u +%Y-%m-%dT%H:%M:%SZ)"

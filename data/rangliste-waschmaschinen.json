@@ -55,22 +55,6 @@
    "gtins": [
     "06921081531228"
    ],
-   "eprel": {
-    "registrationNumber": "2683377",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 68,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 31,
-    "waterLitres": 40,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1330,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -90,22 +74,6 @@
    "gtins": [
     "06921081532041"
    ],
-   "eprel": {
-    "registrationNumber": "2749317",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 70,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 31,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1330,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -138,22 +106,6 @@
    "gtins": [
     "06921081532263"
    ],
-   "eprel": {
-    "registrationNumber": "2780033",
-    "energyClass": "A",
-    "capacity": 15,
-    "noiseDb": 70,
-    "widthCm": 70,
-    "heightCm": 99,
-    "depthCm": 69,
-    "energyPer100Cycles": 40,
-    "waterLitres": 55,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1330,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 15,
@@ -237,22 +189,6 @@
    "gtins": [
     "06921081599570"
    ],
-   "eprel": {
-    "registrationNumber": "1807318",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 68,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 57,
-    "energyPer100Cycles": 41,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1330,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 10,
     "db": 68,
@@ -352,22 +288,6 @@
    "gtins": [
     "04242006320614"
    ],
-   "eprel": {
-    "registrationNumber": "2104880",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 64,
-    "energyPer100Cycles": 35,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1600,
-    "spinClass": "A",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -390,22 +310,6 @@
    "gtins": [
     "06921081596012"
    ],
-   "eprel": {
-    "registrationNumber": "1787735",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 59,
-    "heightCm": 85,
-    "depthCm": 55,
-    "energyPer100Cycles": 47,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 76,
@@ -508,22 +412,6 @@
    "gtins": [
     "06921081587997"
    ],
-   "eprel": {
-    "registrationNumber": "630267",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 70,
-    "widthCm": 59,
-    "heightCm": 85,
-    "depthCm": 50,
-    "energyPer100Cycles": 51,
-    "waterLitres": 51,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1300,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 10,
     "db": 70,
@@ -690,22 +578,6 @@
    "gtins": [
     "06921081500491"
    ],
-   "eprel": {
-    "registrationNumber": "1676176",
-    "energyClass": "A",
-    "capacity": 11,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 64,
-    "energyPer100Cycles": 32,
-    "waterLitres": 49,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1330,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 11,
     "db": 71,
@@ -845,22 +717,6 @@
    "gtins": [
     "08059019130323"
    ],
-   "eprel": {
-    "registrationNumber": "2644189",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 56,
-    "energyPer100Cycles": 33,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1530,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -896,22 +752,6 @@
    "gtins": [
     "08059019106113"
    ],
-   "eprel": {
-    "registrationNumber": "2240689",
-    "energyClass": "A",
-    "capacity": 5,
-    "noiseDb": 69,
-    "widthCm": 51,
-    "heightCm": 70,
-    "depthCm": 49,
-    "energyPer100Cycles": 39,
-    "waterLitres": 31,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1200,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 5,
     "db": 69,
@@ -2082,22 +1922,6 @@
    "reliability": 8.9,
    "calculated": "2025-04-08",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2320382",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 32,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1310,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -2220,22 +2044,6 @@
    "gtins": [
     "08059019106106"
    ],
-   "eprel": {
-    "registrationNumber": "2240684",
-    "energyClass": "A",
-    "capacity": 5,
-    "noiseDb": 69,
-    "widthCm": 51,
-    "heightCm": 70,
-    "depthCm": 49,
-    "energyPer100Cycles": 39,
-    "waterLitres": 31,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1200,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 5,
     "db": 69,
@@ -2258,22 +2066,6 @@
    "gtins": [
     "08059019083322"
    ],
-   "eprel": {
-    "registrationNumber": "1631926",
-    "energyClass": "A",
-    "capacity": 5,
-    "noiseDb": 69,
-    "widthCm": 51,
-    "heightCm": 70,
-    "depthCm": 49,
-    "energyPer100Cycles": 39,
-    "waterLitres": 30,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1200,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 5,
     "db": 69,
@@ -2516,22 +2308,6 @@
    "gtins": [
     "06975188481443"
    ],
-   "eprel": {
-    "registrationNumber": "1099250",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 67,
-    "widthCm": 59,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 51,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 10,
     "db": 67,
@@ -2784,22 +2560,6 @@
    "reliability": 8.7,
    "calculated": "2025-04-08",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2275202",
-    "energyClass": "A",
-    "capacity": 10.5,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 55,
-    "energyPer100Cycles": 31,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1310,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 10.5,
     "db": 72,
@@ -2818,22 +2578,6 @@
    "reliability": 8.8,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2281754",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 47,
-    "energyPer100Cycles": 44,
-    "waterLitres": 40,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1310,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -2896,22 +2640,6 @@
    "gtins": [
     "04242005478118"
    ],
-   "eprel": {
-    "registrationNumber": "1910059",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -2935,22 +2663,6 @@
    "gtins": [
     "04242005478125"
    ],
-   "eprel": {
-    "registrationNumber": "1910058",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -2974,22 +2686,6 @@
    "gtins": [
     "04242005478132"
    ],
-   "eprel": {
-    "registrationNumber": "1910060",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -3013,22 +2709,6 @@
    "gtins": [
     "04242005575213"
    ],
-   "eprel": {
-    "registrationNumber": "2482491",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 46,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -3069,22 +2749,6 @@
    "gtins": [
     "04242005477517"
    ],
-   "eprel": {
-    "registrationNumber": "1904049",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -3108,22 +2772,6 @@
    "gtins": [
     "04242005399222"
    ],
-   "eprel": {
-    "registrationNumber": "1403794",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 64,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -3147,22 +2795,6 @@
    "gtins": [
     "04242005399239"
    ],
-   "eprel": {
-    "registrationNumber": "1403818",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 64,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -3186,22 +2818,6 @@
    "gtins": [
     "04242005476398"
    ],
-   "eprel": {
-    "registrationNumber": "1894953",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -3225,22 +2841,6 @@
    "gtins": [
     "04242005476404"
    ],
-   "eprel": {
-    "registrationNumber": "1894954",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -3264,22 +2864,6 @@
    "gtins": [
     "04242005476411"
    ],
-   "eprel": {
-    "registrationNumber": "1894955",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -3320,22 +2904,6 @@
    "gtins": [
     "04242005508693"
    ],
-   "eprel": {
-    "registrationNumber": "2062052",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 51,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -3359,22 +2927,6 @@
    "gtins": [
     "04242005508709"
    ],
-   "eprel": {
-    "registrationNumber": "2062053",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 51,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -3415,22 +2967,6 @@
    "gtins": [
     "04242005463954"
    ],
-   "eprel": {
-    "registrationNumber": "1830134",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 40,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1257,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -3454,22 +2990,6 @@
    "gtins": [
     "04242005460779"
    ],
-   "eprel": {
-    "registrationNumber": "1806372",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 73,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 40,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -3493,22 +3013,6 @@
    "gtins": [
     "04242005463978"
    ],
-   "eprel": {
-    "registrationNumber": "1830137",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 75,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 40,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1580,
-    "spinClass": "A",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -3532,22 +3036,6 @@
    "gtins": [
     "04242005578917"
    ],
-   "eprel": {
-    "registrationNumber": "2504823",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 49,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -3571,22 +3059,6 @@
    "gtins": [
     "04242005578900"
    ],
-   "eprel": {
-    "registrationNumber": "2504822",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 49,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -3610,22 +3082,6 @@
    "gtins": [
     "04242005523528"
    ],
-   "eprel": {
-    "registrationNumber": "2159874",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 49,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -3649,22 +3105,6 @@
    "gtins": [
     "04242005357345"
    ],
-   "eprel": {
-    "registrationNumber": "1166302",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 46,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -3688,22 +3128,6 @@
    "gtins": [
     "04242005451739"
    ],
-   "eprel": {
-    "registrationNumber": "1734306",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -3727,22 +3151,6 @@
    "gtins": [
     "04242005477739"
    ],
-   "eprel": {
-    "registrationNumber": "1910065",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -3766,22 +3174,6 @@
    "gtins": [
     "04242005492701"
    ],
-   "eprel": {
-    "registrationNumber": "1985893",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 65,
-    "energyPer100Cycles": 25,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -3805,22 +3197,6 @@
    "gtins": [
     "04242005492718"
    ],
-   "eprel": {
-    "registrationNumber": "1985918",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 65,
-    "energyPer100Cycles": 35,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1600,
-    "spinClass": "A",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -3988,22 +3364,6 @@
    "gtins": [
     "08059019125138"
    ],
-   "eprel": {
-    "registrationNumber": "2530692",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 79,
@@ -4026,22 +3386,6 @@
    "gtins": [
     "08059019125145"
    ],
-   "eprel": {
-    "registrationNumber": "2530702",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 34,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 77,
@@ -4156,22 +3500,6 @@
    "gtins": [
     "08059019113746"
    ],
-   "eprel": {
-    "registrationNumber": "2366112",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 47,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 72,
@@ -4194,22 +3522,6 @@
    "gtins": [
     "08059019118901"
    ],
-   "eprel": {
-    "registrationNumber": "2392134",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 38,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 7,
     "db": 77,
@@ -4299,22 +3611,6 @@
    "gtins": [
     "04242003931349"
    ],
-   "eprel": {
-    "registrationNumber": "1299654",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 64,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -4338,22 +3634,6 @@
    "gtins": [
     "04242003963074"
    ],
-   "eprel": {
-    "registrationNumber": "1958365",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 64,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -4377,22 +3657,6 @@
    "gtins": [
     "04242003942697"
    ],
-   "eprel": {
-    "registrationNumber": "1625689",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 64,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -4416,22 +3680,6 @@
    "gtins": [
     "04242003955673"
    ],
-   "eprel": {
-    "registrationNumber": "1830126",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1600,
-    "spinClass": "A",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -4455,22 +3703,6 @@
    "gtins": [
     "04242003955642"
    ],
-   "eprel": {
-    "registrationNumber": "1830129",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1600,
-    "spinClass": "A",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -4494,22 +3726,6 @@
    "gtins": [
     "04242003955697"
    ],
-   "eprel": {
-    "registrationNumber": "1830130",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 75,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 40,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1580,
-    "spinClass": "A",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -4533,22 +3749,6 @@
    "gtins": [
     "04242003932865"
    ],
-   "eprel": {
-    "registrationNumber": "1326950",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 46,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -4572,22 +3772,6 @@
    "gtins": [
     "04242003960769"
    ],
-   "eprel": {
-    "registrationNumber": "1910066",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -4611,22 +3795,6 @@
    "gtins": [
     "04242003953075"
    ],
-   "eprel": {
-    "registrationNumber": "1734301",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -4650,22 +3818,6 @@
    "gtins": [
     "04242003964828"
    ],
-   "eprel": {
-    "registrationNumber": "1985868",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 64,
-    "energyPer100Cycles": 30,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -4689,22 +3841,6 @@
    "gtins": [
     "04242003963524"
    ],
-   "eprel": {
-    "registrationNumber": "1965470",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 64,
-    "energyPer100Cycles": 35,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1600,
-    "spinClass": "A",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -4728,22 +3864,6 @@
    "gtins": [
     "04242003923276"
    ],
-   "eprel": {
-    "registrationNumber": "1105183",
-    "energyClass": "C",
-    "capacity": 8,
-    "noiseDb": 66,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 62,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -5050,22 +4170,6 @@
    "reliability": 8.5,
    "calculated": "2025-03-13",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1454810",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 78,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 47,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 78,
@@ -5126,22 +4230,6 @@
    "reliability": 8.7,
    "calculated": "2025-10-16",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1905795",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 88,
-    "depthCm": 61,
-    "energyPer100Cycles": 47,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1250,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -5778,22 +4866,6 @@
    "gtins": [
     "04242005395521"
    ],
-   "eprel": {
-    "registrationNumber": "1427138",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 46,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -5817,22 +4889,6 @@
    "gtins": [
     "04242005395552"
    ],
-   "eprel": {
-    "registrationNumber": "1427179",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 46,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -5856,22 +4912,6 @@
    "gtins": [
     "04242005393114"
    ],
-   "eprel": {
-    "registrationNumber": "1427183",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 46,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -5895,22 +4935,6 @@
    "gtins": [
     "04242005395538"
    ],
-   "eprel": {
-    "registrationNumber": "1427176",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 46,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -5951,22 +4975,6 @@
    "gtins": [
     "04242005395972"
    ],
-   "eprel": {
-    "registrationNumber": "1427185",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 46,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -6191,22 +5199,6 @@
    "gtins": [
     "06921081503072"
    ],
-   "eprel": {
-    "registrationNumber": "2402109",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 51,
-    "energyPer100Cycles": 40,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1330,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 9,
     "db": 71,
@@ -6414,22 +5406,6 @@
    "gtins": [
     "04242003934432"
    ],
-   "eprel": {
-    "registrationNumber": "1427226",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 46,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -6621,22 +5597,6 @@
    "gtins": [
     "00869991730170"
    ],
-   "eprel": {
-    "registrationNumber": "2350538",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 75,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 58,
-    "energyPer100Cycles": 46,
-    "waterLitres": 52,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -6711,22 +5671,6 @@
    "reliability": 8.3,
    "calculated": "2025-03-14",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2275157",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 78,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 47,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 78,
@@ -6747,22 +5691,6 @@
    "reliability": 8.3,
    "calculated": "2025-07-03",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1618217",
-    "energyClass": "A",
-    "capacity": 11,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 53,
-    "waterLitres": 54,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 11,
     "db": 76,
@@ -6799,22 +5727,6 @@
    "reliability": 8.3,
    "calculated": "2025-07-03",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1618218",
-    "energyClass": "A",
-    "capacity": 11,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 53,
-    "waterLitres": 54,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 11,
     "db": 76,
@@ -6979,22 +5891,6 @@
    "reliability": 8.3,
    "calculated": "2025-06-10",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2419919",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 37,
-    "waterLitres": 40,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -7064,22 +5960,6 @@
    "gtins": [
     "08059019093710"
    ],
-   "eprel": {
-    "registrationNumber": "2024828",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 45,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -7408,22 +6288,6 @@
    "gtins": [
     "08059019119007"
    ],
-   "eprel": {
-    "registrationNumber": "2392135",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 34,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 77,
@@ -7446,22 +6310,6 @@
    "gtins": [
     "08059019128368"
    ],
-   "eprel": {
-    "registrationNumber": "2589832",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 79,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 47,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 79,
@@ -7630,22 +6478,6 @@
    "reliability": 8.7,
    "calculated": "2025-03-31",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1862409",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 50,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -7664,22 +6496,6 @@
    "reliability": 8.7,
    "calculated": "2025-08-29",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2452788",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 39,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -7738,22 +6554,6 @@
    "reliability": 8.7,
    "calculated": "2025-03-05",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2033453",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 55,
-    "energyPer100Cycles": 40,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -7772,22 +6572,6 @@
    "reliability": 8.7,
    "calculated": "2025-03-05",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1974160",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 55,
-    "energyPer100Cycles": 40,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -7806,22 +6590,6 @@
    "reliability": 8.7,
    "calculated": "2025-03-05",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2074228",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 55,
-    "energyPer100Cycles": 42,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1300,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -7840,22 +6608,6 @@
    "reliability": 8.7,
    "calculated": "2025-03-05",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2033449",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 55,
-    "energyPer100Cycles": 42,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1300,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -7874,22 +6626,6 @@
    "reliability": 8.2,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1858772",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 70,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 67,
-    "energyPer100Cycles": 43,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -7908,22 +6644,6 @@
    "reliability": 8.7,
    "calculated": "2025-03-10",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2194435",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 73,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 39,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -7942,22 +6662,6 @@
    "reliability": 8.7,
    "calculated": "2025-03-05",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1871300",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 55,
-    "energyPer100Cycles": 40,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -8049,22 +6753,6 @@
    "reliability": 8.7,
    "calculated": "2025-03-05",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1860228",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 39,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -8083,22 +6771,6 @@
    "reliability": 8.7,
    "calculated": "2025-03-05",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1974155",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 55,
-    "energyPer100Cycles": 42,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1300,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -8146,22 +6818,6 @@
    "gtins": [
     "08059019094281"
    ],
-   "eprel": {
-    "registrationNumber": "2028271",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 47,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -8284,22 +6940,6 @@
    "gtins": [
     "04242005348855"
    ],
-   "eprel": {
-    "registrationNumber": "1105187",
-    "energyClass": "C",
-    "capacity": 7,
-    "noiseDb": 64,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 59,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -8335,22 +6975,6 @@
    "gtins": [
     "08059019094069"
    ],
-   "eprel": {
-    "registrationNumber": "2024826",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 77,
@@ -8373,22 +6997,6 @@
    "gtins": [
     "08059019094083"
    ],
-   "eprel": {
-    "registrationNumber": "2024827",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 77,
@@ -8411,22 +7019,6 @@
    "gtins": [
     "08059019094274"
    ],
-   "eprel": {
-    "registrationNumber": "2034033",
-    "energyClass": "B",
-    "capacity": 7,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 52,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 7,
     "db": 77,
@@ -8481,22 +7073,6 @@
    "gtins": [
     "08059019125169"
    ],
-   "eprel": {
-    "registrationNumber": "2530704",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 77,
@@ -8790,22 +7366,6 @@
    "gtins": [
     "04242003923252"
    ],
-   "eprel": {
-    "registrationNumber": "1105181",
-    "energyClass": "C",
-    "capacity": 7,
-    "noiseDb": 64,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 59,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -9372,22 +7932,6 @@
    "gtins": [
     "04242005440511"
    ],
-   "eprel": {
-    "registrationNumber": "1611498",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 40,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -9411,22 +7955,6 @@
    "gtins": [
     "04242005440535"
    ],
-   "eprel": {
-    "registrationNumber": "1611503",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 40,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -9450,22 +7978,6 @@
    "gtins": [
     "04242005440542"
    ],
-   "eprel": {
-    "registrationNumber": "1611504",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 40,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -9489,22 +8001,6 @@
    "gtins": [
     "04242005440559"
    ],
-   "eprel": {
-    "registrationNumber": "1611499",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 40,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -9528,22 +8024,6 @@
    "gtins": [
     "04242005440566"
    ],
-   "eprel": {
-    "registrationNumber": "1611497",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 46,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -9567,22 +8047,6 @@
    "gtins": [
     "04242005440573"
    ],
-   "eprel": {
-    "registrationNumber": "1611505",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 46,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -9670,22 +8134,6 @@
    "reliability": 8.2,
    "calculated": "2025-07-03",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1870737",
-    "energyClass": "A",
-    "capacity": 11,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 53,
-    "waterLitres": 54,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 11,
@@ -9708,22 +8156,6 @@
    "gtins": [
     "08059019093758"
    ],
-   "eprel": {
-    "registrationNumber": "2024824",
-    "energyClass": "C",
-    "capacity": 7,
-    "noiseDb": 81,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 59,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "D",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 7,
     "db": 81,
@@ -9762,22 +8194,6 @@
    "gtins": [
     "08059019093734"
    ],
-   "eprel": {
-    "registrationNumber": "2033811",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 45,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 7,
     "db": 77,
@@ -9800,22 +8216,6 @@
    "gtins": [
     "08059019093741"
    ],
-   "eprel": {
-    "registrationNumber": "2006252",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 77,
@@ -9838,22 +8238,6 @@
    "gtins": [
     "08059019094090"
    ],
-   "eprel": {
-    "registrationNumber": "2006225",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 79,
@@ -9876,22 +8260,6 @@
    "gtins": [
     "08059019094298"
    ],
-   "eprel": {
-    "registrationNumber": "2006264",
-    "energyClass": "B",
-    "capacity": 8,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 55,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 77,
@@ -9914,22 +8282,6 @@
    "gtins": [
     "08059019094335"
    ],
-   "eprel": {
-    "registrationNumber": "2024836",
-    "energyClass": "B",
-    "capacity": 7,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 52,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 7,
     "db": 77,
@@ -9952,22 +8304,6 @@
    "gtins": [
     "08059019100913"
    ],
-   "eprel": {
-    "registrationNumber": "2060024",
-    "energyClass": "B",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 49,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 79,
@@ -10495,22 +8831,6 @@
    "gtins": [
     "08059019111117"
    ],
-   "eprel": {
-    "registrationNumber": "2337340",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 54,
-    "energyPer100Cycles": 35,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1551,
-    "spinClass": "B",
-    "installation": "BUILT_IN"
-   },
    "eck": {
     "m": 9,
     "db": 72,
@@ -10651,22 +8971,6 @@
    "gtins": [
     "03615993809676"
    ],
-   "eprel": {
-    "registrationNumber": "2825262",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 33,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -10687,22 +8991,6 @@
    "gtins": [
     "03615993752637"
    ],
-   "eprel": {
-    "registrationNumber": "2090514",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 42,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -11042,22 +9330,6 @@
    "gtins": [
     "04242005440474"
    ],
-   "eprel": {
-    "registrationNumber": "1611493",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 40,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -11081,22 +9353,6 @@
    "gtins": [
     "04242005440481"
    ],
-   "eprel": {
-    "registrationNumber": "1611496",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 40,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -11120,22 +9376,6 @@
    "gtins": [
     "04242005534845"
    ],
-   "eprel": {
-    "registrationNumber": "2252919",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 40,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -11311,22 +9551,6 @@
    "gtins": [
     "08059019093789"
    ],
-   "eprel": {
-    "registrationNumber": "2006226",
-    "energyClass": "C",
-    "capacity": 6,
-    "noiseDb": 81,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 56,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "D",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 81,
@@ -11349,22 +9573,6 @@
    "gtins": [
     "08059019093796"
    ],
-   "eprel": {
-    "registrationNumber": "2033794",
-    "energyClass": "C",
-    "capacity": 6,
-    "noiseDb": 81,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 56,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "D",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 81,
@@ -11387,22 +9595,6 @@
    "gtins": [
     "08059019093857"
    ],
-   "eprel": {
-    "registrationNumber": "2024782",
-    "energyClass": "D",
-    "capacity": 8,
-    "noiseDb": 75,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 73,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 951,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 75,
@@ -11425,22 +9617,6 @@
    "gtins": [
     "08059019093864"
    ],
-   "eprel": {
-    "registrationNumber": "2033812",
-    "energyClass": "D",
-    "capacity": 8,
-    "noiseDb": 79,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 73,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 79,
@@ -11463,22 +9639,6 @@
    "gtins": [
     "08059019094038"
    ],
-   "eprel": {
-    "registrationNumber": "2006239",
-    "energyClass": "D",
-    "capacity": 8,
-    "noiseDb": 81,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 73,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "D",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 81,
@@ -12613,22 +10773,6 @@
    "gtins": [
     "03615993809423"
    ],
-   "eprel": {
-    "registrationNumber": "2699630",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 33,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -12649,22 +10793,6 @@
    "gtins": [
     "03615993770990"
    ],
-   "eprel": {
-    "registrationNumber": "2455697",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 33,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -13362,22 +11490,6 @@
    "gtins": [
     "08059019093772"
    ],
-   "eprel": {
-    "registrationNumber": "2006224",
-    "energyClass": "C",
-    "capacity": 7,
-    "noiseDb": 79,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 59,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 7,
     "db": 79,
@@ -13400,22 +11512,6 @@
    "gtins": [
     "08059019094007"
    ],
-   "eprel": {
-    "registrationNumber": "2022231",
-    "energyClass": "D",
-    "capacity": 8,
-    "noiseDb": 79,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 73,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 79,
@@ -13438,22 +11534,6 @@
    "gtins": [
     "08059019111292"
    ],
-   "eprel": {
-    "registrationNumber": "2325597",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 54,
-    "energyPer100Cycles": 40,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "BUILT_IN"
-   },
    "eck": {
     "m": 9,
     "db": 72,
@@ -13476,22 +11556,6 @@
    "gtins": [
     "08059019111384"
    ],
-   "eprel": {
-    "registrationNumber": "2317043",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 54,
-    "energyPer100Cycles": 38,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "BUILT_IN"
-   },
    "eck": {
     "m": 8,
     "db": 72,
@@ -13514,22 +11578,6 @@
    "gtins": [
     "08059019094311"
    ],
-   "eprel": {
-    "registrationNumber": "2034958",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 47,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 77,
@@ -14247,22 +12295,6 @@
    "gtins": [
     "08059019109619"
    ],
-   "eprel": {
-    "registrationNumber": "2340443",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 54,
-    "energyPer100Cycles": 35,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1551,
-    "spinClass": "B",
-    "installation": "BUILT_IN"
-   },
    "eck": {
     "m": 9,
     "db": 72,
@@ -14285,22 +12317,6 @@
    "gtins": [
     "08059019093987"
    ],
-   "eprel": {
-    "registrationNumber": "2053993",
-    "energyClass": "B",
-    "capacity": 7,
-    "noiseDb": 79,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 52,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 7,
     "db": 79,
@@ -14323,22 +12339,6 @@
    "gtins": [
     "08059019112152"
    ],
-   "eprel": {
-    "registrationNumber": "2317290",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 40,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 7,
     "db": 77,
@@ -14492,22 +12492,6 @@
    "gtins": [
     "03615993761400"
    ],
-   "eprel": {
-    "registrationNumber": "2090515",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 42,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -14528,22 +12512,6 @@
    "gtins": [
     "03615993752613"
    ],
-   "eprel": {
-    "registrationNumber": "2090513",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 42,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -14564,22 +12532,6 @@
    "gtins": [
     "03615993752675"
    ],
-   "eprel": {
-    "registrationNumber": "1933281",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 78,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 66,
-    "energyPer100Cycles": 54,
-    "waterLitres": 57,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1350,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -14932,22 +12884,6 @@
    "gtins": [
     "08059019093765"
    ],
-   "eprel": {
-    "registrationNumber": "2024808",
-    "energyClass": "C",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 56,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 79,
@@ -14970,22 +12906,6 @@
    "gtins": [
     "08059019093819"
    ],
-   "eprel": {
-    "registrationNumber": "2022230",
-    "energyClass": "D",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 65,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 79,
@@ -15909,22 +13829,6 @@
    "gtins": [
     "06921081503775"
    ],
-   "eprel": {
-    "registrationNumber": "2402106",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 70,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 42,
-    "energyPer100Cycles": 42,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1330,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 70,
@@ -15947,22 +13851,6 @@
    "gtins": [
     "08059019093697"
    ],
-   "eprel": {
-    "registrationNumber": "2051747",
-    "energyClass": "B",
-    "capacity": 8.5,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 56,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8.5,
     "db": 77,
@@ -15985,22 +13873,6 @@
    "gtins": [
     "08059019094342"
    ],
-   "eprel": {
-    "registrationNumber": "2051716",
-    "energyClass": "B",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 49,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 79,
@@ -16023,22 +13895,6 @@
    "gtins": [
     "08059019094366"
    ],
-   "eprel": {
-    "registrationNumber": "2051745",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 45,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 7,
     "db": 77,
@@ -16061,22 +13917,6 @@
    "gtins": [
     "08059019094397"
    ],
-   "eprel": {
-    "registrationNumber": "2053994",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 79,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 45,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 7,
     "db": 79,
@@ -16227,22 +14067,6 @@
    "gtins": [
     "08003437052392"
    ],
-   "eprel": {
-    "registrationNumber": "1450833",
-    "energyClass": "D",
-    "capacity": 7,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 69,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -16263,22 +14087,6 @@
    "gtins": [
     "08003437052743"
    ],
-   "eprel": {
-    "registrationNumber": "1537868",
-    "energyClass": "C",
-    "capacity": 6.5,
-    "noiseDb": 72,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 58,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1251,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6.5,
@@ -16299,22 +14107,6 @@
    "gtins": [
     "08003437052408"
    ],
-   "eprel": {
-    "registrationNumber": "1450834",
-    "energyClass": "D",
-    "capacity": 7,
-    "noiseDb": 72,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 69,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -16335,22 +14127,6 @@
    "gtins": [
     "03615993752668"
    ],
-   "eprel": {
-    "registrationNumber": "1949576",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 51,
-    "waterLitres": 52,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1350,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -16371,22 +14147,6 @@
    "gtins": [
     "03615993744021"
    ],
-   "eprel": {
-    "registrationNumber": "1610318",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 83,
-    "depthCm": 54,
-    "energyPer100Cycles": 47,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1350,
-    "spinClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -16419,22 +14179,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-07",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2272075",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 47,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1310,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -16465,22 +14209,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-26",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1249940",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 66,
-    "energyPer100Cycles": 54,
-    "waterLitres": 55,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -16499,22 +14227,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1992611",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 66,
-    "energyPer100Cycles": 54,
-    "waterLitres": 55,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -16545,22 +14257,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2198947",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 37,
-    "waterLitres": 40,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -16579,22 +14275,6 @@
    "reliability": 7.5,
    "calculated": "2025-08-14",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2443044",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 44,
-    "waterLitres": 39,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -16613,22 +14293,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2237211",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 75,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 44,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -16757,22 +14421,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-26",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2073010",
-    "energyClass": "B",
-    "capacity": 7,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 47,
-    "energyPer100Cycles": 51,
-    "waterLitres": 37,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -16791,22 +14439,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2237056",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 46,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -16825,22 +14457,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2156644",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 37,
-    "waterLitres": 40,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -16859,22 +14475,6 @@
    "reliability": 7.5,
    "calculated": "2025-06-10",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2382928",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 75,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 44,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -16893,22 +14493,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2118023",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 75,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 44,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -16927,22 +14511,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2237187",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 44,
-    "waterLitres": 39,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -16961,22 +14529,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-28",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1883330",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 44,
-    "waterLitres": 39,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -16995,22 +14547,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1905498",
-    "energyClass": "A",
-    "capacity": 10.5,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 41,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10.5,
@@ -17029,22 +14565,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1888631",
-    "energyClass": "A",
-    "capacity": 10.5,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 41,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10.5,
@@ -17063,22 +14583,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2204247",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 64,
-    "energyPer100Cycles": 43,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -17097,22 +14601,6 @@
    "reliability": 7.5,
    "calculated": "2025-06-14",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2181000",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 64,
-    "energyPer100Cycles": 43,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -17131,22 +14619,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1888890",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 64,
-    "energyPer100Cycles": 43,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -17165,22 +14637,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1884956",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 51,
-    "energyPer100Cycles": 33,
-    "waterLitres": 36,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 72,
@@ -17199,22 +14655,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1858697",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 51,
-    "energyPer100Cycles": 33,
-    "waterLitres": 36,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 72,
@@ -17233,22 +14673,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1858749",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 55,
-    "energyPer100Cycles": 34,
-    "waterLitres": 39,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -17267,22 +14691,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1858739",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 55,
-    "energyPer100Cycles": 34,
-    "waterLitres": 39,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 9,
     "db": 72,
@@ -17301,22 +14709,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2037318",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 55,
-    "energyPer100Cycles": 34,
-    "waterLitres": 39,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -17335,22 +14727,6 @@
    "reliability": 7.5,
    "calculated": "2025-04-02",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1608673",
-    "energyClass": "A",
-    "capacity": 10.5,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 62,
-    "energyPer100Cycles": 52,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1310,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 10.5,
     "db": 72,
@@ -17369,22 +14745,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1438761",
-    "energyClass": "A",
-    "capacity": 10.5,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 62,
-    "energyPer100Cycles": 52,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1310,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 10.5,
     "db": 72,
@@ -17403,22 +14763,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2237132",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 64,
-    "energyPer100Cycles": 54,
-    "waterLitres": 53,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -17437,22 +14781,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-25",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1451077",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 64,
-    "energyPer100Cycles": 54,
-    "waterLitres": 53,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -17483,22 +14811,6 @@
    "reliability": 7.5,
    "calculated": "2025-04-08",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2257860",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 37,
-    "waterLitres": 40,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -17517,22 +14829,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2066898",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 51,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1310,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -17551,22 +14847,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1441312",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 47,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1310,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -17585,22 +14865,6 @@
    "reliability": 7.5,
    "calculated": "2025-06-20",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2400867",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 72,
-    "widthCm": 600,
-    "heightCm": 85,
-    "depthCm": 590,
-    "energyPer100Cycles": 46,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -17619,22 +14883,6 @@
    "reliability": 7.5,
    "calculated": "2025-07-18",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2408202",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 71,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 46,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -17653,22 +14901,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1960031",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 47,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1310,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -17687,22 +14919,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-26",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1083215",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 49,
-    "waterLitres": 49,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -17721,22 +14937,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-26",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1128077",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 49,
-    "waterLitres": 49,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -17767,22 +14967,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1992607",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 66,
-    "energyPer100Cycles": 54,
-    "waterLitres": 55,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -17801,22 +14985,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-26",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1187867",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 47,
-    "energyPer100Cycles": 45,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -17847,22 +15015,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2006261",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 47,
-    "energyPer100Cycles": 44,
-    "waterLitres": 35,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -17881,22 +15033,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-26",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1420419",
-    "energyClass": "B",
-    "capacity": 9,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 57,
-    "waterLitres": 37,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -17915,22 +15051,6 @@
    "reliability": 7.5,
    "calculated": "2025-03-26",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1858777",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 44,
-    "waterLitres": 39,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -17953,22 +15073,6 @@
    "gtins": [
     "08003437052705"
    ],
-   "eprel": {
-    "registrationNumber": "1503709",
-    "energyClass": "B",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 48,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 79,
@@ -17991,22 +15095,6 @@
    "gtins": [
     "08003437058073"
    ],
-   "eprel": {
-    "registrationNumber": "1952198",
-    "energyClass": "B",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 48,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 79,
@@ -18181,22 +15269,6 @@
    "gtins": [
     "08059019101484"
    ],
-   "eprel": {
-    "registrationNumber": "2060084",
-    "energyClass": "B",
-    "capacity": 8.5,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 56,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8.5,
     "db": 77,
@@ -18231,22 +15303,6 @@
    "gtins": [
     "08003437059391"
    ],
-   "eprel": {
-    "registrationNumber": "2084787",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -18611,22 +15667,6 @@
    "gtins": [
     "08059019094359"
    ],
-   "eprel": {
-    "registrationNumber": "2051717",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 77,
@@ -18649,22 +15689,6 @@
    "gtins": [
     "08059019105642"
    ],
-   "eprel": {
-    "registrationNumber": "2205259",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 79,
@@ -18687,22 +15711,6 @@
    "gtins": [
     "08059019094205"
    ],
-   "eprel": {
-    "registrationNumber": "2045736",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 79,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 45,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 7,
     "db": 79,
@@ -18799,22 +15807,6 @@
    "gtins": [
     "08003437051432"
    ],
-   "eprel": {
-    "registrationNumber": "1186287",
-    "energyClass": "C",
-    "capacity": 6,
-    "noiseDb": 76,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 56,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -18835,22 +15827,6 @@
    "gtins": [
     "08003437060205"
    ],
-   "eprel": {
-    "registrationNumber": "2147827",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -18871,22 +15847,6 @@
    "gtins": [
     "08003437065293"
    ],
-   "eprel": {
-    "registrationNumber": "2250061",
-    "energyClass": "B",
-    "capacity": 7,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 52,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -18921,22 +15881,6 @@
    "gtins": [
     "08003437062988"
    ],
-   "eprel": {
-    "registrationNumber": "2161472",
-    "energyClass": "A",
-    "capacity": 6.5,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 43,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6.5,
@@ -18957,22 +15901,6 @@
    "gtins": [
     "08003437046919"
    ],
-   "eprel": {
-    "registrationNumber": "300612",
-    "energyClass": "E",
-    "capacity": 7,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 78,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -18993,22 +15921,6 @@
    "gtins": [
     "08003437050725"
    ],
-   "eprel": {
-    "registrationNumber": "1032544",
-    "energyClass": "B",
-    "capacity": 6,
-    "noiseDb": 74,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 48,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -19029,22 +15941,6 @@
    "gtins": [
     "08003437062995"
    ],
-   "eprel": {
-    "registrationNumber": "2161473",
-    "energyClass": "A",
-    "capacity": 6.5,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 43,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6.5,
@@ -19067,22 +15963,6 @@
    "gtins": [
     "08003437051296"
    ],
-   "eprel": {
-    "registrationNumber": "1185134",
-    "energyClass": "C",
-    "capacity": 6,
-    "noiseDb": 76,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 56,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 76,
@@ -19121,22 +16001,6 @@
    "gtins": [
     "08003437046902"
    ],
-   "eprel": {
-    "registrationNumber": "297888",
-    "energyClass": "E",
-    "capacity": 7,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 78,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 7,
     "db": 78,
@@ -19159,22 +16023,6 @@
    "gtins": [
     "08003437065286"
    ],
-   "eprel": {
-    "registrationNumber": "2250060",
-    "energyClass": "B",
-    "capacity": 7,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 52,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 7,
     "db": 78,
@@ -19197,22 +16045,6 @@
    "gtins": [
     "08003437060045"
    ],
-   "eprel": {
-    "registrationNumber": "2147825",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 79,
@@ -19249,22 +16081,6 @@
    "gtins": [
     "08003437052699"
    ],
-   "eprel": {
-    "registrationNumber": "1524186",
-    "energyClass": "C",
-    "capacity": 6.5,
-    "noiseDb": 72,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 57,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6.5,
     "db": 72,
@@ -19295,22 +16111,6 @@
    "reliability": 7.7,
    "calculated": "2025-05-20",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2197412",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 65,
-    "energyPer100Cycles": 44,
-    "waterLitres": 56,
-    "guaranteeMonths": 12,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -19509,22 +16309,6 @@
    "gtins": [
     "08059019093970"
    ],
-   "eprel": {
-    "registrationNumber": "2028272",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 79,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 45,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 7,
     "db": 79,
@@ -19927,22 +16711,6 @@
    "reliability": 6.7,
    "calculated": "2026-01-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2243310",
-    "energyClass": "A",
-    "capacity": 11,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 53,
-    "waterLitres": 54,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 11,
@@ -19963,22 +16731,6 @@
    "gtins": [
     "08003437051357"
    ],
-   "eprel": {
-    "registrationNumber": "1186293",
-    "energyClass": "C",
-    "capacity": 6,
-    "noiseDb": 76,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 56,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -19999,22 +16751,6 @@
    "gtins": [
     "08003437051333"
    ],
-   "eprel": {
-    "registrationNumber": "1186291",
-    "energyClass": "C",
-    "capacity": 6,
-    "noiseDb": 76,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 56,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -20035,22 +16771,6 @@
    "gtins": [
     "08003437058981"
    ],
-   "eprel": {
-    "registrationNumber": "1995009",
-    "energyClass": "C",
-    "capacity": 6,
-    "noiseDb": 76,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 56,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -20071,22 +16791,6 @@
    "gtins": [
     "08003437051319"
    ],
-   "eprel": {
-    "registrationNumber": "1178266",
-    "energyClass": "C",
-    "capacity": 6,
-    "noiseDb": 76,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 56,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -20107,22 +16811,6 @@
    "gtins": [
     "08003437051326"
    ],
-   "eprel": {
-    "registrationNumber": "1186290",
-    "energyClass": "C",
-    "capacity": 6,
-    "noiseDb": 76,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 56,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -20157,22 +16845,6 @@
    "gtins": [
     "08003437060007"
    ],
-   "eprel": {
-    "registrationNumber": "2145054",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -20193,22 +16865,6 @@
    "gtins": [
     "08003437059988"
    ],
-   "eprel": {
-    "registrationNumber": "2095687",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -20229,22 +16885,6 @@
    "gtins": [
     "08003437051654"
    ],
-   "eprel": {
-    "registrationNumber": "2250062",
-    "energyClass": "B",
-    "capacity": 7,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 52,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -20265,22 +16905,6 @@
    "gtins": [
     "08003437051340"
    ],
-   "eprel": {
-    "registrationNumber": "1186292",
-    "energyClass": "C",
-    "capacity": 6,
-    "noiseDb": 76,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 56,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -20301,22 +16925,6 @@
    "gtins": [
     "08003437059995"
    ],
-   "eprel": {
-    "registrationNumber": "2095688",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -20367,22 +16975,6 @@
    "gtins": [
     "08003437052521"
    ],
-   "eprel": {
-    "registrationNumber": "1470528",
-    "energyClass": "C",
-    "capacity": 6,
-    "noiseDb": 76,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 56,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 6,
     "db": 76,
@@ -20437,22 +17029,6 @@
    "reliability": 7.7,
    "calculated": "2025-06-04",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2210786",
-    "energyClass": "B",
-    "capacity": 6,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 45,
-    "energyPer100Cycles": 48,
-    "waterLitres": 43,
-    "guaranteeMonths": 12,
-    "noiseClass": "B",
-    "spinRpm": 1000,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -20471,22 +17047,6 @@
    "reliability": 7.7,
    "calculated": "2025-06-04",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2020919",
-    "energyClass": "E",
-    "capacity": 6,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 45,
-    "energyPer100Cycles": 74,
-    "waterLitres": 43,
-    "guaranteeMonths": 12,
-    "noiseClass": "B",
-    "spinRpm": 1000,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -20700,22 +17260,6 @@
    "gtins": [
     "08050147723951"
    ],
-   "eprel": {
-    "registrationNumber": "2243308",
-    "energyClass": "B",
-    "capacity": 7,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 52,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -20738,22 +17282,6 @@
    "gtins": [
     "08059019094885"
    ],
-   "eprel": {
-    "registrationNumber": "2015792",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 80,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 68,
-    "energyPer100Cycles": 56,
-    "waterLitres": 56,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 14,
     "db": 80,
@@ -21022,22 +17550,6 @@
    "reliability": 6.7,
    "calculated": "2026-01-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1900710",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 51,
-    "waterLitres": 52,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -21082,22 +17594,6 @@
    "reliability": 6.7,
    "calculated": "2026-01-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2243309",
-    "energyClass": "A",
-    "capacity": 11,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 53,
-    "waterLitres": 54,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 11,
@@ -21116,22 +17612,6 @@
    "reliability": 6.7,
    "calculated": "2026-01-06",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1454806",
-    "energyClass": "B",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 54,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -21152,22 +17632,6 @@
    "gtins": [
     "03615993752750"
    ],
-   "eprel": {
-    "registrationNumber": "2228921",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 83,
-    "depthCm": 54,
-    "energyPer100Cycles": 40,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -21188,22 +17652,6 @@
    "gtins": [
     "08003437046322"
    ],
-   "eprel": {
-    "registrationNumber": "280859",
-    "energyClass": "D",
-    "capacity": 6,
-    "noiseDb": 76,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 64,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -21224,22 +17672,6 @@
    "gtins": [
     "08003437059384"
    ],
-   "eprel": {
-    "registrationNumber": "2084786",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -21274,22 +17706,6 @@
    "gtins": [
     "08003437060243"
    ],
-   "eprel": {
-    "registrationNumber": "2147830",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -21310,22 +17726,6 @@
    "gtins": [
     "08003437059377"
    ],
-   "eprel": {
-    "registrationNumber": "2084785",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -21360,22 +17760,6 @@
    "gtins": [
     "08003437063008"
    ],
-   "eprel": {
-    "registrationNumber": "2161474",
-    "energyClass": "A",
-    "capacity": 6.5,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 43,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6.5,
@@ -21436,22 +17820,6 @@
    "gtins": [
     "08050147697450"
    ],
-   "eprel": {
-    "registrationNumber": "2088085",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -21472,22 +17840,6 @@
    "gtins": [
     "08050147709375"
    ],
-   "eprel": {
-    "registrationNumber": "2161475",
-    "energyClass": "A",
-    "capacity": 6.5,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 43,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6.5,
@@ -21616,22 +17968,6 @@
    "gtins": [
     "08059019044767"
    ],
-   "eprel": {
-    "registrationNumber": "1184130",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 80,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 67,
-    "energyPer100Cycles": 56,
-    "waterLitres": 56,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -21703,22 +18039,6 @@
    "gtins": [
     "08059019090092"
    ],
-   "eprel": {
-    "registrationNumber": "1874933",
-    "energyClass": "A",
-    "capacity": 13,
-    "noiseDb": 80,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 68,
-    "energyPer100Cycles": 56,
-    "waterLitres": 54,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -21738,22 +18058,6 @@
    "gtins": [
     "08059019095011"
    ],
-   "eprel": {
-    "registrationNumber": "2015787",
-    "energyClass": "A",
-    "capacity": 11,
-    "noiseDb": 80,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 68,
-    "energyPer100Cycles": 53,
-    "waterLitres": 52,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 11,
@@ -21773,22 +18077,6 @@
    "gtins": [
     "08059019028439"
    ],
-   "eprel": {
-    "registrationNumber": "380520",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 53,
-    "energyPer100Cycles": 49,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1551,
-    "spinClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -21809,22 +18097,6 @@
    "gtins": [
     "03665257533373"
    ],
-   "eprel": {
-    "registrationNumber": "1640385",
-    "energyClass": "D",
-    "capacity": 6,
-    "noiseDb": 80,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 40,
-    "energyPer100Cycles": 64,
-    "waterLitres": 43,
-    "guaranteeMonths": 36,
-    "noiseClass": "C",
-    "spinRpm": 1200,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -21898,22 +18170,6 @@
    "gtins": [
     "08050147723906"
    ],
-   "eprel": {
-    "registrationNumber": "2250059",
-    "energyClass": "B",
-    "capacity": 7,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 52,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -21948,22 +18204,6 @@
    "gtins": [
     "08050147697603"
    ],
-   "eprel": {
-    "registrationNumber": "2088086",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -21984,22 +18224,6 @@
    "gtins": [
     "08050147697627"
    ],
-   "eprel": {
-    "registrationNumber": "2088088",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -22048,22 +18272,6 @@
    "gtins": [
     "08050147697610"
    ],
-   "eprel": {
-    "registrationNumber": "2088087",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -22118,22 +18326,6 @@
    "gtins": [
     "08059019007267"
    ],
-   "eprel": {
-    "registrationNumber": "333824",
-    "energyClass": "A",
-    "capacity": 11,
-    "noiseDb": 80,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 62,
-    "energyPer100Cycles": 53,
-    "waterLitres": 52,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 11,
     "db": 80,
@@ -22172,22 +18364,6 @@
    "gtins": [
     "08059019095004"
    ],
-   "eprel": {
-    "registrationNumber": "2015788",
-    "energyClass": "A",
-    "capacity": 13,
-    "noiseDb": 80,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 68,
-    "energyPer100Cycles": 56,
-    "waterLitres": 54,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 13,
     "db": 80,
@@ -22224,22 +18400,6 @@
    "gtins": [
     "08003437059964"
    ],
-   "eprel": {
-    "registrationNumber": "2095686",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -22272,22 +18432,6 @@
    "gtins": [
     "03615993780708"
    ],
-   "eprel": {
-    "registrationNumber": "2509920",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 47,
-    "energyPer100Cycles": 38,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1200,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -22464,22 +18608,6 @@
    "gtins": [
     "08059019042794"
    ],
-   "eprel": {
-    "registrationNumber": "663710",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 80,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 67,
-    "energyPer100Cycles": 56,
-    "waterLitres": 56,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 14,
     "db": 80,
@@ -22500,22 +18628,6 @@
    "gtins": [
     "08050147729199"
    ],
-   "eprel": {
-    "registrationNumber": "2277982",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -22550,22 +18662,6 @@
    "gtins": [
     "03615993795337"
    ],
-   "eprel": {
-    "registrationNumber": "2644076",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 88,
-    "depthCm": 61,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1200,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -22628,22 +18724,6 @@
    "gtins": [
     "08050147619544"
    ],
-   "eprel": {
-    "registrationNumber": "310444",
-    "energyClass": "C",
-    "capacity": 6.5,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 57,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6.5,
@@ -22743,22 +18823,6 @@
    "gtins": [
     "08059019074498"
    ],
-   "eprel": {
-    "registrationNumber": "1513536",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 45,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -22778,22 +18842,6 @@
    "gtins": [
     "08059019074566"
    ],
-   "eprel": {
-    "registrationNumber": "1513567",
-    "energyClass": "D",
-    "capacity": 7,
-    "noiseDb": 79,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 69,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -22813,22 +18861,6 @@
    "gtins": [
     "08059019074658"
    ],
-   "eprel": {
-    "registrationNumber": "1513537",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 45,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -22848,22 +18880,6 @@
    "gtins": [
     "08059019090061"
    ],
-   "eprel": {
-    "registrationNumber": "1874945",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 80,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 68,
-    "energyPer100Cycles": 54,
-    "waterLitres": 53,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -23116,22 +19132,6 @@
    "gtins": [
     "08059019017778"
    ],
-   "eprel": {
-    "registrationNumber": "334130",
-    "energyClass": "B",
-    "capacity": 8,
-    "noiseDb": 79,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 55,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 79,
@@ -23220,22 +19220,6 @@
    "reliability": 6.7,
    "calculated": "2025-03-13",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1995010",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 47,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -23297,22 +19281,6 @@
    "gtins": [
     "08059019057408"
    ],
-   "eprel": {
-    "registrationNumber": "1228292",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 78,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 53,
-    "energyPer100Cycles": 47,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1451,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -23332,22 +19300,6 @@
    "gtins": [
     "08059019074665"
    ],
-   "eprel": {
-    "registrationNumber": "1490906",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 42,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -23380,22 +19332,6 @@
    "gtins": [
     "08059019090030"
    ],
-   "eprel": {
-    "registrationNumber": "1874973",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 78,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 53,
-    "energyPer100Cycles": 43,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1451,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -23538,22 +19474,6 @@
    "gtins": [
     "08059019044293"
    ],
-   "eprel": {
-    "registrationNumber": "1208161",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 58,
-    "energyPer100Cycles": 41,
-    "waterLitres": 51,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 10,
     "db": 76,
@@ -23576,22 +19496,6 @@
    "gtins": [
     "08059019016801"
    ],
-   "eprel": {
-    "registrationNumber": "334112",
-    "energyClass": "B",
-    "capacity": 7,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 52,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 7,
     "db": 77,
@@ -23662,22 +19566,6 @@
    "gtins": [
     "08059019076867"
    ],
-   "eprel": {
-    "registrationNumber": "1532509",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 53,
-    "energyPer100Cycles": 40,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 9,
     "db": 76,
@@ -23786,22 +19674,6 @@
    "reliability": 5.8,
    "calculated": "2025-04-18",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2267805",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 77,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 43,
-    "waterLitres": 51,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1330,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -23875,22 +19747,6 @@
    "gtins": [
     "08059019044347"
    ],
-   "eprel": {
-    "registrationNumber": "1182956",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 45,
-    "energyPer100Cycles": 45,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -23975,22 +19831,6 @@
    "gtins": [
     "08059019090085"
    ],
-   "eprel": {
-    "registrationNumber": "1874948",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 78,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 53,
-    "energyPer100Cycles": 45,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1451,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -24010,22 +19850,6 @@
    "gtins": [
     "08059019111360"
    ],
-   "eprel": {
-    "registrationNumber": "2258151",
-    "energyClass": "B",
-    "capacity": 9,
-    "noiseDb": 77,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 57,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -24046,22 +19870,6 @@
    "gtins": [
     "03665257710323"
    ],
-   "eprel": {
-    "registrationNumber": "2184521",
-    "energyClass": "D",
-    "capacity": 5,
-    "noiseDb": 79,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 40,
-    "energyPer100Cycles": 60,
-    "waterLitres": 41,
-    "guaranteeMonths": 36,
-    "noiseClass": "C",
-    "spinRpm": 800,
-    "spinClass": "D",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 5,
@@ -24158,22 +19966,6 @@
    "gtins": [
     "08059019067520"
    ],
-   "eprel": {
-    "registrationNumber": "1323188",
-    "energyClass": "B",
-    "capacity": 8,
-    "noiseDb": 77,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 52,
-    "energyPer100Cycles": 55,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 77,
@@ -24196,22 +19988,6 @@
    "gtins": [
     "08059019090108"
    ],
-   "eprel": {
-    "registrationNumber": "1874932",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 58,
-    "energyPer100Cycles": 46,
-    "waterLitres": 51,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 10,
     "db": 74,
@@ -24258,22 +20034,6 @@
    "gtins": [
     "03615993752781"
    ],
-   "eprel": {
-    "registrationNumber": "1972599",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 84,
-    "depthCm": 59,
-    "energyPer100Cycles": 51,
-    "waterLitres": 52,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1200,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -24318,22 +20078,6 @@
    "gtins": [
     "03615993744038"
    ],
-   "eprel": {
-    "registrationNumber": "1582295",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 88,
-    "depthCm": 61,
-    "energyPer100Cycles": 47,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1250,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -24378,22 +20122,6 @@
    "gtins": [
     "08059019044385"
    ],
-   "eprel": {
-    "registrationNumber": "1182972",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 80,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 67,
-    "energyPer100Cycles": 54,
-    "waterLitres": 53,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -24503,22 +20231,6 @@
    "gtins": [
     "08059019082646"
    ],
-   "eprel": {
-    "registrationNumber": "1643020",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 78,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 58,
-    "energyPer100Cycles": 46,
-    "waterLitres": 51,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1551,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 10,
     "db": 78,
@@ -24539,22 +20251,6 @@
    "gtins": [
     "03701542103194"
    ],
-   "eprel": {
-    "registrationNumber": "1883467",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 77,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 43,
-    "waterLitres": 51,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1330,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -24587,22 +20283,6 @@
    "gtins": [
     "03451551063865"
    ],
-   "eprel": {
-    "registrationNumber": "2337745",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 34,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -24623,22 +20303,6 @@
    "gtins": [
     "03451557922159"
    ],
-   "eprel": {
-    "registrationNumber": "2111211",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 44,
-    "energyPer100Cycles": 42,
-    "waterLitres": 36,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1000,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -24685,22 +20349,6 @@
    "reliability": 6,
    "calculated": "2025-03-13",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1902607",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -24718,22 +20366,6 @@
    "reliability": 5.8,
    "calculated": "2025-04-30",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2065071",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 75,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 53,
-    "energyPer100Cycles": 47,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -24752,22 +20384,6 @@
    "reliability": 5.6,
    "calculated": "2025-12-15",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2498505",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 52,
-    "energyPer100Cycles": 42,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -24944,22 +20560,6 @@
    "gtins": [
     "03701542103217"
    ],
-   "eprel": {
-    "registrationNumber": "1883461",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 77,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 58,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1330,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -24980,22 +20580,6 @@
    "gtins": [
     "03701542103200"
    ],
-   "eprel": {
-    "registrationNumber": "1883464",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 75,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 58,
-    "energyPer100Cycles": 51,
-    "waterLitres": 52,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1330,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -25026,22 +20610,6 @@
    "reliability": 5.7,
    "calculated": "2025-03-13",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1750943",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 49,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -25060,22 +20628,6 @@
    "reliability": 5.7,
    "calculated": "2025-07-03",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1577439",
-    "energyClass": "A",
-    "capacity": 11,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 53,
-    "waterLitres": 54,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 11,
@@ -25129,22 +20681,6 @@
    "reliability": 5.8,
    "calculated": "2025-04-30",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2065069",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 53,
-    "energyPer100Cycles": 47,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1330,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -25165,22 +20701,6 @@
    "gtins": [
     "04894223248631"
    ],
-   "eprel": {
-    "registrationNumber": "2544353",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 49,
-    "waterLitres": 56,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -25201,22 +20721,6 @@
    "gtins": [
     "04894223237321"
    ],
-   "eprel": {
-    "registrationNumber": "1560850",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 50,
-    "energyPer100Cycles": 45,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -25235,22 +20739,6 @@
    "reliability": 5.8,
    "calculated": "2026-09-08",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "2717992",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 75,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 50,
-    "energyPer100Cycles": 45,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1120,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -25395,22 +20883,6 @@
    "gtins": [
     "03615993774523"
    ],
-   "eprel": {
-    "registrationNumber": "2425347",
-    "energyClass": "A",
-    "capacity": 7.5,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 88,
-    "depthCm": 61,
-    "energyPer100Cycles": 46,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7.5,
@@ -25432,22 +20904,6 @@
     "03451551247869",
     "03451551247821"
    ],
-   "eprel": {
-    "registrationNumber": "2699609",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 47,
-    "energyPer100Cycles": 45,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -25494,22 +20950,6 @@
    "gtins": [
     "04894223254366"
    ],
-   "eprel": {
-    "registrationNumber": "2642936",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 65,
-    "energyPer100Cycles": 44,
-    "waterLitres": 56,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -25530,22 +20970,6 @@
    "gtins": [
     "03609130017239"
    ],
-   "eprel": {
-    "registrationNumber": "2251317",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 75,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 56,
-    "energyPer100Cycles": 37,
-    "waterLitres": 32,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1330,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -25566,22 +20990,6 @@
    "gtins": [
     "04894223240000"
    ],
-   "eprel": {
-    "registrationNumber": "1780128",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 52,
-    "energyPer100Cycles": 47,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -25602,22 +21010,6 @@
    "gtins": [
     "04894223247252"
    ],
-   "eprel": {
-    "registrationNumber": "2220034",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 52,
-    "energyPer100Cycles": 42,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -25638,22 +21030,6 @@
    "gtins": [
     "03615993780951"
    ],
-   "eprel": {
-    "registrationNumber": "2515858",
-    "energyClass": "A",
-    "capacity": 7.5,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 88,
-    "depthCm": 61,
-    "energyPer100Cycles": 46,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7.5,
@@ -25701,22 +21077,6 @@
    "gtins": [
     "08059019068657"
    ],
-   "eprel": {
-    "registrationNumber": "1350646",
-    "energyClass": "B",
-    "capacity": 10,
-    "noiseDb": 79,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 58,
-    "energyPer100Cycles": 59,
-    "waterLitres": 51,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -25736,22 +21096,6 @@
    "gtins": [
     "08059019073965"
    ],
-   "eprel": {
-    "registrationNumber": "1472347",
-    "energyClass": "B",
-    "capacity": 8.5,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 56,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8.5,
@@ -25771,22 +21115,6 @@
    "gtins": [
     "08059019074689"
    ],
-   "eprel": {
-    "registrationNumber": "1513568",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 77,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 45,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -25839,22 +21167,6 @@
    "gtins": [
     "03701542103224"
    ],
-   "eprel": {
-    "registrationNumber": "1883460",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 77,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 53,
-    "energyPer100Cycles": 45,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1330,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -25982,22 +21294,6 @@
    "reliability": 5.7,
    "calculated": "2025-04-28",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1530123",
-    "energyClass": "B",
-    "capacity": 9,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 61,
-    "energyPer100Cycles": 57,
-    "waterLitres": 50,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -26018,22 +21314,6 @@
    "gtins": [
     "04894223239981"
    ],
-   "eprel": {
-    "registrationNumber": "1780153",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 54,
-    "waterLitres": 54,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -26068,22 +21348,6 @@
    "gtins": [
     "04894223252317"
    ],
-   "eprel": {
-    "registrationNumber": "2504882",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 52,
-    "energyPer100Cycles": 38,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -26104,22 +21368,6 @@
    "gtins": [
     "03615993780791"
    ],
-   "eprel": {
-    "registrationNumber": "2547746",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 52,
-    "energyPer100Cycles": 38,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -26153,22 +21401,6 @@
    "gtins": [
     "08059019021379"
    ],
-   "eprel": {
-    "registrationNumber": "337456",
-    "energyClass": "B",
-    "capacity": 7,
-    "noiseDb": 75,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 52,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -26240,22 +21472,6 @@
    "gtins": [
     "08059019090115"
    ],
-   "eprel": {
-    "registrationNumber": "1874918",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 58,
-    "energyPer100Cycles": 46,
-    "waterLitres": 51,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -26292,22 +21508,6 @@
    "gtins": [
     "08059019099262"
    ],
-   "eprel": {
-    "registrationNumber": "2028357",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 43,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 74,
@@ -26440,22 +21640,6 @@
    "gtins": [
     "04894223255752"
    ],
-   "eprel": {
-    "registrationNumber": "2715738",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 64,
-    "energyPer100Cycles": 38,
-    "waterLitres": 52,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -26489,22 +21673,6 @@
    "gtins": [
     "03615993761301"
    ],
-   "eprel": {
-    "registrationNumber": "2177869",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 47,
-    "energyPer100Cycles": 35,
-    "waterLitres": 38,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -26537,22 +21705,6 @@
    "gtins": [
     "08059019095462"
    ],
-   "eprel": {
-    "registrationNumber": "1947334",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 78,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 58,
-    "energyPer100Cycles": 51,
-    "waterLitres": 51,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -26572,22 +21724,6 @@
    "gtins": [
     "08059019095486"
    ],
-   "eprel": {
-    "registrationNumber": "1947337",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 78,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 58,
-    "energyPer100Cycles": 51,
-    "waterLitres": 51,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -26633,22 +21769,6 @@
    "gtins": [
     "08059019095523"
    ],
-   "eprel": {
-    "registrationNumber": "1947341",
-    "energyClass": "B",
-    "capacity": 12,
-    "noiseDb": 80,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 68,
-    "energyPer100Cycles": 63,
-    "waterLitres": 53,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -26668,22 +21788,6 @@
    "gtins": [
     "08059019099170"
    ],
-   "eprel": {
-    "registrationNumber": "2045705",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 80,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 68,
-    "energyPer100Cycles": 56,
-    "waterLitres": 56,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -26703,22 +21807,6 @@
    "gtins": [
     "08059019099187"
    ],
-   "eprel": {
-    "registrationNumber": "2045706",
-    "energyClass": "A",
-    "capacity": 13,
-    "noiseDb": 80,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 68,
-    "energyPer100Cycles": 56,
-    "waterLitres": 54,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -26738,22 +21826,6 @@
    "gtins": [
     "08059019099194"
    ],
-   "eprel": {
-    "registrationNumber": "2045704",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 78,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 58,
-    "energyPer100Cycles": 51,
-    "waterLitres": 51,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1451,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -26773,22 +21845,6 @@
    "gtins": [
     "08059019099200"
    ],
-   "eprel": {
-    "registrationNumber": "2045735",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 58,
-    "energyPer100Cycles": 51,
-    "waterLitres": 51,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -26821,22 +21877,6 @@
    "gtins": [
     "08059019099224"
    ],
-   "eprel": {
-    "registrationNumber": "2045869",
-    "energyClass": "A",
-    "capacity": 13,
-    "noiseDb": 80,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 68,
-    "energyPer100Cycles": 56,
-    "waterLitres": 54,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -26918,22 +21958,6 @@
    "gtins": [
     "03615993774370"
    ],
-   "eprel": {
-    "registrationNumber": "2431792",
-    "energyClass": "C",
-    "capacity": 5,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 88,
-    "depthCm": 61,
-    "energyPer100Cycles": 51,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1000,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 5,
@@ -26980,22 +22004,6 @@
    "gtins": [
     "03451557951296"
    ],
-   "eprel": {
-    "registrationNumber": "2140356",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 63,
-    "energyPer100Cycles": 54,
-    "waterLitres": 54,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1320,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -27128,22 +22136,6 @@
    "gtins": [
     "03615993744151"
    ],
-   "eprel": {
-    "registrationNumber": "1656507",
-    "energyClass": "A",
-    "capacity": 7.5,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 88,
-    "depthCm": 61,
-    "energyPer100Cycles": 46,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7.5,
@@ -27275,22 +22267,6 @@
    "gtins": [
     "08059019095448"
    ],
-   "eprel": {
-    "registrationNumber": "1947333",
-    "energyClass": "A",
-    "capacity": 10,
-    "noiseDb": 78,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 58,
-    "energyPer100Cycles": 51,
-    "waterLitres": 51,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -27383,22 +22359,6 @@
    "gtins": [
     "03615993780784"
    ],
-   "eprel": {
-    "registrationNumber": "2485343",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 50,
-    "energyPer100Cycles": 40,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -27421,22 +22381,6 @@
    "gtins": [
     "08059019040127"
    ],
-   "eprel": {
-    "registrationNumber": "629333",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 53,
-    "energyPer100Cycles": 49,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1551,
-    "spinClass": "B",
-    "installation": "BUILT_IN"
-   },
    "eck": {
     "m": 9,
     "db": 76,
@@ -27457,22 +22401,6 @@
    "gtins": [
     "08003437051159"
    ],
-   "eprel": {
-    "registrationNumber": "1195307",
-    "energyClass": "C",
-    "capacity": 6,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 56,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 951,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -27493,22 +22421,6 @@
    "gtins": [
     "03451557828970"
    ],
-   "eprel": {
-    "registrationNumber": "1983522",
-    "energyClass": "A",
-    "capacity": 7.5,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 88,
-    "depthCm": 61,
-    "energyPer100Cycles": 46,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1250,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7.5,
@@ -27559,22 +22471,6 @@
    "gtins": [
     "08003437059063"
    ],
-   "eprel": {
-    "registrationNumber": "2028984",
-    "energyClass": "C",
-    "capacity": 5.5,
-    "noiseDb": 76,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 42,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1051,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 5.5,
     "db": 76,
@@ -27622,22 +22518,6 @@
    "gtins": [
     "08059019021225"
    ],
-   "eprel": {
-    "registrationNumber": "336267",
-    "energyClass": "B",
-    "capacity": 6,
-    "noiseDb": 75,
-    "widthCm": 41,
-    "heightCm": 86,
-    "depthCm": 60,
-    "energyPer100Cycles": 49,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1351,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -27657,22 +22537,6 @@
    "gtins": [
     "08059019095530"
    ],
-   "eprel": {
-    "registrationNumber": "1947344",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 79,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 49,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1451,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 9,
@@ -27706,22 +22570,6 @@
    "gtins": [
     "03615993774141"
    ],
-   "eprel": {
-    "registrationNumber": "2378082",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 47,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1350,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -27740,22 +22588,6 @@
    "reliability": 5.2,
    "calculated": "2025-04-22",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1555900",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 80,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 57,
-    "guaranteeMonths": 12,
-    "noiseClass": "C",
-    "spinRpm": 1350,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -27880,22 +22712,6 @@
    "gtins": [
     "03615993761097"
    ],
-   "eprel": {
-    "registrationNumber": "1963578",
-    "energyClass": "C",
-    "capacity": 6,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 88,
-    "depthCm": 61,
-    "energyPer100Cycles": 56,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1000,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -28013,22 +22829,6 @@
    "gtins": [
     "03451557922173"
    ],
-   "eprel": {
-    "registrationNumber": "2041682",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 84,
-    "depthCm": 45,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1200,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -28049,22 +22849,6 @@
    "gtins": [
     "03451557922166"
    ],
-   "eprel": {
-    "registrationNumber": "2044283",
-    "energyClass": "A",
-    "capacity": 6,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 84,
-    "depthCm": 45,
-    "energyPer100Cycles": 42,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1250,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -28085,22 +22869,6 @@
    "gtins": [
     "03615993743932"
    ],
-   "eprel": {
-    "registrationNumber": "1508416",
-    "energyClass": "D",
-    "capacity": 6,
-    "noiseDb": 80,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 47,
-    "energyPer100Cycles": 65,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1200,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -28121,22 +22889,6 @@
    "gtins": [
     "03451557726801"
    ],
-   "eprel": {
-    "registrationNumber": "1506887",
-    "energyClass": "D",
-    "capacity": 6,
-    "noiseDb": 79,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 40,
-    "energyPer100Cycles": 64,
-    "waterLitres": 43,
-    "guaranteeMonths": 12,
-    "noiseClass": "C",
-    "spinRpm": 1000,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -28185,22 +22937,6 @@
    "gtins": [
     "04894223248518"
    ],
-   "eprel": {
-    "registrationNumber": "2248368",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 53,
-    "energyPer100Cycles": 42,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -28221,22 +22957,6 @@
    "gtins": [
     "03451557861175"
    ],
-   "eprel": {
-    "registrationNumber": "1869573",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 88,
-    "depthCm": 61,
-    "energyPer100Cycles": 47,
-    "waterLitres": 48,
-    "guaranteeMonths": 12,
-    "noiseClass": "C",
-    "spinRpm": 1250,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -28455,22 +23175,6 @@
    "gtins": [
     "08059019097763"
    ],
-   "eprel": {
-    "registrationNumber": "2039110",
-    "energyClass": "A",
-    "capacity": 9,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 49,
-    "waterLitres": 46,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 9,
     "db": 74,
@@ -28491,22 +23195,6 @@
    "gtins": [
     "08050147694107"
    ],
-   "eprel": {
-    "registrationNumber": "2028985",
-    "energyClass": "C",
-    "capacity": 5,
-    "noiseDb": 76,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 52,
-    "waterLitres": 40,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 951,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 5,
@@ -28572,22 +23260,6 @@
    "gtins": [
     "03451557929585"
    ],
-   "eprel": {
-    "registrationNumber": "2111124",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 52,
-    "energyPer100Cycles": 42,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -28608,22 +23280,6 @@
    "gtins": [
     "03615993752491"
    ],
-   "eprel": {
-    "registrationNumber": "1847571",
-    "energyClass": "D",
-    "capacity": 5,
-    "noiseDb": 79,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 44,
-    "energyPer100Cycles": 60,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 800,
-    "spinClass": "D",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 5,
@@ -28643,22 +23299,6 @@
    "gtins": [
     "03615993780937"
    ],
-   "eprel": {
-    "registrationNumber": "2570722",
-    "energyClass": "C",
-    "capacity": 5,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 47,
-    "energyPer100Cycles": 52,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1000,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 5,
@@ -28691,22 +23331,6 @@
    "reliability": 5.7,
    "calculated": "2025-04-03",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1334659",
-    "energyClass": "D",
-    "capacity": 6,
-    "noiseDb": 78,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 50,
-    "energyPer100Cycles": 65,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 1120,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 6,
@@ -28725,22 +23349,6 @@
    "reliability": 5.7,
    "calculated": "2025-04-03",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1334663",
-    "energyClass": "B",
-    "capacity": 7,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 50,
-    "energyPer100Cycles": 52,
-    "waterLitres": 45,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1330,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -28791,22 +23399,6 @@
    "gtins": [
     "08059019094984"
    ],
-   "eprel": {
-    "registrationNumber": "2039107",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 74,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 47,
-    "waterLitres": 44,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1151,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "eck": {
     "m": 8,
     "db": 74,
@@ -28827,22 +23419,6 @@
    "gtins": [
     "08050147665541"
    ],
-   "eprel": {
-    "registrationNumber": "1475929",
-    "energyClass": "D",
-    "capacity": 5,
-    "noiseDb": 76,
-    "widthCm": 40,
-    "heightCm": 90,
-    "depthCm": 60,
-    "energyPer100Cycles": 60,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 951,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 5,
@@ -28902,22 +23478,6 @@
    "gtins": [
     "03451557929578"
    ],
-   "eprel": {
-    "registrationNumber": "2111148",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 52,
-    "energyPer100Cycles": 42,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -28965,22 +23525,6 @@
      "placedOnMarketBy": "TELEFUNKEN"
     }
    ],
-   "eprel": {
-    "registrationNumber": "2530895",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 75,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 53,
-    "energyPer100Cycles": 47,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1200,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -29110,22 +23654,6 @@
    "gtins": [
     "03615993761158"
    ],
-   "eprel": {
-    "registrationNumber": "1994047",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 54,
-    "energyPer100Cycles": 47,
-    "waterLitres": 48,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1350,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -29157,22 +23685,6 @@
    "reliability": 4.9,
    "calculated": "2025-04-22",
    "gtins": [],
-   "eprel": {
-    "registrationNumber": "1897071",
-    "energyClass": "C",
-    "capacity": 5,
-    "noiseDb": 78,
-    "widthCm": 40,
-    "heightCm": 88,
-    "depthCm": 61,
-    "energyPer100Cycles": 51,
-    "waterLitres": 41,
-    "guaranteeMonths": 12,
-    "noiseClass": "C",
-    "spinRpm": 1000,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 5,
@@ -29207,22 +23719,6 @@
    "gtins": [
     "03615993747602"
    ],
-   "eprel": {
-    "registrationNumber": "1851152",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 47,
-    "energyPer100Cycles": 44,
-    "waterLitres": 34,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -29281,22 +23777,6 @@
    "gtins": [
     "03451557875905"
    ],
-   "eprel": {
-    "registrationNumber": "1909213",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 52,
-    "energyPer100Cycles": 45,
-    "waterLitres": 44,
-    "guaranteeMonths": 12,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -29331,22 +23811,6 @@
    "gtins": [
     "03451557929561"
    ],
-   "eprel": {
-    "registrationNumber": "2198357",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 52,
-    "energyPer100Cycles": 39,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -29367,22 +23831,6 @@
    "gtins": [
     "03451557929530"
    ],
-   "eprel": {
-    "registrationNumber": "2198338",
-    "energyClass": "A",
-    "capacity": 7,
-    "noiseDb": 76,
-    "widthCm": 52,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 39,
-    "waterLitres": 43,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 7,
@@ -29417,22 +23865,6 @@
    "gtins": [
     "03451557958738"
    ],
-   "eprel": {
-    "registrationNumber": "2148716",
-    "energyClass": "A",
-    "capacity": 8,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 52,
-    "energyPer100Cycles": 42,
-    "waterLitres": 47,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 8,
@@ -29453,22 +23885,6 @@
    "gtins": [
     "03451551063827"
    ],
-   "eprel": {
-    "registrationNumber": "2300642",
-    "energyClass": "A",
-    "capacity": 12,
-    "noiseDb": 76,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 65,
-    "energyPer100Cycles": 44,
-    "waterLitres": 56,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "spinRpm": 1400,
-    "spinClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 12,
@@ -29488,22 +23904,6 @@
    "gtins": [
     "03615993770778"
    ],
-   "eprel": {
-    "registrationNumber": "2296314",
-    "energyClass": "D",
-    "capacity": 5,
-    "noiseDb": 79,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 44,
-    "energyPer100Cycles": 60,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "spinRpm": 800,
-    "spinClass": "D",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 5,
@@ -29565,22 +23965,6 @@
    "gtins": [
     "03615993795078"
    ],
-   "eprel": {
-    "registrationNumber": "2582987",
-    "energyClass": "A",
-    "capacity": 5,
-    "noiseDb": 72,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 46,
-    "energyPer100Cycles": 39,
-    "waterLitres": 41,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "spinRpm": 1000,
-    "spinClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 5,

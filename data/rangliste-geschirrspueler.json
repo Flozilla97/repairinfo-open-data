@@ -50,20 +50,6 @@
    "gtins": [
     "04550556205634"
    ],
-   "eprel": {
-    "registrationNumber": "2488414",
-    "energyClass": "D",
-    "capacity": 13,
-    "noiseDb": 49,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 84,
-    "waterLitres": 12.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -92,20 +78,6 @@
    "gtins": [
     "04550556218474"
    ],
-   "eprel": {
-    "registrationNumber": "2551508",
-    "energyClass": "D",
-    "capacity": 16,
-    "noiseDb": 45,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 87,
-    "waterLitres": 10.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 16,
@@ -134,20 +106,6 @@
    "gtins": [
     "04550556200325"
    ],
-   "eprel": {
-    "registrationNumber": "2476394",
-    "energyClass": "D",
-    "capacity": 16,
-    "noiseDb": 45,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 87,
-    "waterLitres": 10.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 16,
@@ -176,20 +134,6 @@
    "gtins": [
     "04550556205627"
    ],
-   "eprel": {
-    "registrationNumber": "2532511",
-    "energyClass": "D",
-    "capacity": 13,
-    "noiseDb": 47,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 84,
-    "waterLitres": 12.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -218,20 +162,6 @@
    "gtins": [
     "04550556200332"
    ],
-   "eprel": {
-    "registrationNumber": "2476418",
-    "energyClass": "D",
-    "capacity": 13,
-    "noiseDb": 47,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 84,
-    "waterLitres": 12.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -260,20 +190,6 @@
    "gtins": [
     "04550556148436"
    ],
-   "eprel": {
-    "registrationNumber": "2050776",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9.2,
-    "guaranteeMonths": 36,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -324,20 +240,6 @@
    "gtins": [
     "04550556148443"
    ],
-   "eprel": {
-    "registrationNumber": "2050169",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9.2,
-    "guaranteeMonths": 36,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -366,20 +268,6 @@
    "gtins": [
     "04550556149860"
    ],
-   "eprel": {
-    "registrationNumber": "2050172",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9.2,
-    "guaranteeMonths": 36,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -408,20 +296,6 @@
    "gtins": [
     "04550556134804"
    ],
-   "eprel": {
-    "registrationNumber": "1949600",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9.2,
-    "guaranteeMonths": 36,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -450,20 +324,6 @@
    "gtins": [
     "04550556112666"
    ],
-   "eprel": {
-    "registrationNumber": "1668521",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9.2,
-    "guaranteeMonths": 36,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -493,20 +353,6 @@
    "gtins": [
     "04550556132121"
    ],
-   "eprel": {
-    "registrationNumber": "1868187",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9.2,
-    "guaranteeMonths": 36,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -535,20 +381,6 @@
    "gtins": [
     "04550556142465"
    ],
-   "eprel": {
-    "registrationNumber": "1999287",
-    "energyClass": "E",
-    "capacity": 15,
-    "noiseDb": 45,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 97,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 15,
@@ -577,20 +409,6 @@
    "gtins": [
     "04974019180748"
    ],
-   "eprel": {
-    "registrationNumber": "368569",
-    "energyClass": "E",
-    "capacity": 15,
-    "noiseDb": 45,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 97,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 15,
@@ -620,20 +438,6 @@
    "gtins": [
     "08003437065620"
    ],
-   "eprel": {
-    "registrationNumber": "2219948",
-    "energyClass": "A",
-    "capacity": 15,
-    "noiseDb": 38,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 55,
-    "waterLitres": 9.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 15,
@@ -665,20 +469,6 @@
    "gtins": [
     "04002516908449"
    ],
-   "eprel": {
-    "registrationNumber": "2244456",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 81,
-    "depthCm": 57,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.2,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -711,20 +501,6 @@
    "gtins": [
     "04002516908555"
    ],
-   "eprel": {
-    "registrationNumber": "2241811",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 81,
-    "depthCm": 57,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.4,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -757,20 +533,6 @@
    "gtins": [
     "04002516908579"
    ],
-   "eprel": {
-    "registrationNumber": "2238292",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 81,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.4,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -803,20 +565,6 @@
    "gtins": [
     "04002516908586"
    ],
-   "eprel": {
-    "registrationNumber": "2238032",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.4,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -849,20 +597,6 @@
    "gtins": [
     "04002516908593"
    ],
-   "eprel": {
-    "registrationNumber": "2302219",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 81,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.4,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -1062,20 +796,6 @@
    "gtins": [
     "04242005546251"
    ],
-   "eprel": {
-    "registrationNumber": "2325032",
-    "energyClass": "A",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -1108,20 +828,6 @@
    "gtins": [
     "04242005551019"
    ],
-   "eprel": {
-    "registrationNumber": "2346932",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -1154,20 +860,6 @@
    "gtins": [
     "04242005521371"
    ],
-   "eprel": {
-    "registrationNumber": "2143483",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -1226,20 +918,6 @@
    "gtins": [
     "04242005545339"
    ],
-   "eprel": {
-    "registrationNumber": "2318256",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 40,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -1272,20 +950,6 @@
    "gtins": [
     "04242005535965"
    ],
-   "eprel": {
-    "registrationNumber": "2255848",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -1344,20 +1008,6 @@
    "gtins": [
     "04242005529438"
    ],
-   "eprel": {
-    "registrationNumber": "2204187",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -1390,20 +1040,6 @@
    "gtins": [
     "04242005444694"
    ],
-   "eprel": {
-    "registrationNumber": "1656057",
-    "energyClass": "D",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 85,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -1436,20 +1072,6 @@
    "gtins": [
     "04242005529421"
    ],
-   "eprel": {
-    "registrationNumber": "2204184",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -1508,20 +1130,6 @@
    "gtins": [
     "04242005483068"
    ],
-   "eprel": {
-    "registrationNumber": "1956206",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -1554,20 +1162,6 @@
    "gtins": [
     "04242005546244"
    ],
-   "eprel": {
-    "registrationNumber": "2325036",
-    "energyClass": "A",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -1600,20 +1194,6 @@
    "gtins": [
     "04242005535378"
    ],
-   "eprel": {
-    "registrationNumber": "2247952",
-    "energyClass": "A",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -1672,20 +1252,6 @@
    "gtins": [
     "04242005545346"
    ],
-   "eprel": {
-    "registrationNumber": "2318258",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 40,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -1718,20 +1284,6 @@
    "gtins": [
     "04242005482276"
    ],
-   "eprel": {
-    "registrationNumber": "1951364",
-    "energyClass": "B",
-    "capacity": 13,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 64,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -1790,20 +1342,6 @@
    "gtins": [
     "04242005484355"
    ],
-   "eprel": {
-    "registrationNumber": "1961922",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -1836,20 +1374,6 @@
    "gtins": [
     "04242005551002"
    ],
-   "eprel": {
-    "registrationNumber": "2346936",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -1882,20 +1406,6 @@
    "gtins": [
     "04242005521166"
    ],
-   "eprel": {
-    "registrationNumber": "2143481",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -1928,20 +1438,6 @@
    "gtins": [
     "04242005444748"
    ],
-   "eprel": {
-    "registrationNumber": "1656059",
-    "energyClass": "D",
-    "capacity": 14,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 85,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -1974,20 +1470,6 @@
    "gtins": [
     "04242005501212"
    ],
-   "eprel": {
-    "registrationNumber": "2008120",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -2072,20 +1554,6 @@
    "gtins": [
     "04242005479948"
    ],
-   "eprel": {
-    "registrationNumber": "1940711",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -2170,20 +1638,6 @@
    "gtins": [
     "04242005214501"
    ],
-   "eprel": {
-    "registrationNumber": "250814",
-    "energyClass": "D",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 84,
-    "waterLitres": 6.7,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -2216,20 +1670,6 @@
    "gtins": [
     "04242006296735"
    ],
-   "eprel": {
-    "registrationNumber": "365158",
-    "energyClass": "D",
-    "capacity": 13,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 84,
-    "waterLitres": 9.5,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -2259,20 +1699,6 @@
    "gtins": [
     "08690842906244"
    ],
-   "eprel": {
-    "registrationNumber": "2640649",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 41,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -2302,20 +1728,6 @@
    "gtins": [
     "08690842899959"
    ],
-   "eprel": {
-    "registrationNumber": "2620767",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 41,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 75,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -2345,20 +1757,6 @@
    "gtins": [
     "08690842886683"
    ],
-   "eprel": {
-    "registrationNumber": "2580217",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 41,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 75,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -2388,20 +1786,6 @@
    "gtins": [
     "08690842913709"
    ],
-   "eprel": {
-    "registrationNumber": "2668658",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -2431,20 +1815,6 @@
    "gtins": [
     "08690842913730"
    ],
-   "eprel": {
-    "registrationNumber": "2670631",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -2474,20 +1844,6 @@
    "gtins": [
     "08690842883750"
    ],
-   "eprel": {
-    "registrationNumber": "2576871",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 41,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -2517,20 +1873,6 @@
    "gtins": [
     "08690842906312"
    ],
-   "eprel": {
-    "registrationNumber": "2640652",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 41,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -2560,20 +1902,6 @@
    "gtins": [
     "08690842878879"
    ],
-   "eprel": {
-    "registrationNumber": "2570471",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 41,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 75,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 0,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -2603,20 +1931,6 @@
    "gtins": [
     "08690842906329"
    ],
-   "eprel": {
-    "registrationNumber": "2660777",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 41,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 64,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -2648,20 +1962,6 @@
    "gtins": [
     "04002516908432"
    ],
-   "eprel": {
-    "registrationNumber": "2244456",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 81,
-    "depthCm": 57,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.2,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -2720,20 +2020,6 @@
    "gtins": [
     "04002516908494"
    ],
-   "eprel": {
-    "registrationNumber": "2238287",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 81,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.2,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -2766,20 +2052,6 @@
    "gtins": [
     "04002516908500"
    ],
-   "eprel": {
-    "registrationNumber": "2238286",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.2,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -2864,20 +2136,6 @@
    "gtins": [
     "04002516908548"
    ],
-   "eprel": {
-    "registrationNumber": "2241807",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.4,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -2910,20 +2168,6 @@
    "gtins": [
     "04242004278528"
    ],
-   "eprel": {
-    "registrationNumber": "1606922",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 40,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -2982,20 +2226,6 @@
    "gtins": [
     "04242004285793"
    ],
-   "eprel": {
-    "registrationNumber": "2051126",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -3028,20 +2258,6 @@
    "gtins": [
     "04242003953938"
    ],
-   "eprel": {
-    "registrationNumber": "1806361",
-    "energyClass": "D",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 85,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -3100,20 +2316,6 @@
    "gtins": [
     "04242003961315"
    ],
-   "eprel": {
-    "registrationNumber": "1942206",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -3146,20 +2348,6 @@
    "gtins": [
     "04242003971604"
    ],
-   "eprel": {
-    "registrationNumber": "2094280",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -3192,20 +2380,6 @@
    "gtins": [
     "04242003979594"
    ],
-   "eprel": {
-    "registrationNumber": "2273842",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -3264,20 +2438,6 @@
    "gtins": [
     "04242003962299"
    ],
-   "eprel": {
-    "registrationNumber": "1951366",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -3336,20 +2496,6 @@
    "gtins": [
     "04242003978122"
    ],
-   "eprel": {
-    "registrationNumber": "2255851",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -3460,20 +2606,6 @@
    "gtins": [
     "04242003971741"
    ],
-   "eprel": {
-    "registrationNumber": "2094285",
-    "energyClass": "D",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 85,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -3532,20 +2664,6 @@
    "gtins": [
     "04242003978139"
    ],
-   "eprel": {
-    "registrationNumber": "2255858",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -3578,20 +2696,6 @@
    "gtins": [
     "04242003970744"
    ],
-   "eprel": {
-    "registrationNumber": "2075219",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -3624,20 +2728,6 @@
    "gtins": [
     "04242003969687"
    ],
-   "eprel": {
-    "registrationNumber": "2075217",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -3670,20 +2760,6 @@
    "gtins": [
     "04242003969694"
    ],
-   "eprel": {
-    "registrationNumber": "2075220",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -3742,20 +2818,6 @@
    "gtins": [
     "04242003964088"
    ],
-   "eprel": {
-    "registrationNumber": "1969574",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -3788,20 +2850,6 @@
    "gtins": [
     "04242003948071"
    ],
-   "eprel": {
-    "registrationNumber": "1588322",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -3834,20 +2882,6 @@
    "gtins": [
     "04242003982099"
    ],
-   "eprel": {
-    "registrationNumber": "2325052",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -3878,20 +2912,6 @@
    "gtins": [
     "08690842887482"
    ],
-   "eprel": {
-    "registrationNumber": "2580211",
-    "energyClass": "D",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 85,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -3921,20 +2941,6 @@
    "gtins": [
     "08690842887529"
    ],
-   "eprel": {
-    "registrationNumber": "2580221",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 75,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -3964,20 +2970,6 @@
    "gtins": [
     "08690842899973"
    ],
-   "eprel": {
-    "registrationNumber": "2622243",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 75,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4007,20 +2999,6 @@
    "gtins": [
     "08690842883149"
    ],
-   "eprel": {
-    "registrationNumber": "2562994",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 41,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 64,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4050,20 +3028,6 @@
    "gtins": [
     "08690842883927"
    ],
-   "eprel": {
-    "registrationNumber": "2580213",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 41,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9.5,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4093,20 +3057,6 @@
    "gtins": [
     "08690842878947"
    ],
-   "eprel": {
-    "registrationNumber": "2573583",
-    "energyClass": "D",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 85,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 0,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4136,20 +3086,6 @@
    "gtins": [
     "08690842882272"
    ],
-   "eprel": {
-    "registrationNumber": "2562997",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 41,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 75,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4179,20 +3115,6 @@
    "gtins": [
     "08690842887512"
    ],
-   "eprel": {
-    "registrationNumber": "2580222",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 75,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4268,20 +3190,6 @@
    "gtins": [
     "08690842899980"
    ],
-   "eprel": {
-    "registrationNumber": "2619290",
-    "energyClass": "D",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 85,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4334,20 +3242,6 @@
    "gtins": [
     "08690842919039"
    ],
-   "eprel": {
-    "registrationNumber": "2688347",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 41,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 64,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4377,20 +3271,6 @@
    "gtins": [
     "08690842918964"
    ],
-   "eprel": {
-    "registrationNumber": "2688350",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 41,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 64,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4420,20 +3300,6 @@
    "gtins": [
     "08690842886423"
    ],
-   "eprel": {
-    "registrationNumber": "2580191",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 75,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4486,20 +3352,6 @@
    "gtins": [
     "08690842932441"
    ],
-   "eprel": {
-    "registrationNumber": "2753273",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 64,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4529,20 +3381,6 @@
    "gtins": [
     "08690842881541"
    ],
-   "eprel": {
-    "registrationNumber": "2580190",
-    "energyClass": "D",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 85,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4572,20 +3410,6 @@
    "gtins": [
     "08690842906336"
    ],
-   "eprel": {
-    "registrationNumber": "2640632",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 41,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9.5,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4615,20 +3439,6 @@
    "gtins": [
     "08690842883989"
    ],
-   "eprel": {
-    "registrationNumber": "2576878",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 41,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9.5,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4658,20 +3468,6 @@
    "gtins": [
     "08003437059889"
    ],
-   "eprel": {
-    "registrationNumber": "2087115",
-    "energyClass": "B",
-    "capacity": 16,
-    "noiseDb": 38,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 66,
-    "waterLitres": 9.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 16,
@@ -4701,20 +3497,6 @@
    "gtins": [
     "08003437059896"
    ],
-   "eprel": {
-    "registrationNumber": "2087116",
-    "energyClass": "C",
-    "capacity": 16,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 77,
-    "waterLitres": 9.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 16,
@@ -4744,20 +3526,6 @@
    "gtins": [
     "08690842883880"
    ],
-   "eprel": {
-    "registrationNumber": "2573589",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 41,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9.5,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4787,20 +3555,6 @@
    "gtins": [
     "08690842883620"
    ],
-   "eprel": {
-    "registrationNumber": "2562990",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 41,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 64,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4830,20 +3584,6 @@
    "gtins": [
     "08690842899997"
    ],
-   "eprel": {
-    "registrationNumber": "2619282",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 75,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4873,20 +3613,6 @@
    "gtins": [
     "08690842887499"
    ],
-   "eprel": {
-    "registrationNumber": "2580209",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 75,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -4916,20 +3642,6 @@
    "gtins": [
     "08003437059803"
    ],
-   "eprel": {
-    "registrationNumber": "2087112",
-    "energyClass": "A",
-    "capacity": 15,
-    "noiseDb": 38,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 55,
-    "waterLitres": 9.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 15,
@@ -4959,20 +3671,6 @@
    "gtins": [
     "08003437059902"
    ],
-   "eprel": {
-    "registrationNumber": "2087117",
-    "energyClass": "A",
-    "capacity": 15,
-    "noiseDb": 38,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 55,
-    "waterLitres": 9.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 15,
@@ -5002,20 +3700,6 @@
    "gtins": [
     "08003437059810"
    ],
-   "eprel": {
-    "registrationNumber": "2087113",
-    "energyClass": "A",
-    "capacity": 15,
-    "noiseDb": 38,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 55,
-    "waterLitres": 9.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 15,
@@ -5045,20 +3729,6 @@
    "gtins": [
     "08003437059834"
    ],
-   "eprel": {
-    "registrationNumber": "2090470",
-    "energyClass": "B",
-    "capacity": 15,
-    "noiseDb": 38,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 15,
@@ -5088,20 +3758,6 @@
    "gtins": [
     "08003437059827"
    ],
-   "eprel": {
-    "registrationNumber": "2087114",
-    "energyClass": "B",
-    "capacity": 15,
-    "noiseDb": 38,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 15,
@@ -5133,20 +3789,6 @@
    "gtins": [
     "08003437060359"
    ],
-   "eprel": {
-    "registrationNumber": "2119460",
-    "energyClass": "A",
-    "capacity": 15,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 50,
-    "waterLitres": 9.5,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "eck": {
     "m": 15,
     "db": 42,
@@ -5178,20 +3820,6 @@
    "gtins": [
     "08003437059797"
    ],
-   "eprel": {
-    "registrationNumber": "2087111",
-    "energyClass": "A",
-    "capacity": 15,
-    "noiseDb": 38,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 55,
-    "waterLitres": 9.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "A",
-    "installation": "BUILT_IN"
-   },
    "eck": {
     "m": 15,
     "db": 38,
@@ -6022,20 +4650,6 @@
    "gtins": [
     "04242005535385"
    ],
-   "eprel": {
-    "registrationNumber": "2247946",
-    "energyClass": "A",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -6068,20 +4682,6 @@
    "gtins": [
     "04242005534777"
    ],
-   "eprel": {
-    "registrationNumber": "2241872",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -6114,20 +4714,6 @@
    "gtins": [
     "04242005479368"
    ],
-   "eprel": {
-    "registrationNumber": "1935614",
-    "energyClass": "B",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 64,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -6160,20 +4746,6 @@
    "gtins": [
     "04242005382347"
    ],
-   "eprel": {
-    "registrationNumber": "1319321",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -6206,20 +4778,6 @@
    "gtins": [
     "04242005542116"
    ],
-   "eprel": {
-    "registrationNumber": "2293252",
-    "energyClass": "B",
-    "capacity": 10,
-    "noiseDb": 44,
-    "widthCm": 45,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 51,
-    "waterLitres": 8.7,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -6252,20 +4810,6 @@
    "gtins": [
     "04242005482306"
    ],
-   "eprel": {
-    "registrationNumber": "1951370",
-    "energyClass": "C",
-    "capacity": 10,
-    "noiseDb": 44,
-    "widthCm": 45,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 59,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -6298,20 +4842,6 @@
    "gtins": [
     "04242005554980"
    ],
-   "eprel": {
-    "registrationNumber": "2365306",
-    "energyClass": "B",
-    "capacity": 10,
-    "noiseDb": 44,
-    "widthCm": 45,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 51,
-    "waterLitres": 8.7,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -6344,20 +4874,6 @@
    "gtins": [
     "04242005540037"
    ],
-   "eprel": {
-    "registrationNumber": "2273851",
-    "energyClass": "B",
-    "capacity": 10,
-    "noiseDb": 44,
-    "widthCm": 45,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 51,
-    "waterLitres": 8.7,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -6416,20 +4932,6 @@
    "gtins": [
     "04242005545384"
    ],
-   "eprel": {
-    "registrationNumber": "2318253",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -6462,20 +4964,6 @@
    "gtins": [
     "04242005545377"
    ],
-   "eprel": {
-    "registrationNumber": "2318252",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -6508,20 +4996,6 @@
    "gtins": [
     "04242005502561"
    ],
-   "eprel": {
-    "registrationNumber": "2020152",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -6554,20 +5028,6 @@
    "gtins": [
     "04242005426478"
    ],
-   "eprel": {
-    "registrationNumber": "1574122",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 40,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -6626,20 +5086,6 @@
    "gtins": [
     "04242005569892"
    ],
-   "eprel": {
-    "registrationNumber": "2450036",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -7180,20 +5626,6 @@
    "gtins": [
     "08690842893049"
    ],
-   "eprel": {
-    "registrationNumber": "2603253",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 64,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -7223,20 +5655,6 @@
    "gtins": [
     "08690842892851"
    ],
-   "eprel": {
-    "registrationNumber": "2603247",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 64,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -7752,20 +6170,6 @@
    "gtins": [
     "04002516908531"
    ],
-   "eprel": {
-    "registrationNumber": "2241807",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.4,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -7798,20 +6202,6 @@
    "gtins": [
     "04002516908562"
    ],
-   "eprel": {
-    "registrationNumber": "2302216",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.4,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -8465,20 +6855,6 @@
    "gtins": [
     "04242003947920"
    ],
-   "eprel": {
-    "registrationNumber": "1576176",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -8511,20 +6887,6 @@
    "gtins": [
     "04242003981566"
    ],
-   "eprel": {
-    "registrationNumber": "2318269",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -8557,20 +6919,6 @@
    "gtins": [
     "04242003970249"
    ],
-   "eprel": {
-    "registrationNumber": "2068960",
-    "energyClass": "A",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -8629,20 +6977,6 @@
    "gtins": [
     "04242003936313"
    ],
-   "eprel": {
-    "registrationNumber": "1378153",
-    "energyClass": "B",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 64,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -8675,20 +7009,6 @@
    "gtins": [
     "04242003936320"
    ],
-   "eprel": {
-    "registrationNumber": "1378151",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -8747,20 +7067,6 @@
    "gtins": [
     "04242003936337"
    ],
-   "eprel": {
-    "registrationNumber": "1378152",
-    "energyClass": "B",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 64,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -8793,20 +7099,6 @@
    "gtins": [
     "04242003936641"
    ],
-   "eprel": {
-    "registrationNumber": "1378157",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -8839,20 +7131,6 @@
    "gtins": [
     "04242003936030"
    ],
-   "eprel": {
-    "registrationNumber": "1374913",
-    "energyClass": "D",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 84,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -8885,20 +7163,6 @@
    "gtins": [
     "04242003936450"
    ],
-   "eprel": {
-    "registrationNumber": "1374916",
-    "energyClass": "D",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 84,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -8931,20 +7195,6 @@
    "gtins": [
     "04242003936658"
    ],
-   "eprel": {
-    "registrationNumber": "1378155",
-    "energyClass": "D",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 85,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -8977,20 +7227,6 @@
    "gtins": [
     "04242003989173"
    ],
-   "eprel": {
-    "registrationNumber": "2481633",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -9023,20 +7259,6 @@
    "gtins": [
     "04242003993415"
    ],
-   "eprel": {
-    "registrationNumber": "2575458",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -9069,20 +7291,6 @@
    "gtins": [
     "04242003961339"
    ],
-   "eprel": {
-    "registrationNumber": "1942204",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -9115,20 +7323,6 @@
    "gtins": [
     "04242003971611"
    ],
-   "eprel": {
-    "registrationNumber": "2094279",
-    "energyClass": "D",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 85,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -9187,20 +7381,6 @@
    "gtins": [
     "04242003979235"
    ],
-   "eprel": {
-    "registrationNumber": "2273856",
-    "energyClass": "B",
-    "capacity": 10,
-    "noiseDb": 44,
-    "widthCm": 45,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 51,
-    "waterLitres": 8.7,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -9311,20 +7491,6 @@
    "gtins": [
     "04242003977026"
    ],
-   "eprel": {
-    "registrationNumber": "2225766",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -9357,20 +7523,6 @@
    "gtins": [
     "04242003979556"
    ],
-   "eprel": {
-    "registrationNumber": "2273855",
-    "energyClass": "B",
-    "capacity": 10,
-    "noiseDb": 44,
-    "widthCm": 45,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 51,
-    "waterLitres": 8.7,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -9493,20 +7645,6 @@
    "gtins": [
     "08690842914157"
    ],
-   "eprel": {
-    "registrationNumber": "2677665",
-    "energyClass": "D",
-    "capacity": 14,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 59,
-    "energyPer100Cycles": 85,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -9536,20 +7674,6 @@
    "gtins": [
     "08690842886294"
    ],
-   "eprel": {
-    "registrationNumber": "2580220",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 56,
-    "energyPer100Cycles": 75,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 240,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -9651,20 +7775,6 @@
    "gtins": [
     "04242005529223"
    ],
-   "eprel": {
-    "registrationNumber": "2204193",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -9697,20 +7807,6 @@
    "gtins": [
     "04242005479498"
    ],
-   "eprel": {
-    "registrationNumber": "1935612",
-    "energyClass": "B",
-    "capacity": 13,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 64,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -9743,20 +7839,6 @@
    "gtins": [
     "04242005400249"
    ],
-   "eprel": {
-    "registrationNumber": "1403694",
-    "energyClass": "D",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 84,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -9789,20 +7871,6 @@
    "gtins": [
     "04242005529216"
    ],
-   "eprel": {
-    "registrationNumber": "2204191",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -9835,20 +7903,6 @@
    "gtins": [
     "04242005535392"
    ],
-   "eprel": {
-    "registrationNumber": "2247941",
-    "energyClass": "A",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -9881,20 +7935,6 @@
    "gtins": [
     "04242005180370"
    ],
-   "eprel": {
-    "registrationNumber": "250596",
-    "energyClass": "D",
-    "capacity": 13,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 84,
-    "waterLitres": 6.7,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -9927,20 +7967,6 @@
    "gtins": [
     "04242005518173"
    ],
-   "eprel": {
-    "registrationNumber": "2122420",
-    "energyClass": "B",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 64,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -9973,20 +7999,6 @@
    "gtins": [
     "04242005421213"
    ],
-   "eprel": {
-    "registrationNumber": "1456149",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -10019,20 +8031,6 @@
    "gtins": [
     "04242005539994"
    ],
-   "eprel": {
-    "registrationNumber": "2273839",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -10065,20 +8063,6 @@
    "gtins": [
     "04242005555062"
    ],
-   "eprel": {
-    "registrationNumber": "2365296",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -10111,20 +8095,6 @@
    "gtins": [
     "04242005529308"
    ],
-   "eprel": {
-    "registrationNumber": "2211447",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -10157,20 +8127,6 @@
    "gtins": [
     "04242005551095"
    ],
-   "eprel": {
-    "registrationNumber": "2346935",
-    "energyClass": "D",
-    "capacity": 10,
-    "noiseDb": 44,
-    "widthCm": 45,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 67,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -10203,20 +8159,6 @@
    "gtins": [
     "04242005554973"
    ],
-   "eprel": {
-    "registrationNumber": "2365300",
-    "energyClass": "B",
-    "capacity": 10,
-    "noiseDb": 44,
-    "widthCm": 45,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 51,
-    "waterLitres": 8.7,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -10249,20 +8191,6 @@
    "gtins": [
     "04242005555116"
    ],
-   "eprel": {
-    "registrationNumber": "2371476",
-    "energyClass": "B",
-    "capacity": 10,
-    "noiseDb": 44,
-    "widthCm": 45,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 51,
-    "waterLitres": 8.7,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -10295,20 +8223,6 @@
    "gtins": [
     "04242005501250"
    ],
-   "eprel": {
-    "registrationNumber": "2008123",
-    "energyClass": "B",
-    "capacity": 13,
-    "noiseDb": 40,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 64,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -10341,20 +8255,6 @@
    "gtins": [
     "04242005498659"
    ],
-   "eprel": {
-    "registrationNumber": "1991362",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 40,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -10387,20 +8287,6 @@
    "gtins": [
     "04242005507818"
    ],
-   "eprel": {
-    "registrationNumber": "2057137",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -10433,20 +8319,6 @@
    "gtins": [
     "04242005545407"
    ],
-   "eprel": {
-    "registrationNumber": "2318257",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -10479,20 +8351,6 @@
    "gtins": [
     "04242005498642"
    ],
-   "eprel": {
-    "registrationNumber": "1991368",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 40,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -10525,20 +8383,6 @@
    "gtins": [
     "04242005546503"
    ],
-   "eprel": {
-    "registrationNumber": "2325040",
-    "energyClass": "D",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 84,
-    "waterLitres": 6.7,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -10571,20 +8415,6 @@
    "gtins": [
     "04242005501243"
    ],
-   "eprel": {
-    "registrationNumber": "2008126",
-    "energyClass": "B",
-    "capacity": 13,
-    "noiseDb": 40,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 64,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -10617,20 +8447,6 @@
    "gtins": [
     "04242005546510"
    ],
-   "eprel": {
-    "registrationNumber": "2325043",
-    "energyClass": "B",
-    "capacity": 13,
-    "noiseDb": 40,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 64,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -10663,20 +8479,6 @@
    "gtins": [
     "04242005387502"
    ],
-   "eprel": {
-    "registrationNumber": "1330377",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 39,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -10709,20 +8511,6 @@
    "gtins": [
     "04242005436484"
    ],
-   "eprel": {
-    "registrationNumber": "1576174",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 40,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -10755,20 +8543,6 @@
    "gtins": [
     "04242005443666"
    ],
-   "eprel": {
-    "registrationNumber": "1643844",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9.5,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -10824,20 +8598,6 @@
    "gtins": [
     "04002516908319"
    ],
-   "eprel": {
-    "registrationNumber": "2238282",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 45,
-    "widthCm": 60,
-    "heightCm": 81,
-    "depthCm": 57,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.2,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -10870,20 +8630,6 @@
    "gtins": [
     "04002516907893"
    ],
-   "eprel": {
-    "registrationNumber": "2238285",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 45,
-    "widthCm": 60,
-    "heightCm": 81,
-    "depthCm": 57,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.2,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -10916,20 +8662,6 @@
    "gtins": [
     "04002516908340"
    ],
-   "eprel": {
-    "registrationNumber": "2299300",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 81,
-    "depthCm": 57,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.2,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -10962,20 +8694,6 @@
    "gtins": [
     "04002516908388"
    ],
-   "eprel": {
-    "registrationNumber": "2238301",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 45,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.2,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -11060,20 +8778,6 @@
    "gtins": [
     "04242004285397"
    ],
-   "eprel": {
-    "registrationNumber": "2034582",
-    "energyClass": "A",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -11106,20 +8810,6 @@
    "gtins": [
     "04242004288220"
    ],
-   "eprel": {
-    "registrationNumber": "2261654",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -11152,20 +8842,6 @@
    "gtins": [
     "04242004285946"
    ],
-   "eprel": {
-    "registrationNumber": "2057136",
-    "energyClass": "A",
-    "capacity": 13,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -11198,20 +8874,6 @@
    "gtins": [
     "04242004290278"
    ],
-   "eprel": {
-    "registrationNumber": "2310011",
-    "energyClass": "B",
-    "capacity": 10,
-    "noiseDb": 44,
-    "widthCm": 45,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 51,
-    "waterLitres": 8.7,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -11244,20 +8906,6 @@
    "gtins": [
     "04242004290674"
    ],
-   "eprel": {
-    "registrationNumber": "2318244",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -11290,20 +8938,6 @@
    "gtins": [
     "04242003984048"
    ],
-   "eprel": {
-    "registrationNumber": "2365299",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -11336,20 +8970,6 @@
    "gtins": [
     "04242003987094"
    ],
-   "eprel": {
-    "registrationNumber": "2436374",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -11382,20 +9002,6 @@
    "gtins": [
     "04242003980484"
    ],
-   "eprel": {
-    "registrationNumber": "2293255",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -11428,20 +9034,6 @@
    "gtins": [
     "04242003977910"
    ],
-   "eprel": {
-    "registrationNumber": "2252199",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -11474,20 +9066,6 @@
    "gtins": [
     "04242003970331"
    ],
-   "eprel": {
-    "registrationNumber": "2068968",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -11520,20 +9098,6 @@
    "gtins": [
     "04242003979563"
    ],
-   "eprel": {
-    "registrationNumber": "2273849",
-    "energyClass": "B",
-    "capacity": 10,
-    "noiseDb": 44,
-    "widthCm": 45,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 51,
-    "waterLitres": 8.7,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -11566,20 +9130,6 @@
    "gtins": [
     "04242003987100"
    ],
-   "eprel": {
-    "registrationNumber": "2436372",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -11612,20 +9162,6 @@
    "gtins": [
     "04242003970348"
    ],
-   "eprel": {
-    "registrationNumber": "2068977",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -11658,20 +9194,6 @@
    "gtins": [
     "04242003957554"
    ],
-   "eprel": {
-    "registrationNumber": "1844477",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 40,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -11704,20 +9226,6 @@
    "gtins": [
     "04242003971796"
    ],
-   "eprel": {
-    "registrationNumber": "2100144",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 40,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -11750,20 +9258,6 @@
    "gtins": [
     "04242003970294"
    ],
-   "eprel": {
-    "registrationNumber": "2068969",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -11796,20 +9290,6 @@
    "gtins": [
     "04242003982051"
    ],
-   "eprel": {
-    "registrationNumber": "2325050",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -11842,20 +9322,6 @@
    "gtins": [
     "04242003963296"
    ],
-   "eprel": {
-    "registrationNumber": "1961927",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -11888,20 +9354,6 @@
    "gtins": [
     "04242003957561"
    ],
-   "eprel": {
-    "registrationNumber": "1844483",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 40,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -11934,20 +9386,6 @@
    "gtins": [
     "04242003978481"
    ],
-   "eprel": {
-    "registrationNumber": "2255861",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -11980,20 +9418,6 @@
    "gtins": [
     "04242003970300"
    ],
-   "eprel": {
-    "registrationNumber": "2068974",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -12026,20 +9450,6 @@
    "gtins": [
     "04242003982068"
    ],
-   "eprel": {
-    "registrationNumber": "2325056",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -12072,20 +9482,6 @@
    "gtins": [
     "04242003963302"
    ],
-   "eprel": {
-    "registrationNumber": "1961928",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9.5,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -12135,20 +9531,6 @@
    "gtins": [
     "04002516907879"
    ],
-   "eprel": {
-    "registrationNumber": "2244467",
-    "energyClass": "A",
-    "capacity": 13,
-    "noiseDb": 45,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.2,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -12178,20 +9560,6 @@
    "gtins": [
     "04002516907886"
    ],
-   "eprel": {
-    "registrationNumber": "2238284",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 45,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.2,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -12316,20 +9684,6 @@
    "gtins": [
     "04242005437368"
    ],
-   "eprel": {
-    "registrationNumber": "1580564",
-    "energyClass": "D",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 84,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -12362,20 +9716,6 @@
    "gtins": [
     "04242005437047"
    ],
-   "eprel": {
-    "registrationNumber": "1580570",
-    "energyClass": "D",
-    "capacity": 14,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 85,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -12408,20 +9748,6 @@
    "gtins": [
     "04242005534388"
    ],
-   "eprel": {
-    "registrationNumber": "2238051",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -12454,20 +9780,6 @@
    "gtins": [
     "04242005543441"
    ],
-   "eprel": {
-    "registrationNumber": "2302231",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -12500,20 +9812,6 @@
    "gtins": [
     "04242005553693"
    ],
-   "eprel": {
-    "registrationNumber": "2357548",
-    "energyClass": "D",
-    "capacity": 10,
-    "noiseDb": 46,
-    "widthCm": 45,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 67,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -12546,20 +9844,6 @@
    "gtins": [
     "04242005553716"
    ],
-   "eprel": {
-    "registrationNumber": "2357547",
-    "energyClass": "D",
-    "capacity": 10,
-    "noiseDb": 46,
-    "widthCm": 45,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 67,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -12592,20 +9876,6 @@
    "gtins": [
     "04242005534746"
    ],
-   "eprel": {
-    "registrationNumber": "2241869",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -12638,20 +9908,6 @@
    "gtins": [
     "04242005479412"
    ],
-   "eprel": {
-    "registrationNumber": "1935617",
-    "energyClass": "B",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 65,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -12684,20 +9940,6 @@
    "gtins": [
     "04242005529292"
    ],
-   "eprel": {
-    "registrationNumber": "2211441",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -12730,20 +9972,6 @@
    "gtins": [
     "04242005568918"
    ],
-   "eprel": {
-    "registrationNumber": "2443654",
-    "energyClass": "B",
-    "capacity": 13,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 64,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -12776,20 +10004,6 @@
    "gtins": [
     "04242005542109"
    ],
-   "eprel": {
-    "registrationNumber": "2293254",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -12822,20 +10036,6 @@
    "gtins": [
     "04242005479481"
    ],
-   "eprel": {
-    "registrationNumber": "1935626",
-    "energyClass": "B",
-    "capacity": 13,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 64,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -12868,20 +10068,6 @@
    "gtins": [
     "04242005400232"
    ],
-   "eprel": {
-    "registrationNumber": "1403802",
-    "energyClass": "D",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 84,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -12914,20 +10100,6 @@
    "gtins": [
     "04242005417735"
    ],
-   "eprel": {
-    "registrationNumber": "1434875",
-    "energyClass": "D",
-    "capacity": 10,
-    "noiseDb": 45,
-    "widthCm": 45,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 67,
-    "waterLitres": 6.7,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -12960,20 +10132,6 @@
    "gtins": [
     "04002516907909"
    ],
-   "eprel": {
-    "registrationNumber": "2238282",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 45,
-    "widthCm": 60,
-    "heightCm": 81,
-    "depthCm": 57,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.2,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -13006,20 +10164,6 @@
    "gtins": [
     "04002516908364"
    ],
-   "eprel": {
-    "registrationNumber": "2238300",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 45,
-    "widthCm": 60,
-    "heightCm": 81,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.2,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -13052,20 +10196,6 @@
    "gtins": [
     "04002516908371"
    ],
-   "eprel": {
-    "registrationNumber": "2299303",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 81,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.2,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -13124,20 +10254,6 @@
    "gtins": [
     "04002516908418"
    ],
-   "eprel": {
-    "registrationNumber": "2244458",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 43,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.2,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -13170,20 +10286,6 @@
    "gtins": [
     "04002516908456"
    ],
-   "eprel": {
-    "registrationNumber": "2301764",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.2,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -13242,20 +10344,6 @@
    "gtins": [
     "04242004286325"
    ],
-   "eprel": {
-    "registrationNumber": "2081895",
-    "energyClass": "D",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 84,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -13288,20 +10376,6 @@
    "gtins": [
     "04242004290247"
    ],
-   "eprel": {
-    "registrationNumber": "2309996",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -13334,20 +10408,6 @@
    "gtins": [
     "04242004290254"
    ],
-   "eprel": {
-    "registrationNumber": "2309999",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -13380,20 +10440,6 @@
    "gtins": [
     "04242003984055"
    ],
-   "eprel": {
-    "registrationNumber": "2365302",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -13426,20 +10472,6 @@
    "gtins": [
     "04242003978085"
    ],
-   "eprel": {
-    "registrationNumber": "2255856",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -13472,20 +10504,6 @@
    "gtins": [
     "04242003984079"
    ],
-   "eprel": {
-    "registrationNumber": "2365295",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -13518,20 +10536,6 @@
    "gtins": [
     "04242003989616"
    ],
-   "eprel": {
-    "registrationNumber": "2496973",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -13564,20 +10568,6 @@
    "gtins": [
     "04242003978887"
    ],
-   "eprel": {
-    "registrationNumber": "2261666",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -13610,20 +10600,6 @@
    "gtins": [
     "04242003978894"
    ],
-   "eprel": {
-    "registrationNumber": "2261662",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -13656,20 +10632,6 @@
    "gtins": [
     "04242003978917"
    ],
-   "eprel": {
-    "registrationNumber": "2261665",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -13702,20 +10664,6 @@
    "gtins": [
     "04242003985564"
    ],
-   "eprel": {
-    "registrationNumber": "2404832",
-    "energyClass": "C",
-    "capacity": 14,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 75,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -13867,20 +10815,6 @@
    "gtins": [
     "04002516907299"
    ],
-   "eprel": {
-    "registrationNumber": "2244467",
-    "energyClass": "A",
-    "capacity": 13,
-    "noiseDb": 45,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.2,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -13910,20 +10844,6 @@
    "gtins": [
     "04002516908357"
    ],
-   "eprel": {
-    "registrationNumber": "2238303",
-    "energyClass": "A",
-    "capacity": 13,
-    "noiseDb": 45,
-    "widthCm": 60,
-    "heightCm": 81,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 8.2,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -13956,20 +10876,6 @@
    "gtins": [
     "04242005447282"
    ],
-   "eprel": {
-    "registrationNumber": "1673573",
-    "energyClass": "D",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 84,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -14002,20 +10908,6 @@
    "gtins": [
     "04242005534135"
    ],
-   "eprel": {
-    "registrationNumber": "2238049",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -14048,20 +10940,6 @@
    "gtins": [
     "04242005566181"
    ],
-   "eprel": {
-    "registrationNumber": "2430644",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -14094,20 +10972,6 @@
    "gtins": [
     "04242005437351"
    ],
-   "eprel": {
-    "registrationNumber": "1580573",
-    "energyClass": "D",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 84,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -14140,20 +11004,6 @@
    "gtins": [
     "04242005553679"
    ],
-   "eprel": {
-    "registrationNumber": "2357550",
-    "energyClass": "D",
-    "capacity": 10,
-    "noiseDb": 46,
-    "widthCm": 45,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 67,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -14186,20 +11036,6 @@
    "gtins": [
     "04242005553686"
    ],
-   "eprel": {
-    "registrationNumber": "2357549",
-    "energyClass": "D",
-    "capacity": 10,
-    "noiseDb": 46,
-    "widthCm": 45,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 67,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -14232,20 +11068,6 @@
    "gtins": [
     "04242005567706"
    ],
-   "eprel": {
-    "registrationNumber": "2436373",
-    "energyClass": "D",
-    "capacity": 10,
-    "noiseDb": 46,
-    "widthCm": 45,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 67,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -14278,20 +11100,6 @@
    "gtins": [
     "04242005539987"
    ],
-   "eprel": {
-    "registrationNumber": "2273840",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -14324,20 +11132,6 @@
    "gtins": [
     "04242005498635"
    ],
-   "eprel": {
-    "registrationNumber": "1991354",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9.5,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -14416,20 +11210,6 @@
    "gtins": [
     "04242004290230"
    ],
-   "eprel": {
-    "registrationNumber": "2309994",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -14462,20 +11242,6 @@
    "gtins": [
     "04242003983621"
    ],
-   "eprel": {
-    "registrationNumber": "2357555",
-    "energyClass": "D",
-    "capacity": 10,
-    "noiseDb": 46,
-    "widthCm": 45,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 67,
-    "waterLitres": 8.9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 10,
@@ -14508,20 +11274,6 @@
    "gtins": [
     "04242003980453"
    ],
-   "eprel": {
-    "registrationNumber": "2293248",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -14554,20 +11306,6 @@
    "gtins": [
     "04242003992425"
    ],
-   "eprel": {
-    "registrationNumber": "2558386",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 44,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9.5,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -14600,20 +11338,6 @@
    "gtins": [
     "04242003977866"
    ],
-   "eprel": {
-    "registrationNumber": "2247951",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9.5,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -14905,20 +11629,6 @@
    "gtins": [
     "04242005586943"
    ],
-   "eprel": {
-    "registrationNumber": "2566146",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 57,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -14951,20 +11661,6 @@
    "gtins": [
     "04242005534142"
    ],
-   "eprel": {
-    "registrationNumber": "2238048",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -14997,20 +11693,6 @@
    "gtins": [
     "04242005581993"
    ],
-   "eprel": {
-    "registrationNumber": "2530337",
-    "energyClass": "C",
-    "capacity": 13,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 85,
-    "depthCm": 60,
-    "energyPer100Cycles": 74,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "FREE_STANDING"
-   },
    "image": null,
    "eck": {
     "m": 13,
@@ -15043,20 +11725,6 @@
    "gtins": [
     "04242003971673"
    ],
-   "eprel": {
-    "registrationNumber": "2088106",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9.5,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -15089,20 +11757,6 @@
    "gtins": [
     "04242003971680"
    ],
-   "eprel": {
-    "registrationNumber": "2088108",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9.5,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -18054,20 +14708,6 @@
    "gtins": [
     "04242005430154"
    ],
-   "eprel": {
-    "registrationNumber": "1574085",
-    "energyClass": "D",
-    "capacity": 14,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 85,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -18203,20 +14843,6 @@
    "gtins": [
     "04242005442751"
    ],
-   "eprel": {
-    "registrationNumber": "1640081",
-    "energyClass": "D",
-    "capacity": 14,
-    "noiseDb": 46,
-    "widthCm": 60,
-    "heightCm": 87,
-    "depthCm": 55,
-    "energyPer100Cycles": 85,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "C",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,
@@ -18249,20 +14875,6 @@
    "gtins": [
     "04242003982136"
    ],
-   "eprel": {
-    "registrationNumber": "2325049",
-    "energyClass": "A",
-    "capacity": 14,
-    "noiseDb": 42,
-    "widthCm": 60,
-    "heightCm": 82,
-    "depthCm": 55,
-    "energyPer100Cycles": 54,
-    "waterLitres": 9,
-    "guaranteeMonths": 24,
-    "noiseClass": "B",
-    "installation": "BUILT_IN"
-   },
    "image": null,
    "eck": {
     "m": 14,

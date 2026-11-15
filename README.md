@@ -18,7 +18,7 @@ Open data on the repairability and durability of electrical devices, prepared by
 | `data/produktgruppen.json` | Je Produktgruppe: welche Angabe gilt (Nr. 20 oder 21), EU-Reparierbarkeitsklasse, Ökodesign-Frist, Anhang II RL 2024/1799, französischer Index | EUR-Lex, Légifrance, eigene Auswertung | CC BY 4.0 |
 | `data/pflicht-check.json` | Fragebaum `pflicht.v1` des Pflicht-Checks: welche Reparaturinformation ein Produkt vor dem Kauf braucht (DE, EN, FR) | eigene Auswertung | CC BY 4.0 |
 | `data/quellen.json` | Alle Quellen der Website mit Titel, Herausgeber, Adresse und Datum | eigene Zusammenstellung | CC BY 4.0 |
-| `data/smartphone-register-2026.csv` | 1.119 Smartphones aus EPREL: Registriernummer, Marke, Modell, Verkaufsname, im Verkauf seit, Update-Jahre, Ladezyklen, Akku tauschbar, Reparierbarkeitsklasse | EPREL (Herstellerangaben) | Aufbereitung CC BY 4.0, Quelldaten nach EPREL-Bedingungen |
+| Smartphone-Register (nur live) | 1.119 Smartphones aus EPREL. Enthält ausschließlich EPREL-Werte und liegt deshalb nicht in diesem Repo (dauerhaft archiviert), sondern tagesaktuell unter https://www.repairinfo.app/presse/smartphone-register-2026.csv | EPREL |
 | `data/rangliste.json` | Übersicht der Ranglisten nach dem französischen Reparierbarkeitsindex (Geschirrspüler, Staubsauger, Laptops, Rasenmäher/Hochdruckreiniger) mit Statistik je Inverkehrbringer | data.gouv.fr, ergänzt um EPREL-Werte | Licence Ouverte 2.0 (EPREL-Felder: siehe Lizenz) |
 | `data/rangliste-geschirrspueler.json`, `-staubsauger.json`, `-laptops.json` | Alle Modelle je Kategorie mit Note und fünf Teilnoten des indice de réparabilité | data.gouv.fr | Licence Ouverte 2.0 |
 | `data/rangliste-fernseher.json`, `-waschmaschinen.json` | Alle Modelle nach dem französischen indice de durabilité mit Teilnoten Reparierbarkeit und Zuverlässigkeit | data.gouv.fr | Licence Ouverte 2.0 |
@@ -34,7 +34,6 @@ Die Dateien enthalten **keine Preise, keine Partnerlinks, keine Produktbilder un
 
 **`indice/NN.json`** (Kurzschlüssel): `g` GTIN-14, `m` Modell, `h` Inverkehrbringer, `k` Kategorie (französisch), `n` Note 0 bis 10, `d` Datum der Berechnung, `doc` Link zur Dokumentation, `det` Link zur Notentabelle, `t` Ersatzteile als `[Name, Jahre verfügbar, Lieferzeit in Tagen]`, `c` fünf Teilnoten (0 bis 20), `cs: 10` wenn der Inverkehrbringer auf einer 10er-Skala gemeldet hat (dann verdoppelt). `meta.json` nennt Quelldatei, Abrufdatum und wie viele Zeilen warum verworfen wurden.
 
-**`smartphone-register-2026.csv`**: Zeile 1 ist ein Kommentar mit Quelle und Stichtag, Zeile 2 der Kopf: `eprel_nr`, `marke`, `modell`, `verkaufsname`, `im_verkauf_seit`, `updates_jahre_min`, `ladezyklen`, `akku_tauschbar` (ja/nein), `reparierbarkeitsklasse` (A bis E).
 
 ### Methode, kurz
 
@@ -57,6 +56,7 @@ Maschinenlesbar: [`CITATION.cff`](CITATION.cff).
 
 - **Aufbereitung von repairinfo.app** (Auswahl, Struktur, eigene Auswertungen, Texte): [CC BY 4.0](LICENSE), Quellenangabe „repairinfo.app, MMR Labs GmbH“ mit Stand-Datum.
 - **Daten aus data.gouv.fr**: [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence) (Etalab). Nennen: data.gouv.fr und Datum der letzten Aktualisierung; kein amtlicher Charakter. Ob die Lizenz der konsolidierten Datei auch Quelldaten einzelner Hersteller ohne Lizenzangabe erfasst, ist offen.
+- **Ohne EPREL-Werte in diesem Repo:** Felder `eprel` (Energieklasse, Geräusch, Maße) sind aus den Ranglisten entfernt, weil EPREL aktuelle Kopien verlangt und dieses Repo bei Zenodo dauerhaft archiviert wird. Die vollständigen Dateien mit EPREL-Feldern gibt es live unter https://www.repairinfo.app/daten/.
 - **Daten aus EPREL**: nach den [Nutzungsbedingungen der EPREL Public API](https://ec.europa.eu/assets/move-ener/eprel/EPREL%20Public/Public%20API%20Term%20and%20Conditions/API_TERMS_AND_CONDITIONS_EN.pdf). Quelle nennen („Quelle: EPREL, Europäische Kommission“), nicht den Eindruck einer Billigung durch die Kommission erwecken, Daten nicht als solche verkaufen, lokale Kopien aktuell halten.
 - Die Daten erklären die Rechtslage und sind **keine Rechtsberatung**. Keine Gewähr für Vollständigkeit und Richtigkeit der Herstellerangaben.
 
@@ -93,7 +93,7 @@ Fehler in den Daten? Bitte ein Issue anlegen oder über [repairinfo.app/kontakt]
 | `data/produktgruppen.json` | Per product group: which pre-contractual information applies, EU repairability class, ecodesign period, Annex II Directive 2024/1799, French index | EUR-Lex, Légifrance, own analysis | CC BY 4.0 |
 | `data/pflicht-check.json` | Decision tree `pflicht.v1`: which repair information a product needs before purchase (DE, EN, FR) | own analysis | CC BY 4.0 |
 | `data/quellen.json` | All sources cited on the website with title, publisher, URL and date | own compilation | CC BY 4.0 |
-| `data/smartphone-register-2026.csv` | 1,119 smartphones from EPREL: registration number, brand, model, sales name, on sale since, update years, charge cycles, user-replaceable battery, repairability class (column names in German) | EPREL (manufacturer declarations) | compilation CC BY 4.0, source data under EPREL terms |
+| Smartphone register (live only) | 1,119 smartphones from EPREL. Contains only EPREL values and is therefore not stored in this permanently archived repo; get it up to date at https://www.repairinfo.app/presse/smartphone-register-2026.csv | EPREL |
 | `data/rangliste.json` | Overview of rankings by the French repairability index (dishwashers, vacuum cleaners, laptops, lawn mowers/pressure washers) with statistics per company | data.gouv.fr, enriched with EPREL values | Licence Ouverte 2.0 (EPREL fields: see licence) |
 | `data/rangliste-geschirrspueler.json` (dishwashers), `-staubsauger.json` (vacuums), `-laptops.json` | All models per category with score and five sub-scores of the French *indice de réparabilité* | data.gouv.fr | Licence Ouverte 2.0 |
 | `data/rangliste-fernseher.json` (TVs), `-waschmaschinen.json` (washing machines) | All models by the French *indice de durabilité* with repairability and reliability sub-scores | data.gouv.fr | Licence Ouverte 2.0 |
@@ -113,6 +113,7 @@ Values are **manufacturer declarations** from EPREL (the European Commission's e
 
 - **repairinfo.app's compilation** (selection, structure, own analyses, texts): [CC BY 4.0](LICENSE), credit "repairinfo.app, MMR Labs GmbH" with the date.
 - **Data from data.gouv.fr**: [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence); name data.gouv.fr and the date of last update, without suggesting official status.
+- **No EPREL values in this repo:** `eprel` fields (energy class, noise, dimensions) are removed from the rankings because EPREL requires up-to-date copies and this repo is archived permanently on Zenodo. The full files including EPREL fields are available live at https://www.repairinfo.app/daten/.
 - **Data from EPREL**: under the [EPREL Public API terms](https://ec.europa.eu/assets/move-ener/eprel/EPREL%20Public/Public%20API%20Term%20and%20Conditions/API_TERMS_AND_CONDITIONS_EN.pdf): credit "Source: EPREL, European Commission", do not suggest endorsement by the Commission, do not sell the data as such, keep local copies up to date.
 - Not legal advice. No warranty for manufacturer declarations.
 
