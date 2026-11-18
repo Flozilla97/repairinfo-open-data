@@ -83,6 +83,8 @@ Fehler in den Daten? Bitte ein Issue anlegen oder über [repairinfo.app/kontakt]
 
 ---
 
+**Zenodo-Archiv:** Die Releases werden auf Zenodo dauerhaft archiviert (DOI). Die Ranglisten für Fernseher, Waschmaschinen und Geschirrspüler fehlen dort, weil sie EPREL-Eckdaten enthalten. Die EPREL-Bedingungen verlangen aktuelle Kopien, ein dauerhaftes Archiv kann das nicht leisten. In diesem Repo bleiben sie und werden wöchentlich aktualisiert.
+
 ## English
 
 ### What the data is
@@ -124,3 +126,5 @@ Free, no sign-in, read-only, 60 calls per minute, no prices or affiliate links: 
 ### Updates
 
 These files mirror www.repairinfo.app. `scripts/aktualisieren.sh` refreshes them (no keys needed); a GitHub Action runs it weekly. The version on www.repairinfo.app, with its `updated` date, is authoritative.
+
+**Zenodo archive:** Releases are archived permanently on Zenodo (DOI). The TV, washing machine and dishwasher rankings are not included there because they contain EPREL key data. The EPREL terms require stored copies to be kept up to date, which a permanent archive cannot do. They stay in this repository and are updated weekly.

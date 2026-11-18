@@ -1,0 +1,6 @@
+# Zenodo-Archiv ohne EPREL-Werte (18.11.2026, Variante a): Die EPREL-Bedingungen verlangen aktuelle Kopien, Zenodo-Versionen
+# sind dauerhaft. Diese Dateien enthalten EPREL-Eckdaten (Feld "eck") und fehlen deshalb in den Release-Archiven (git archive /
+# GitHub-ZIP, das Zenodo abholt). Im Repo bleiben sie und werden wöchentlich aktualisiert.
+data/rangliste-fernseher.json export-ignore
+data/rangliste-geschirrspueler.json export-ignore
+data/rangliste-waschmaschinen.json export-ignore

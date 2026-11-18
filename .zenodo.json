@@ -1,14 +1,37 @@
 {
   "upload_type": "dataset",
-  "title": "repairinfo open data: repairability and durability of electrical devices (EPREL, data.gouv.fr)",
-  "description": "<p>Open data on the repairability and durability of electrical devices, prepared by repairinfo.app (MMR Labs GmbH) from the EU product database EPREL and the French repairability and durability indices on data.gouv.fr.</p><p>Contents: spare-part periods per product group under EU ecodesign regulations; product groups and applicable information duties; rankings of dishwashers, vacuum cleaners and laptops by the French repairability index and of TVs and washing machines by the French durability index; a smartphone register from EPREL (repairability class, update years, charge cycles, replaceable battery); a cleaned GTIN extract of the French repairability index.</p><p>Values are manufacturer declarations; repairinfo.app does not test devices. The French index is a national score, not an EU repairability score. No prices, affiliate links or personal data. Licences: repairinfo.app compilation CC BY 4.0; data.gouv.fr data Licence Ouverte 2.0; EPREL data under the EPREL Public API terms (credit: Source: EPREL, European Commission; no endorsement implied). Current version: https://www.repairinfo.app/daten-und-api/</p>",
-  "creators": [{ "name": "repairinfo.app, MMR Labs GmbH" }],
+  "title": "repairinfo open data: repairability of electrical devices (French repairability index, EU spare-part rules)",
+  "description": "<p>Open data on the repairability of electrical devices, prepared by repairinfo.app (MMR Labs GmbH) from the French repairability index on data.gouv.fr and from EU ecodesign rules.</p><p>Contents of this archive: spare-part periods per product group under EU ecodesign regulations; product groups and applicable information duties; a checklist of information duties; a list of legal sources; rankings of laptops and vacuum cleaners by the French repairability index; a cleaned GTIN extract of the French repairability index.</p><p>Not included: values from the EU product database EPREL (smartphone register, TV, washing machine and dishwasher rankings with EPREL key data). The EPREL terms require stored copies to be kept up to date, which a permanent archive cannot do. These files are updated weekly in the GitHub repository https://github.com/Flozilla97/repairinfo-open-data and at https://www.repairinfo.app/en/data-and-api/.</p><p>Values are manufacturer declarations; repairinfo.app does not test devices. The French index is a national score, not an EU repairability score. No prices, affiliate links or personal data. Licences: repairinfo.app compilation CC BY 4.0; data.gouv.fr data Licence Ouverte 2.0.</p>",
+  "creators": [
+    {
+      "name": "repairinfo.app, MMR Labs GmbH"
+    }
+  ],
   "license": "cc-by-4.0",
-  "keywords": ["repairability", "right to repair", "EPREL", "ecodesign", "energy label", "indice de réparabilité", "indice de durabilité", "spare parts", "open data"],
+  "keywords": [
+    "repairability",
+    "right to repair",
+    "ecodesign",
+    "indice de réparabilité",
+    "spare parts",
+    "open data"
+  ],
   "related_identifiers": [
-    { "identifier": "https://www.repairinfo.app/daten-und-api/", "relation": "isDocumentedBy", "resource_type": "other" },
-    { "identifier": "https://www.data.gouv.fr/datasets/fichiers-consolides-des-donnees-respectant-le-schema-indice-de-reparabilite", "relation": "isDerivedFrom", "resource_type": "dataset" },
-    { "identifier": "https://eprel.ec.europa.eu/", "relation": "isDerivedFrom", "resource_type": "dataset" }
+    {
+      "identifier": "https://www.repairinfo.app/en/data-and-api/",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://www.data.gouv.fr/datasets/fichiers-consolides-des-donnees-respectant-le-schema-indice-de-reparabilite",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://github.com/Flozilla97/repairinfo-open-data",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    }
   ],
   "language": "eng"
 }
