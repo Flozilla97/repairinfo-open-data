@@ -1,5 +1,7 @@
 # repairinfo open data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24354156.svg)](https://doi.org/10.5281/zenodo.24354156)
+
 Offene Daten zur Reparierbarkeit und Haltbarkeit von Elektrogeräten, aufbereitet von [repairinfo.app](https://www.repairinfo.app/daten-und-api/) (MMR Labs GmbH) aus der EU-Produktdatenbank EPREL und aus data.gouv.fr.
 
 Open data on the repairability and durability of electrical devices, prepared by [repairinfo.app](https://www.repairinfo.app/en/data-and-api/) (MMR Labs GmbH) from the EU product database EPREL and from data.gouv.fr.
@@ -83,7 +85,7 @@ Fehler in den Daten? Bitte ein Issue anlegen oder über [repairinfo.app/kontakt]
 
 ---
 
-**Zenodo-Archiv:** Die Releases werden auf Zenodo dauerhaft archiviert (DOI). Die Ranglisten für Fernseher, Waschmaschinen und Geschirrspüler fehlen dort, weil sie EPREL-Eckdaten enthalten. Die EPREL-Bedingungen verlangen aktuelle Kopien, ein dauerhaftes Archiv kann das nicht leisten. In diesem Repo bleiben sie und werden wöchentlich aktualisiert.
+**Zenodo-Archiv:** Die Releases werden auf Zenodo dauerhaft archiviert, DOI für alle Versionen: [10.5281/zenodo.24354156](https://doi.org/10.5281/zenodo.24354156). Die Ranglisten für Fernseher, Waschmaschinen und Geschirrspüler fehlen dort, weil sie EPREL-Eckdaten enthalten. Die EPREL-Bedingungen verlangen aktuelle Kopien, ein dauerhaftes Archiv kann das nicht leisten. In diesem Repo bleiben sie und werden wöchentlich aktualisiert.
 
 ## English
 
@@ -127,4 +129,4 @@ Free, no sign-in, read-only, 60 calls per minute, no prices or affiliate links: 
 
 These files mirror www.repairinfo.app. `scripts/aktualisieren.sh` refreshes them (no keys needed); a GitHub Action runs it weekly. The version on www.repairinfo.app, with its `updated` date, is authoritative.
 
-**Zenodo archive:** Releases are archived permanently on Zenodo (DOI). The TV, washing machine and dishwasher rankings are not included there because they contain EPREL key data. The EPREL terms require stored copies to be kept up to date, which a permanent archive cannot do. They stay in this repository and are updated weekly.
+**Zenodo archive:** Releases are archived permanently on Zenodo, DOI for all versions: [10.5281/zenodo.24354156](https://doi.org/10.5281/zenodo.24354156). The TV, washing machine and dishwasher rankings are not included there because they contain EPREL key data. The EPREL terms require stored copies to be kept up to date, which a permanent archive cannot do. They stay in this repository and are updated weekly.
